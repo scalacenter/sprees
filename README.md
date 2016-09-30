@@ -1,0 +1,2 @@
+# hackathons
+Scala Center hackathons
