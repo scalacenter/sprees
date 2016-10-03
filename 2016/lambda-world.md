@@ -7,7 +7,7 @@
 | [scalafmt](https://github.com/olafurpg/scalafmt/issues?q=is%3Aissue+is%3Aopen+label%3Ahackathon), ["Hacking on scalafmt"](https://github.com/olafurpg/scalafmt#hacking-on-scalafmt) | Olaf             |
 | [scala.meta](https://github.com/scalameta/scalameta/issues?q=is%3Aissue+is%3Aopen+label%3AHackathon)                                                                                | Jorge, Olaf      |
 | [rapture](https://github.com/propensive/rapture/issues/242)                                                                                                                         | Jon              |
-| [cats](https://github.com/typelevel/cats/issues?q=is%3Aopen+is%3Aissue+label%3A%22low-hanging+fruit%22)                                                                             | Erik, Juan       |
+| [cats](https://github.com/typelevel/cats/issues?q=is%3Aopen+is%3Aissue+label%3A%22low-hanging+fruit%22)                                                                             | Erik, Juan Manuel       |
 | [jawn](https://github.com/non/jawn/issues)                                                                                                                                          | Erik             |
 | Your project here? Don't hesitate to send us a PR :)                                                                                                                                |                  |
 
@@ -22,6 +22,8 @@
 * [olafurpg/scalafmt#483](https://github.com/olafurpg/scalafmt/pull/483)
 * [olafurpg/scalafmt#484](https://github.com/olafurpg/scalafmt/pull/484)
 * [propensive/rapture#245](https://github.com/propensive/rapture/pull/245)
+* [propensive/rapture#244](https://github.com/propensive/rapture/pull/244)
+* [propensive/rapture#243](https://github.com/propensive/rapture/pull/243)
 * [scalacenter/scaladex#264](https://github.com/scalacenter/scaladex/pull/264)
 * [scalacenter/scaladex#265](https://github.com/scalacenter/scaladex/pull/265)
 * [scalacenter/scaladex#266](https://github.com/scalacenter/scaladex/pull/266)
