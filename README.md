@@ -7,7 +7,6 @@
 | scalafix   | ["hackathon"][scalafix]  | [contributing][scalafix-contrib] | [@olafurpg][olafurpg]                                    |
 | scalafmt   | ["hackathon"][scalafmt]  | [quick-help][scalafmt-contrib]   | [@olafurpg][olafurpg]                                    |
 | scala.meta | ["hackathon"][scalameta] | [tutorial][scalameta-contrib]    | [@olafurpg][olafurpg], [@xeno-by][xeno-by]               |
-| scala.meta | ["hackathon"][scalameta] | [tutorial][scalameta-contrib]    | [@olafurpg][olafurpg], [@xeno-by][xeno-by]               |
 
 Want to add your project to the list? Please send us a PR :)
 
