@@ -34,4 +34,4 @@ Want to add your project to the list? Please send us a PR :)
 [scalameta-contrib]: http://scalameta.org/tutorial/
 [zinc-contrib]: https://github.com/sbt/zinc/blob/1.0/CONTRIBUTING.md
 [scaladex-contrib]: https://github.com/scalacenter/scaladex/blob/master/doc/dev/README.md
-[sbt-contrib]: https://github.com/sbt/sbt/blob/1.0.x/CONTRIBUTING.md
+[sbt-contrib]: https://github.com/sbt/sbt/tree/0.13
