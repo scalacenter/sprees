@@ -7,19 +7,31 @@
 | scalafix   | ["hackathon"][scalafix]  | [contributing][scalafix-contrib] | [@olafurpg][olafurpg]                                    |
 | scalafmt   | ["hackathon"][scalafmt]  | [quick-help][scalafmt-contrib]   | [@olafurpg][olafurpg]                                    |
 | scala.meta | ["hackathon"][scalameta] | [tutorial][scalameta-contrib]    | [@olafurpg][olafurpg], [@xeno-by][xeno-by]               |
+| Zinc    | ["hackathon"][zinc]   | [contributing][zinc-contrib]  | [@jvican][jvican], [@dwijnand][dwijnand], [@eed3si9n][eed3si9n] |
+| sbt    | ["hackathon"][sbt]   | [contributing][sbt-contrib]  | [@dwijnand][dwijnand], [@eed3si9n][eed3si9n],  [@jvican][jvican] |
+| Scaladex    | ["hackathon"][scaladex]   | [contributing][scaladex-contrib]  | [@MasseGuillaume][MasseGuillaume], [@jvican][jvican] |
 
 Want to add your project to the list? Please send us a PR :)
 
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [xeno-by]: https://github.com/xeno-by
 [olafurpg]: https://github.com/olafurpg
+[jvican]: https://github.com/jvican
+[eed3si9n]: https://github.com/eed3si9n
+[dwijnand]: https://github.com/dwijnand
 
 [scalafmt]: https://github.com/olafurpg/scalafmt/labels/hackathon
 [scalameta]: https://github.com/scalameta/scalameta/labels/hackathon
 [scalafix]: https://github.com/scalacenter/scalafix/labels/hackathon
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
+[zinc]: https://github.com/sbt/zinc/labels/hackathon
+[scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
+[sbt]: https://github.com/sbt/sbt/projects/3
 
 [scastie-contrib]: https://github.com/scalacenter/scastie/blob/master/CONTRIBUTING.md
 [scalafix-contrib]: https://github.com/scalacenter/scalafix/blob/master/CONTRIBUTING.md
 [scalafmt-contrib]: https://github.com/olafurpg/scalafmt#quick-help
 [scalameta-contrib]: http://scalameta.org/tutorial/
+[zinc-contrib]: https://github.com/sbt/zinc/blob/1.0/CONTRIBUTING.md
+[scaladex-contrib]: https://github.com/scalacenter/scaladex/blob/master/doc/dev/README.md
+[sbt-contrib]: https://github.com/sbt/sbt/blob/1.0.x/CONTRIBUTING.md
