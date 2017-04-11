@@ -11,6 +11,9 @@ could work on.
 | -------                          | -------                           |
 | [scastie][scastie]               | [@MasseGuillaume][MasseGuillaume] |
 | [scaladex][scaladex]             | [@MasseGuillaume][MasseGuillaume] |
+| [scala-lang site](https://github.com/scala/scala-lang/issues)            | [@SethTisue](http://github.com/SethTisue) |
+| [docs.scala-lang site](https://github.com/scala/scala.github.com/issues) | [@SethTisue](http://github.com/SethTisue) |
+| [scala](https://github.com/scala/bug/issues)<br>(spec, api docs, stdlib, compiler) | [@SethTisue](http://github.com/SethTisue) |
 | add your project here!           |                                   |
 
 Want to add your project to the list? Please send us a PR :)
