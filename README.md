@@ -24,9 +24,9 @@ Want to add your project to the list? Please send us a PR :)
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [SethTisue]: https://github.com/SethTisue
 
-[docs.scala-lang.org]: https://github.com/scala/scala.github.com/issues
+[docs.scala-lang]: https://github.com/scala/scala.github.com/issues
 [scala]: https://github.com/scala/bug/issues
-[scala-lang.org]: https://github.com/scala/scala-lang/issues
+[scala-lang]: https://github.com/scala/scala-lang/issues
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 
