@@ -9,8 +9,8 @@ could work on.
 
 | Project                          | Contact                           |
 | -------                          | -------                           |
-| [scastie][scastie]               | [@MasseGuillaume](MasseGuillaume) |
-| [scaladex][scaladex]             | [@MasseGuillaume](MasseGuillaume) |
+| [scastie][scastie]               | [@MasseGuillaume][MasseGuillaume] |
+| [scaladex][scaladex]             | [@MasseGuillaume][MasseGuillaume] |
 | add your project here!           |                                   |
 
 Want to add your project to the list? Please send us a PR :)
