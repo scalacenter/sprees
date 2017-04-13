@@ -51,11 +51,11 @@ of the event.
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [SethTisue]: https://github.com/SethTisue
 [propensive]: https://github.com/propensive
-[cvogt]: https://github.com/cvogt/cbt
+[cvogt]: https://github.com/cvogt
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues
 [scala]: https://github.com/scala/bug/issues
 [scala-lang]: https://github.com/scala/scala-lang/issues
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
-[cbt]: https://github.com/cbt
+[cbt]: https://github.com/cvogt/cbt
