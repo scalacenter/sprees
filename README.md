@@ -34,7 +34,10 @@ Here is a list of projects that you could contribute to during the spree:
 | [scala][scala]<br>(spec, api docs, lib, compiler) | [@SethTisue][SethTisue]           |
 | add your project here!                            |                                   |
 
-Jon Pretty (aka [@propensive][propensive]) will also be present to assist participants.
+Who will be leading the Scala Open Source Spree?
+- Guillaume Massé, [@MasseGuillaume][MasseGuillaume]
+- Seth Tisue, [@SethTisue][SethTisue] 
+- Jon Pretty, [@propensive][propensive]
 
 Want to add your project to the list? Please send us a PR :) Note that you must (1) 
 
