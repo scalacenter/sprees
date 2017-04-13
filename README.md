@@ -14,7 +14,7 @@ Swissôtel Chicago<br />
 Chicago, IL 60601<br />
 Look for room “Zurich C” (basement floor) - that’s where we will be<br />
 
-We will start at 10am and hack until 4pm.
+We will start at 10am and hack until 4pm (free food will be provided).
 
 ## Projects
 
