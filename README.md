@@ -1,11 +1,24 @@
 # [Scala Days Chicago](http://event.scaladays.org/scaladays-chicago-2017)
 
-The Scala Center is organizing a Hackathon at Scala Days, on Tuesday, April 18.
+The Scala Center is organizing an *Open Source Spree* at Scala Days, on Tuesday, April 18.
 
-To make it easier to organize, we collect here a list of projects that attendees
-could work on.
+The goal of this event is to make contributors and users of Scala open source projects
+meet and hack for the good of the Scala community!
 
 [![Join the chat at https://gitter.im/scalacenter/hackathons](https://badges.gitter.im/scalacenter/hackathons.svg)](https://gitter.im/scalacenter/hackathons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+## Where and when?
+
+Swissôtel Chicago<br />
+323 E Upper Wacker Dr.<br />
+Chicago, IL 60601<br />
+Look for room “Zurich C” (basement floor) - that’s where we will be<br />
+
+We will start at 10am and hack until 5pm.
+
+## Projects
+
+Here is a list of projects that you could contribute to during the spree:
 
 | Project                                           | Contact                           |
 | -------                                           | -------                           |
@@ -18,7 +31,7 @@ could work on.
 
 Want to add your project to the list? Please send us a PR :)
 
-
+We advise project maintainers to prepare a list of issues that are newcomer-friendly.
 
 
 [MasseGuillaume]: https://github.com/MasseGuillaume
