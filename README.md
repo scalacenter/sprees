@@ -2,8 +2,13 @@
 
 The Scala Center is organizing an *Open Source Spree* at Scala Days, on Tuesday, April 18.
 
-The goal of this event is to make contributors and users of Scala open source projects
-meet and hack for the good of the Scala community!
+The focus of Scala Sprees are to introduce newcomers to open source! Come learn how to 
+contribute to open source Scala projects. Meet other contributors on well-known open 
+source Scala projects.
+
+**Your challenge?** Get one pull request merged into one of the represented Scala projects,
+and get this awesome t-shirt:
+![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:large)
 
 [![Join the chat at https://gitter.im/scalacenter/hackathons](https://badges.gitter.im/scalacenter/hackathons.svg)](https://gitter.im/scalacenter/hackathons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -14,7 +19,7 @@ Swissôtel Chicago<br />
 Chicago, IL 60601<br />
 Look for room “Zurich C” (basement floor) - that’s where we will be<br />
 
-We will start at 10am and hack until 4pm (free food will be provided).
+We will start at 10am and go until 4pm (free food will be provided).
 
 ## Projects
 
@@ -31,9 +36,10 @@ Here is a list of projects that you could contribute to during the spree:
 
 Jon Pretty (aka [@propensive][propensive]) will also be present to assist participants.
 
-Want to add your project to the list? Please send us a PR :)
+Want to add your project to the list? Please send us a PR :) Note that you must (1) 
 
 We advise project maintainers to prepare a list of issues that are newcomer-friendly.
+
 
 
 [MasseGuillaume]: https://github.com/MasseGuillaume
