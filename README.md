@@ -51,7 +51,7 @@ of the event.
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [SethTisue]: https://github.com/SethTisue
 [propensive]: https://github.com/propensive
-[cvogt]: https://github.com/cvogt
+[cvogt]: https://github.com/cvogt/cbt
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues
 [scala]: https://github.com/scala/bug/issues
