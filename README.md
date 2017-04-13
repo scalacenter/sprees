@@ -11,7 +11,7 @@ contribution to one of the represented Scala projects is welcome.
 
 **Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
-![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:large)
+![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
 [![Join the chat at https://gitter.im/scalacenter/hackathons](https://badges.gitter.im/scalacenter/hackathons.svg)](https://gitter.im/scalacenter/hackathons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
