@@ -9,6 +9,8 @@ source Scala projects.
 You don't have to be new to open source to attend -- anyone who wants help making a
 contribution to one of the represented Scala projects is welcome.
 
+The event is free. Conference registration is not required.
+
 **Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
