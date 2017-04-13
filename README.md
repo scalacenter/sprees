@@ -2,11 +2,14 @@
 
 The Scala Center is organizing an *Open Source Spree* at Scala Days, on Tuesday, April 18.
 
-The focus of Scala Sprees are to introduce newcomers to open source! Come learn how to 
+The focus of Scala Sprees is to introduce newcomers to open source! Come learn how to 
 contribute to open source Scala projects. Meet other contributors on well-known open 
 source Scala projects.
 
-**Your challenge?** Get one pull request merged into one of the represented Scala projects,
+You don't have to be new to open source to attend -- anyone who wants help making a
+contribution to one of the represented Scala projects is welcome.
+
+**Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:large)
 
@@ -36,9 +39,9 @@ Here is a list of projects that you could contribute to during the spree:
 | add your project here!                            |                                   |
 
 Who will be leading the Scala Open Source Spree?
-- Guillaume Massé, [@MasseGuillaume][MasseGuillaume]
-- Seth Tisue, [@SethTisue][SethTisue] 
-- Jon Pretty, [@propensive][propensive]
+- Guillaume Massé, [@MasseGuillaume][MasseGuillaume] (Scala Center)
+- Seth Tisue, [@SethTisue][SethTisue] (Lightbend)
+- Jon Pretty, [@propensive][propensive] (Propensive)
 
 Want to add your project to the list? Please send us a PR :) For your project to be represented at 
 the Scala Open Source Spree, you must (1) be present for the duration of the Scala Open Source Spree 
