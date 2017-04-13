@@ -32,6 +32,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scala-lang.org][scala-lang]                      | [@SethTisue][SethTisue]           |
 | [docs.scala-lang.org][docs.scala-lang]            | [@SethTisue][SethTisue]           |
 | [scala][scala]<br>(spec, api docs, lib, compiler) | [@SethTisue][SethTisue]           |
+| [cbt][cbt] - simple, fast scala builds            | [@cvogt][cvogt]                   |
 | add your project here!                            |                                   |
 
 Who will be leading the Scala Open Source Spree?
@@ -47,6 +48,7 @@ of the event.
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [SethTisue]: https://github.com/SethTisue
 [propensive]: https://github.com/propensive
+[cbt]: https://github.com/cbt
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues
 [scala]: https://github.com/scala/bug/issues
