@@ -29,6 +29,8 @@ Here is a list of projects that you could contribute to during the spree:
 | [scala][scala]<br>(spec, api docs, lib, compiler) | [@SethTisue][SethTisue]           |
 | add your project here!                            |                                   |
 
+Jon Pretty (aka [@propensive][propensive]) will also be present to assist participants.
+
 Want to add your project to the list? Please send us a PR :)
 
 We advise project maintainers to prepare a list of issues that are newcomer-friendly.
@@ -36,6 +38,7 @@ We advise project maintainers to prepare a list of issues that are newcomer-frie
 
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [SethTisue]: https://github.com/SethTisue
+[propensive]: https://github.com/propensive
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues
 [scala]: https://github.com/scala/bug/issues
