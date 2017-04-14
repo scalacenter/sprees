@@ -70,7 +70,7 @@ There is only one requirement to submit a project -- you need to be present for
 the duration of the Scala Center spree. Your physical presence is important to
 assist and motivate contributors.
 
-If you are a maintainer of an open-source Scala project, open a PR to add your
+If you are a maintainer of an open-source Scala project, make a PR to add your
 project to the list!
 
 ### What you need to do
