@@ -114,5 +114,6 @@ contributors, we recommend you to:
     your ticket is relevant will motivate participants.
 * Add links to source code sparingly. Show the entry-points for the requested
     functionality / fix, give a basic explanation of the code structure.
-* Be concise and detail specifics to your project or its implementation that are
-    relevant for the ticket.
+* Be concise and detail specifics of your project or its implementation.
+    Providing this kind of domain knowledge to participants will help them
+    finish off their tickets sooner, and move to the next one!
