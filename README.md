@@ -61,3 +61,58 @@ of the event.
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [cbt]: https://github.com/cvogt/cbt
+
+## How to propose a project
+
+A Scala Center spree is the perfect event to gauge interest in your open-source
+projects. You not only have the opportunity to get new contributors involved in
+your project, but you can win friends and lifetime maintainers that help you
+make a difference in the open-source world.
+
+There is only one requirement to submit a project -- you need to be present for
+the duration of the Scala Center spree to assist contributors.  Your physical
+presence is important to help and motivate them!
+
+If you are a maintainer of an open-source Scala project, open a PR to add your
+project to the list!
+
+### What you need to do
+
+Add a PR with the following information:
+  
+* Project information.
+* Your contact details.
+* A link to a "spree" or "hackathon" label with curated tickets for the
+  participants. See [this project](https://github.com/sbt/zinc/labels/hackathon) for inspiration.
+
+It's important that the tickets you curate are entry-level, typical issues that
+would take you 15-20 minutes of your time as an experienced maintainer. In our
+experience, newcomers will take 1 to 2 hours to solve them, depending on their
+level of familiarity with the codebase and their experience.
+
+#### How to be an effective maintainer
+
+Maintainers can make a difference by tweaking some knobs:
+  
+* Provide a `CONTRIBUTING` guide. Contributing guides explain to newcomers the
+    usual workflow to get started and what's expected from them. Good guides:
+    [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.m://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
+    [sbt/zinc](https://github.com/sbt/zinc/blob/1.0/CONTRIBUTING.md), [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.m://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
+		[scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
+* Provide a motivating `README` with clear instructions. Make sure docs are up to date.
+* Link to documentation when possible, or show contributors how to search for docs.
+* [Be nice to newcomers](http://brson.github.io/2017/04/05/minimally-nice-maintainer), they will always remember it!
+
+#### How to write good tickets
+
+Curating tickets is not easy. If you want to optimize for the highest number of
+contributors, we recommend you to:
+  
+* Give hints on potential solutions. Say which solutions are not on the table,
+    if any.
+* Describe the purpose of the ticket and its context. Having a clear idea of why
+    your ticket is relevant will motivate participants.
+* Add links to source code sparingly. Show the entry-points for the requested
+    functionality / fix, give a basic explanation of the code structure.
+* Be concise and detail specifics to your project or its implementation that are
+    relevant for the ticket.
