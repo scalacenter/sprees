@@ -78,7 +78,7 @@ project to the list!
 
 ### What you need to do
 
-Add a PR with the following information:
+Create a PR with the following information:
   
 * Project information.
 * Your contact details.
