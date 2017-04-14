@@ -70,8 +70,8 @@ much detail. A link to this page is provided.
 
 When they are done, participants approach the projects they are most interested
 in and get it contact with the maintainers. At this point, maintainers usually
-hear the participants' experience and provide personal guidance on tickets that
-would suit them.
+listen to the participants' experience and provide personal guidance on tickets
+that would suit them.
 
 Then, the fun begins! Participants start hacking on their projects and
 maintainers review PRs as they come, assisting participants when they ask for
@@ -82,7 +82,7 @@ for two reasons:
 2. It increases the motivation of the participants.
 
 If participants get the first PR merged, they are invited to continue solving
-issues until they feel they are happy with their work!
+issues until they are happy with their work!
 
 At the middle of the spree, the Scala Center and sponsors of the event provide
 maintainers and participants alike with some refreshment (drinks, sandwiches,
@@ -91,7 +91,7 @@ pizza, etc).
 Participants can leave the event at any time they want. When the time approaches
 the end, everyone starts to wrap up: participants finish their PRs while
 maintainers finish their review, and organizers of the spree give away Scala
-t-shirts.
+t-shirts. We finish by thanking your hard work for open-source.
 
 ## How to propose a project
 
