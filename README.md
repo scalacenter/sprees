@@ -69,7 +69,7 @@ a good high-level explanation to motivate participants without going into too
 much detail. A link to this page is provided.
 
 When they are done, participants approach the projects they are most interested
-on and get it contact with the maintainers. At this point, maintainers usually
+in and get it contact with the maintainers. At this point, maintainers usually
 hear the participants' experience and provide personal guidance on tickets that
 would suit them.
 
