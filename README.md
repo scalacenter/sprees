@@ -100,8 +100,11 @@ Maintainers can make a difference by tweaking some knobs:
     [sbt/zinc](https://github.com/sbt/zinc/blob/1.0/CONTRIBUTING.md), [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.m://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
 		[scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
 * Provide a motivating `README` with clear instructions. Make sure docs are up to date.
-* Link to documentation when possible, or show contributors how to search for docs.
-* [Be nice to newcomers](http://brson.github.io/2017/04/05/minimally-nice-maintainer), they will always remember it!
+* Link to documentation when possible, or show contributors how to search for
+    docs. You can label as `docs` any issue or PR with relevant discussions to
+    get acquainted with implementation details and design decisions.
+* [Be nice to newcomers](http://brson.github.io/2017/04/05/minimally-nice-maintainer), they
+    will always remember it!
 
 #### How to write good tickets
 
