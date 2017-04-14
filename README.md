@@ -45,10 +45,7 @@ Who will be leading the Scala Open Source Spree?
 - Seth Tisue, [@SethTisue][SethTisue] (Lightbend)
 - Jon Pretty, [@propensive][propensive] (Propensive)
 
-Want to add your project to the list? Please send us a PR :) For your project to be represented at 
-the Scala Open Source Spree, you must (1) be present for the duration of the Scala Open Source Spree 
-to assist new contributors, and (2) you must curate a handful of entry-level tickets (~4-5) ahead 
-of the event.
+Want to add your project to the list? Jump to the next section!
 
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [SethTisue]: https://github.com/SethTisue
