@@ -59,6 +59,40 @@ Want to add your project to the list? Jump to the next section!
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [cbt]: https://github.com/cvogt/cbt
 
+## Duration, pace steps
+
+The spree is usually 5 to 6 hours long.
+
+At the beginning, maintainers gather together in front of all the contributors
+to briefly explain their projects and tickets in one minute. The idea is to give
+a good high-level explanation to motivate participants without going into too
+much detail. A link to this page is provided.
+
+When they are done, participants approach the projects they are most interested
+on and get it contact with the maintainers. At this point, maintainers usually
+hear the participants' experience and provide personal guidance on tickets that
+would suit them.
+
+Then, the fun begins! Participants start hacking on their projects and
+maintainers review PRs as they come, assisting participants when they ask for
+help. We encourage maintainers to merge as many PRs as possible in the place,
+for two reasons:
+  
+1. Participants get a small token of appreciation from the Scala Center.
+2. It increases the motivation of the participants.
+
+If participants get the first PR merged, they are invited to continue solving
+issues until they feel they are happy with their work!
+
+At the middle of the spree, the Scala Center and sponsors of the event provide
+maintainers and participants alike with some refreshment (drinks, sandwiches,
+pizza, etc).
+
+Participants can leave the event at any time they want. When the time approaches
+the end, everyone starts to wrap up: participants finish their PRs while
+maintainers finish their review, and organizers of the spree give away Scala
+t-shirts.
+
 ## How to propose a project
 
 A Scala Center spree is the perfect event to gauge interest in your open-source
