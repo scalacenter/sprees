@@ -83,12 +83,12 @@ Create a PR with the following information:
 * Project information.
 * Your contact details.
 * A link to a "spree" or "hackathon" label with curated tickets for the
-  participants. See [this project](https://github.com/sbt/zinc/labels/hackathon) for inspiration.
+  participants. See [this project](https://github.com/sbt/zinc/issues?utf8=✓&q=label:hackathon%20is:issue) for inspiration.
 
-It's important that the tickets you curate are entry-level, typical issues that
-would take you 15-20 minutes of your time as an experienced maintainer. In our
-experience, newcomers will take 1 to 2 hours to solve them, depending on their
-level of familiarity with the codebase and their experience.
+It's important that the curated tickets are entry-level, typical issues that you
+would solve in 15-20 minutes of your time as an experienced maintainer. In our
+experience, newcomers will take 1 to 2 hours to address them, assuming they are
+unfamiliar with the codebase and this is their first contribution.
 
 #### How to be an effective maintainer
 
