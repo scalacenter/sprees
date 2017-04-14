@@ -70,8 +70,8 @@ your project, but you can win friends and lifetime maintainers that help you
 make a difference in the open-source world.
 
 There is only one requirement to submit a project -- you need to be present for
-the duration of the Scala Center spree to assist contributors.  Your physical
-presence is important to help and motivate them!
+the duration of the Scala Center spree. Your physical presence is important to
+assist and motivate contributors.
 
 If you are a maintainer of an open-source Scala project, open a PR to add your
 project to the list!
