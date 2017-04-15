@@ -30,15 +30,18 @@ We will start at 10am and go until 4pm (free food will be provided).
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                           | Contact                           |
-| -------                                           | -------                           |
-| [scastie][scastie]                                | [@MasseGuillaume][MasseGuillaume] |
-| [scaladex][scaladex]                              | [@MasseGuillaume][MasseGuillaume] |
-| [scala-lang.org][scala-lang]                      | [@SethTisue][SethTisue]           |
-| [docs.scala-lang.org][docs.scala-lang]            | [@SethTisue][SethTisue]           |
-| [scala][scala]<br>(spec, api docs, lib, compiler) | [@SethTisue][SethTisue]           |
-| [cbt][cbt] - simple, fast scala builds            | [@cvogt][cvogt]                   |
-| add your project here!                            |                                   |
+| Project                                                             | Contact                           |
+| -------                                                             | -------                           |
+| [scastie][scastie]                                                  | [@MasseGuillaume][MasseGuillaume] |
+| [scaladex][scaladex]                                                | [@MasseGuillaume][MasseGuillaume] |
+| [scala-lang.org][scala-lang]                                        | [@SethTisue][SethTisue]           |
+| [docs.scala-lang.org][docs.scala-lang]                              | [@SethTisue][SethTisue]           |
+| [scala][scala]<br>(spec, api docs, lib, compiler)                   | [@SethTisue][SethTisue]           |
+| [cbt][cbt] - simple, fast scala builds                              | [@cvogt][cvogt]                   |
+| [contextual][contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
+| [xylophone][xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
+| [testaceous][testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
+| add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
 - Guillaume Massé, [@MasseGuillaume][MasseGuillaume] (Scala Center)
