@@ -61,6 +61,9 @@ Want to add your project to the list? Jump to the next section!
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [cbt]: https://github.com/cvogt/cbt
+[contextual]: https://github.com/propensive/contextual
+[xylophone]: https://github.com/propensive/xylophone
+[testaceous]: https://github.com/propensive/testaceous
 
 ## Duration, pace steps
 
