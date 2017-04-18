@@ -55,9 +55,9 @@ Want to add your project to the list? Jump to the next section!
 [propensive]: https://github.com/propensive
 [cvogt]: https://github.com/cvogt
 
-[docs.scala-lang]: https://github.com/scala/scala.github.com/issues
+[docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
 [scala]: https://github.com/scala/bug/issues
-[scala-lang]: https://github.com/scala/scala-lang/issues
+[scala-lang]: https://github.com/scala/scala-lang/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [cbt]: https://github.com/cvogt/cbt
