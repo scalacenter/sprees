@@ -15,7 +15,7 @@ The event is free. Conference registration is not required.
 and get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
-[![Join the chat at https://gitter.im/scalacenter/hackathons](https://badges.gitter.im/scalacenter/hackathons.svg)](https://gitter.im/scalacenter/hackathons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Where and when?
 
