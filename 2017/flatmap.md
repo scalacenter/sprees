@@ -14,7 +14,7 @@
 * [lampepfl/dotty#2341](https://github.com/lampepfl/dotty/pull/2341)
 * [scalameta/scalameta#825](https://github.com/scalameta/scalameta/pull/825)
 * [scalameta/scalameta#826](https://github.com/scalameta/scalameta/pull/826)
-* [olafurpg/scalafmt#919](https://github.com/olafurpg/scalafmt/pull/919)
+* [scalameta/scalafmt#919](https://github.com/scalameta/scalafmt/pull/919)
 * [scala-js/scala-js#2919](https://github.com/scala-js/scala-js/pull/2919)
 
 
@@ -25,11 +25,11 @@
 [prettyprinter]: https://github.com/scalameta/scalameta/issues/567
 [contextual]: https://github.com/propensive/contextual/labels/help%20wanted
 [dotty]: https://github.com/lampepfl/dotty/labels/help%20wanted
-[scalafmt]: https://github.com/olafurpg/scalafmt/labels/hackathon
+[scalafmt]: https://github.com/scalameta/scalafmt/labels/hackathon
 [scalameta]: https://github.com/scalameta/scalameta/labels/hackathon
 
 [dotty-contrib]: http://dotty.epfl.ch/docs/index.html
-[scalafmt-contrib]: https://github.com/olafurpg/scalafmt#quick-help
+[scalafmt-contrib]: https://github.com/scalameta/scalafmt/blob/master/Tutorial.md
 [scalameta-contrib]: http://scalameta.org/tutorial
 
 
