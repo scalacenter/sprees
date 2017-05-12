@@ -9,7 +9,8 @@ source Scala projects.
 You don't have to be new to open source to attend -- anyone who wants help making a
 contribution to one of the represented Scala projects is welcome.
 
-The event is free. Conference registration is not required.
+The event is free, please RSVP [here][register].
+Conference registration is not required.
 
 **Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
@@ -18,15 +19,15 @@ and get this awesome t-shirt:
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-## Where and when?
+## Details
 
 |                         |                                                  |
 | --------                | --------------------                             |
 | Time                    | May 31st, 10am - 4pm                             |
 | Location                | [Bella Center](https://goo.gl/maps/w7SC1uZXpDB2) |
+| Event Registration      | Free, signup [here][register]                    |
+| Food                    | Free refreshments + lunch                        |
 | Conference registration | Not required                                     |
-| Event Registration      | Free, (signup form coming soon!)                 |
-| Food                    | Free lunch                                       |
 
 ## Projects
 
@@ -73,6 +74,8 @@ Want to add your project to the list? Jump to the next section!
 [scalafix]: https://github.com/scalacenter/scalafix/labels/spree
 [scalafmt]: https://github.com/scalameta/scalafmt/labels/spree
 [scalameta]: https://github.com/scalameta/scalameta/labels/Spree
+
+[register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
 
 ## Duration, pace steps
 
