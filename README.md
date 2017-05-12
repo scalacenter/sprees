@@ -3,6 +3,8 @@
 
 The Scala Center is organizing an *Open Source Spree* before
 [Scala Days Copenhagen][scaladays], on Wednesday, May 31st.
+It'll be co-located with the [Scala Bridge](http://www.scalabridge.org/) 
+workshop taking place at the same time.
 
 |                         |                                                  |
 | --------                | --------------------                             |
