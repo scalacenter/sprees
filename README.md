@@ -35,6 +35,8 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                             | Contact                           |
 | -------                                                             | -------                           |
+| [zinc][zinc]                                                        | [@jvican][jvican]                 |
+| [sbt][sbt]                                                          | [@jvican][jvican]                 |
 | [scastie][scastie]                                                  | [@MasseGuillaume][MasseGuillaume] |
 | [scaladex][scaladex]                                                | [@MasseGuillaume][MasseGuillaume] |
 | [scala-lang.org][scala-lang]                                        | [@SethTisue][SethTisue]           |
@@ -50,6 +52,7 @@ Here is a list of projects that you could contribute to during the spree:
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
+- Jorge Vicente Cantero, [@jvican][jvican] Scala Center
 - Guillaume Massé, [@MasseGuillaume][MasseGuillaume] (Scala Center)
 - Seth Tisue, [@SethTisue][SethTisue] (Lightbend)
 - Jon Pretty, [@propensive][propensive] (Propensive)
@@ -61,6 +64,8 @@ Want to add your project to the list? Jump to the next section!
 [propensive]: https://github.com/propensive
 [cvogt]: https://github.com/cvogt
 [olafurpg]: https://github.com/olafurpg
+[jvican]: https://github.com/jvican
+
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
 [scala]: https://github.com/scalacenter/sprees/issues/16
@@ -74,6 +79,8 @@ Want to add your project to the list? Jump to the next section!
 [scalafix]: https://github.com/scalacenter/scalafix/labels/spree
 [scalafmt]: https://github.com/scalameta/scalafmt/labels/spree
 [scalameta]: https://github.com/scalameta/scalameta/labels/Spree
+[zinc]: https://github.com/sbt/zinc/labels/spree
+[sbt]: https://github.com/sbt/sbt/labels/spree
 
 [register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
 
