@@ -1,9 +1,9 @@
-# [Scala Days Chicago](http://event.scaladays.org/scaladays-chicago-2017)
+# [Scala Days Copenhagen](http://event.scaladays.org/scaladays-cph-2017)
 
-The Scala Center is organizing an *Open Source Spree* at Scala Days, on Tuesday, April 18.
+The Scala Center is organizing an *Open Source Spree* at Scala Days, on Wednesday, May 31st.
 
-The focus of Scala Sprees is to introduce newcomers to open source! Come learn how to 
-contribute to open source Scala projects. Meet other contributors on well-known open 
+The focus of Scala Sprees is to introduce newcomers to open source! Come learn how to
+contribute to open source Scala projects. Meet other contributors on well-known open
 source Scala projects.
 
 You don't have to be new to open source to attend -- anyone who wants help making a
@@ -17,14 +17,16 @@ and get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+
 ## Where and when?
 
-Swissôtel Chicago<br />
-323 E Upper Wacker Dr.<br />
-Chicago, IL 60601<br />
-Look for room “Zurich C” (basement floor) - that’s where we will be<br />
-
-We will start at 10am and go until 4pm (free food will be provided).
+|                         |                                                  |
+| --------                | --------------------                             |
+| Time                    | May 31st, 10am - 4pm                             |
+| Location                | [Bella Center](https://goo.gl/maps/w7SC1uZXpDB2) |
+| Conference registration | Not required                                     |
+| Event Registration      | Free, (signup form coming soon!)                 |
+| Food                    | Free lunch                                       |
 
 ## Projects
 
@@ -41,6 +43,9 @@ Here is a list of projects that you could contribute to during the spree:
 | [contextual][contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
 | [xylophone][xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
 | [testaceous][testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
+| [scalafix][scalafix]                                                | [@olafurpg][olafurpg]             |
+| [scalameta][scalameta]                                              | [@olafurpg][olafurpg]             |
+| [scalafmt][scalafmt]                                                | [@olafurpg][olafurpg]             |
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
@@ -54,6 +59,7 @@ Want to add your project to the list? Jump to the next section!
 [SethTisue]: https://github.com/SethTisue
 [propensive]: https://github.com/propensive
 [cvogt]: https://github.com/cvogt
+[olafurpg]: https://github.com/olafurpg
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
 [scala]: https://github.com/scalacenter/sprees/issues/16
@@ -64,6 +70,9 @@ Want to add your project to the list? Jump to the next section!
 [contextual]: https://github.com/propensive/contextual
 [xylophone]: https://github.com/propensive/xylophone
 [testaceous]: https://github.com/propensive/testaceous
+[scalafix]: https://github.com/scalacenter/scalafix/labels/spree
+[scalafmt]: https://github.com/scalameta/scalafmt/labels/spree
+[scalameta]: https://github.com/scalameta/scalameta/labels/Spree
 
 ## Duration, pace steps
 
@@ -83,7 +92,7 @@ Then, the fun begins! Participants start hacking on their projects and
 maintainers review PRs as they come, assisting participants when they ask for
 help. We encourage maintainers to merge as many PRs as possible in the place,
 for two reasons:
-  
+
 1. Participants get a small token of appreciation from the Scala Center.
 2. It increases the motivation of the participants.
 
