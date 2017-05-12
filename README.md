@@ -35,8 +35,8 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                             | Contact                           |
 | -------                                                             | -------                           |
-| [zinc][zinc]                                                        | [@jvican][jvican]                 |
-| [sbt][sbt]                                                          | [@jvican][jvican]                 |
+| [zinc][zinc] - Scala incremental compiler                           | [@jvican][jvican]                 |
+| [sbt][sbt] - Scala build tool                                       | [@jvican][jvican]                 |
 | [scastie][scastie]                                                  | [@MasseGuillaume][MasseGuillaume] |
 | [scaladex][scaladex]                                                | [@MasseGuillaume][MasseGuillaume] |
 | [scala-lang.org][scala-lang]                                        | [@SethTisue][SethTisue]           |
