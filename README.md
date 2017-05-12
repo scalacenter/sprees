@@ -1,25 +1,8 @@
-# [Scala Days Copenhagen](http://event.scaladays.org/scaladays-cph-2017)
-
-The Scala Center is organizing an *Open Source Spree* at Scala Days, on Wednesday, May 31st.
-
-The focus of Scala Sprees is to introduce newcomers to open source! Come learn how to
-contribute to open source Scala projects. Meet other contributors on well-known open
-source Scala projects.
-
-You don't have to be new to open source to attend -- anyone who wants help making a
-contribution to one of the represented Scala projects is welcome.
-
-The event is free, please RSVP [here][register].
-Conference registration is not required.
-
-**Your challenge?** Get one pull request merged into one of the projects,
-and get this awesome t-shirt:
-![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
-
-[![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# [Open Source Spree][register]
 
 
-## Details
+The Scala Center is organizing an *Open Source Spree* before
+[Scala Days Copenhagen][scaladays], on Wednesday, May 31st.
 
 |                         |                                                  |
 | --------                | --------------------                             |
@@ -28,6 +11,17 @@ and get this awesome t-shirt:
 | Event Registration      | Free, signup [here][register]                    |
 | Food                    | Free refreshments + lunch                        |
 | Conference registration | Not required                                     |
+
+The focus of Scala Sprees is to introduce newcomers and veterans alike to open source!
+Come meet contributors of well-known open source Scala projects and learn how
+you can make your own contribution.
+
+**Your challenge?** Get one pull request merged into one of the projects,
+and get this awesome t-shirt:
+![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
+
+[![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## Projects
 
@@ -52,8 +46,9 @@ Here is a list of projects that you could contribute to during the spree:
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
-- Jorge Vicente Cantero, [@jvican][jvican] Scala Center
+- Jorge Vicente Cantero, [@jvican][jvican] (Scala Center)
 - Guillaume Massé, [@MasseGuillaume][MasseGuillaume] (Scala Center)
+- Ólafur Páll Geirsson, [@olafurpg][olafurpg] (Scala Center)
 - Seth Tisue, [@SethTisue][SethTisue] (Lightbend)
 - Jon Pretty, [@propensive][propensive] (Propensive)
 
@@ -83,6 +78,7 @@ Want to add your project to the list? Jump to the next section!
 [sbt]: https://github.com/sbt/sbt/labels/spree
 
 [register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
+[scaladays]: http://event.scaladays.org/scaladays-cph-2017
 
 ## Duration, pace steps
 
