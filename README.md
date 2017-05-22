@@ -37,7 +37,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scaladex][scaladex]                                                | [@MasseGuillaume][MasseGuillaume] |
 | [scala-lang.org][scala-lang]                                        | [@SethTisue][SethTisue]           |
 | [docs.scala-lang.org][docs.scala-lang]                              | [@SethTisue][SethTisue]           |
-| [scala][scala]<br>(spec, api docs, lib, compiler)                   | [@SethTisue][SethTisue]           |
+| [scala][scala]<br>(spec, api docs, lib, compiler)                   | [@SethTisue][SethTisue], [@lrytz][lrytz] |
 | [cbt][cbt] - simple, fast scala builds                              | [@cvogt][cvogt]                   |
 | [contextual][contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
 | [xylophone][xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
@@ -52,6 +52,7 @@ Who will be leading the Scala Open Source Spree?
 - Guillaume Massé, [@MasseGuillaume][MasseGuillaume] (Scala Center)
 - Ólafur Páll Geirsson, [@olafurpg][olafurpg] (Scala Center)
 - Seth Tisue, [@SethTisue][SethTisue] (Lightbend)
+- Lukas Rytz, [@lrytz][lrytz] (Lightbend)
 - Jon Pretty, [@propensive][propensive] (Propensive)
 
 Want to add your project to the list? Jump to the next section!
@@ -62,6 +63,7 @@ Want to add your project to the list? Jump to the next section!
 [cvogt]: https://github.com/cvogt
 [olafurpg]: https://github.com/olafurpg
 [jvican]: https://github.com/jvican
+[lrytz]: https://github.com/lrytz
 
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
