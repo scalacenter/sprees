@@ -48,6 +48,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalajs-bundler][scalajs-bundler]                                  | [@julienrf][julienrf]             |
 | [endpoints][endpoints] - Remote communication                       | [@julienrf][julienrf]             |
 | [Creative Scala][creative-scala] - introducing Scala via graphics   | [@noelwelsh][noelwelsh]           |
+| [Doodle][doodle] - composable cross-platform vector graphics        | [@noelwelsh][noelwelsh]           |
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
@@ -88,6 +89,7 @@ Want to add your project to the list? Jump to the next section!
 [scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
 [endpoints]: http://julienrf.github.io/endpoints/
 [creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
+[doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 
 [register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
 [scaladays]: http://event.scaladays.org/scaladays-cph-2017
