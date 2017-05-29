@@ -47,6 +47,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalafmt][scalafmt]                                                | [@olafurpg][olafurpg]             |
 | [scalajs-bundler][scalajs-bundler]                                  | [@julienrf][julienrf]             |
 | [endpoints][endpoints] - Remote communication                       | [@julienrf][julienrf]             |
+| [Doodle][doodle] - composable cross-platform vector graphics        | [@noelwelsh][noelwelsh]           |
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
@@ -67,6 +68,7 @@ Want to add your project to the list? Jump to the next section!
 [jvican]: https://github.com/jvican
 [lrytz]: https://github.com/lrytz
 [julienrf]: https://github.com/julienrf
+[noelwelsh]: https://github.com/noelwelsh
 
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
@@ -85,6 +87,7 @@ Want to add your project to the list? Jump to the next section!
 [sbt]: https://github.com/sbt/sbt/labels/spree
 [scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
 [endpoints]: http://julienrf.github.io/endpoints/
+[doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 
 [register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
 [scaladays]: http://event.scaladays.org/scaladays-cph-2017
