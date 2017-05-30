@@ -92,7 +92,7 @@ Want to add your project to the list? Jump to the next section!
 [endpoints]: http://julienrf.github.io/endpoints/
 [creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
-[accord]: https://wix.github.io/accord/
+[accord]: https://github.com/wix/accord/labels/spree
 
 [register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
 [scaladays]: http://event.scaladays.org/scaladays-cph-2017
