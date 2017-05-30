@@ -49,7 +49,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [endpoints][endpoints] - Remote communication                       | [@julienrf][julienrf]             |
 | [Creative Scala][creative-scala] - introducing Scala via graphics   | [@noelwelsh][noelwelsh]           |
 | [Doodle][doodle] - composable cross-platform vector graphics        | [@noelwelsh][noelwelsh]           |
-| [Accord][accord] - A sane validation library for Scala              | [@tomerg][tomerg]                 |
+| [Accord][accord] - A sane validation library for Scala              | [@holograph][holograph]           |
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
