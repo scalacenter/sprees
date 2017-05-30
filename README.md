@@ -49,6 +49,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [endpoints][endpoints] - Remote communication                       | [@julienrf][julienrf]             |
 | [Creative Scala][creative-scala] - introducing Scala via graphics   | [@noelwelsh][noelwelsh]           |
 | [Doodle][doodle] - composable cross-platform vector graphics        | [@noelwelsh][noelwelsh]           |
+| [Accord][accord] - A sane validation library for Scala              | [@tomerg][tomerg]                 |
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
@@ -70,6 +71,7 @@ Want to add your project to the list? Jump to the next section!
 [lrytz]: https://github.com/lrytz
 [julienrf]: https://github.com/julienrf
 [noelwelsh]: https://github.com/noelwelsh
+[holograph]: https://github.com/holograph
 
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
@@ -90,6 +92,7 @@ Want to add your project to the list? Jump to the next section!
 [endpoints]: http://julienrf.github.io/endpoints/
 [creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
+[accord]: https://wix.github.io/accord/
 
 [register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
 [scaladays]: http://event.scaladays.org/scaladays-cph-2017
