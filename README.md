@@ -50,6 +50,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [Creative Scala][creative-scala] - introducing Scala via graphics   | [@noelwelsh][noelwelsh]           |
 | [Doodle][doodle] - composable cross-platform vector graphics        | [@noelwelsh][noelwelsh]           |
 | [Accord][accord] - A sane validation library for Scala              | [@holograph][holograph]           |
+| [scala-native][scala-native] - Compile Scala to Native!             | [@densh][densh], [@Duhemm][Duhemm]|
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
@@ -72,7 +73,8 @@ Want to add your project to the list? Jump to the next section!
 [julienrf]: https://github.com/julienrf
 [noelwelsh]: https://github.com/noelwelsh
 [holograph]: https://github.com/holograph
-
+[densh]: https://github.com/densh
+[Duhemm]: https://github.com/Duhemm
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
 [scala]: https://github.com/scalacenter/sprees/issues/16
@@ -93,6 +95,7 @@ Want to add your project to the list? Jump to the next section!
 [creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 [accord]: https://github.com/wix/accord/labels/spree
+[scala-native]: https://github.com/scala-native/scala-native 
 
 [register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
 [scaladays]: http://event.scaladays.org/scaladays-cph-2017
