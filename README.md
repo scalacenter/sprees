@@ -79,7 +79,7 @@ Want to add your project to the list? Jump to the next section!
 [scala-native]: https://github.com/scala-native/scala-native 
 
 [register]: https://www.meetup.com/FunctionalTricity/events/240905056/
-[scaladays]: http://scalawave.io/
+[scalawave]: http://scalawave.io/
 
 ## Duration, pace steps
 
