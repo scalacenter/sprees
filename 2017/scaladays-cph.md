@@ -2,12 +2,14 @@
 
 
 The Scala Center is organizing an *Open Source Spree* before
-[Scala Wave][scalawave], on Friday, July 7th!
+[Scala Days Copenhagen][scaladays], on Wednesday, May 31st.
+It'll be co-located with the [Scala Bridge](http://www.scalabridge.org/) 
+workshop taking place at the same time.
 
 |                         |                                                  |
 | --------                | --------------------                             |
 | Time                    | May 31st, 10am - 4pm                             |
-| Location                | [Olivia Business Centre, Olivia FOUR](https://maps.google.com/maps?f=q&hl=en&q=aleja+Grunwaldzka+472a%2C+Gdansk%2C+p://maps.google.com/maps?f=q&hl=en&q=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl) |
+| Location                | [Bella Center](https://goo.gl/maps/w7SC1uZXpDB2) |
 | Event Registration      | Free, signup [here][register]                    |
 | Food                    | Free refreshments + lunch                        |
 | Conference registration | Not required                                     |
@@ -31,15 +33,32 @@ Here is a list of projects that you could contribute to during the spree:
 | -------                                                             | -------                           |
 | [zinc][zinc] - Scala incremental compiler                           | [@jvican][jvican]                 |
 | [sbt][sbt] - Scala build tool                                       | [@jvican][jvican]                 |
+| [scastie][scastie]                                                  | [@MasseGuillaume][MasseGuillaume] |
+| [scaladex][scaladex]                                                | [@MasseGuillaume][MasseGuillaume] |
 | [scala-lang.org][scala-lang]                                        | [@SethTisue][SethTisue]           |
 | [docs.scala-lang.org][docs.scala-lang]                              | [@SethTisue][SethTisue]           |
+| [scala][scala]<br>(spec, api docs, lib, compiler)                   | [@SethTisue][SethTisue], [@lrytz][lrytz] |
+| [cbt][cbt] - simple, fast scala builds                              | [@cvogt][cvogt]                   |
 | [contextual][contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
 | [xylophone][xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
 | [testaceous][testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
+| [scalafix][scalafix]                                                | [@olafurpg][olafurpg]             |
+| [scalameta][scalameta]                                              | [@olafurpg][olafurpg]             |
+| [scalafmt][scalafmt]                                                | [@olafurpg][olafurpg]             |
+| [scalajs-bundler][scalajs-bundler]                                  | [@julienrf][julienrf]             |
+| [endpoints][endpoints] - Remote communication                       | [@julienrf][julienrf]             |
+| [Creative Scala][creative-scala] - introducing Scala via graphics   | [@noelwelsh][noelwelsh]           |
+| [Doodle][doodle] - composable cross-platform vector graphics        | [@noelwelsh][noelwelsh]           |
+| [Accord][accord] - A sane validation library for Scala              | [@holograph][holograph]           |
+| [scala-native][scala-native] - Compile Scala to Native!             | [@densh][densh], [@Duhemm][Duhemm]|
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
 - Jorge Vicente Cantero, [@jvican][jvican] (Scala Center)
+- Guillaume Massé, [@MasseGuillaume][MasseGuillaume] (Scala Center)
+- Ólafur Páll Geirsson, [@olafurpg][olafurpg] (Scala Center)
+- Seth Tisue, [@SethTisue][SethTisue] (Lightbend)
+- Lukas Rytz, [@lrytz][lrytz] (Lightbend)
 - Jon Pretty, [@propensive][propensive] (Propensive)
 
 Want to add your project to the list? Jump to the next section!
@@ -78,8 +97,8 @@ Want to add your project to the list? Jump to the next section!
 [accord]: https://github.com/wix/accord/labels/spree
 [scala-native]: https://github.com/scala-native/scala-native 
 
-[register]: https://www.meetup.com/FunctionalTricity/events/240905056/
-[scaladays]: http://scalawave.io/
+[register]: https://www.meetup.com/The-Copenhagen-Scala-Users-Group/events/239930806/
+[scaladays]: http://event.scaladays.org/scaladays-cph-2017
 
 ## Duration, pace steps
 
