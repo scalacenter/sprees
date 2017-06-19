@@ -31,8 +31,8 @@ Here is a list of projects that you could contribute to during the spree:
 | -------                                                             | -------                           |
 | [zinc][zinc] - Scala incremental compiler                           | [@jvican][jvican]                 |
 | [sbt][sbt] - Scala build tool                                       | [@jvican][jvican]                 |
-| [scala-lang.org][scala-lang]                                        | [@SethTisue][SethTisue]           |
-| [docs.scala-lang.org][docs.scala-lang]                              | [@SethTisue][SethTisue]           |
+| [scala-lang.org][scala-lang]                                        | [@jvican][jvican]                 |
+| [docs.scala-lang.org][docs.scala-lang]                              | [@jvican][jvican]                 |
 | [contextual][contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
 | [xylophone][xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
 | [testaceous][testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
