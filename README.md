@@ -8,9 +8,9 @@ The Scala Center is organizing an *Open Source Spree* before
 | --------                | --------------------                             |
 | Time                    | May 31st, 10am - 4pm                             |
 | Location                | [Olivia Business Centre, Olivia FOUR](https://maps.google.com/maps?f=q&hl=en&q=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl) |
-| Event Registration      | Free, signup [here][register]                    |
+| Event Registration      | **Free**, signup [here][register]                |
 | Food                    | Free refreshments + lunch                        |
-| Conference registration | Not required                                     |
+| Conference registration | **Not required**                                 |
 
 The focus of Scala Sprees is to introduce newcomers and veterans alike to open source!
 Come meet contributors of well-known open source Scala projects and learn how
