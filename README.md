@@ -36,6 +36,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [contextual][contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
 | [xylophone][xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
 | [testaceous][testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
+| [fs2-rabbit][fs2-rabbit] - Stream-based client for RabbitMQ         | [@gvolpe][gvolpe]                 |
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
@@ -56,6 +57,8 @@ Want to add your project to the list? Jump to the next section!
 [holograph]: https://github.com/holograph
 [densh]: https://github.com/densh
 [Duhemm]: https://github.com/Duhemm
+[fs2-rabbit]: https://github.com/gvolpe/fs2-rabbit
+[gvolpe]: https://github.com/gvolpe
 
 [docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
 [scala]: https://github.com/scalacenter/sprees/issues/16
