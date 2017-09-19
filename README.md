@@ -2,15 +2,15 @@
 
 
 The Scala Center is organizing an *Open Source Spree* before
-[Scala Wave][scalawave], on Friday, July 7th!
+[Scala World], on Wednesday, July 7th!
 
-|                         |                                                  |
-| --------                | --------------------                             |
-| Time                    | July 7th, 10am - 4pm                             |
-| Location                | [Olivia Business Centre, Olivia FOUR](https://maps.google.com/maps?f=q&hl=en&q=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl) |
-| Event Registration      | **Free**, signup [here][register]                |
-| Food                    | Free refreshments + lunch                        |
-| Conference registration | **Not required**                                 |
+|                         |                                                                    |
+| --------                | --------------------                                               |
+| Time                    | Sept 20th, 14:10 - 18:00                                           |
+| Location                | [Exhibition Halls, Rheged Centre](https://goo.gl/maps/t4ufgYH3GKw) |
+| Conference registration | **Required**                                                       |
+| Event Registration      | Part of conference registration                                    |
+| Food                    | Conference lunch is before the event                               |
 
 The focus of Scala Sprees is to introduce newcomers and veterans alike to open source!
 Come meet contributors of well-known open source Scala projects and learn how
@@ -29,20 +29,19 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                             | Contact                           |
 | -------                                                             | -------                           |
-| [zinc][zinc] - Scala incremental compiler                           | [@jvican][jvican]                 |
-| [sbt][sbt] - Scala build tool                                       | [@jvican][jvican]                 |
-| [scala-lang.org][scala-lang]                                        | [@jvican][jvican]                 |
-| [docs.scala-lang.org][docs.scala-lang]                              | [@jvican][jvican]                 |
-| [contextual][contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
-| [xylophone][xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
-| [testaceous][testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
-| [fs2-rabbit][fs2-rabbit] - Stream-based client for RabbitMQ         | [@gvolpe][gvolpe]                 |
-| [kebs][kebs] - eliminating some common sources of boilerplate       | [@marcin-rzeznicki][rzeznik]      |
+| [scalafmt] - code formatter                                         | [@olafurpg]                       |
+| [scalafix] - rewrite and linting tool                               | [@olafurpg]                       |
+| [scalameta] - developer tooling library                             | [@olafurpg]                       |
+| [scala-lang.org] - The Scala language website                       | [@heathermiller]                  |
+| [docs.scala-lang.org] - The Scala language documentation            | [@heathermiller]                  |
+| [contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
+| [xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
+| [testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
 | add your project here!                                              |                                   |
 
 Who will be leading the Scala Open Source Spree?
-- Jorge Vicente Cantero, [@jvican][jvican] (Scala Center)
-- Jon Pretty, [@propensive][propensive] (Propensive)
+- Olafur Pall Geirsson, [@olafurpg] (Scala Center)
+- Heather Miller, [@heathermiller] (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
 
@@ -50,11 +49,13 @@ Want to add your project to the list? Jump to the next section!
 [SethTisue]: https://github.com/SethTisue
 [propensive]: https://github.com/propensive
 [cvogt]: https://github.com/cvogt
-[olafurpg]: https://github.com/olafurpg
+[@olafurpg]: https://github.com/olafurpg
+[@dwijnand]: https://github.com/dwijnand
 [jvican]: https://github.com/jvican
 [lrytz]: https://github.com/lrytz
 [julienrf]: https://github.com/julienrf
 [noelwelsh]: https://github.com/noelwelsh
+[@heathermiller]: https://github.com/heathermiller
 [holograph]: https://github.com/holograph
 [densh]: https://github.com/densh
 [Duhemm]: https://github.com/Duhemm
@@ -62,18 +63,19 @@ Want to add your project to the list? Jump to the next section!
 [gvolpe]: https://github.com/gvolpe
 [rzeznik]: https://github.com/marcin-rzeznicki
 
-[docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
+[docs.scala-lang.org]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
 [scala]: https://github.com/scalacenter/sprees/issues/16
-[scala-lang]: https://github.com/scala/scala-lang/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
+[scala-lang.org]: https://github.com/scala/scala-lang/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [cbt]: https://github.com/cvogt/cbt
+[sbt-dynver]: https://github.com/dwijnand/sbt-dynver
 [contextual]: https://github.com/propensive/contextual
 [xylophone]: https://github.com/propensive/xylophone
 [testaceous]: https://github.com/propensive/testaceous
-[scalafix]: https://github.com/scalacenter/scalafix/labels/spree
-[scalafmt]: https://github.com/scalameta/scalafmt/labels/spree
-[scalameta]: https://github.com/scalameta/scalameta/labels/Spree
+[scalafix]: https://github.com/scalacenter/scalafix/labels/good%20first%20contribution
+[scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20contribution
+[scalameta]: https://github.com/scalameta/scalameta/labels/Good%20first%20contribution
 [zinc]: https://github.com/sbt/zinc/labels/spree
 [sbt]: https://github.com/sbt/sbt/labels/spree
 [scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
@@ -82,14 +84,13 @@ Want to add your project to the list? Jump to the next section!
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 [accord]: https://github.com/wix/accord/labels/spree
 [kebs]: https://github.com/theiterators/kebs/labels/spree
-[scala-native]: https://github.com/scala-native/scala-native 
+[scala-native]: https://github.com/scala-native/scala-native
 
 [register]: https://www.meetup.com/FunctionalTricity/events/240905056/
 [scalawave]: http://scalawave.io/
+[Scala World]: https://scala.world/typelevel
 
 ## Duration, pace steps
-
-The spree is usually 5 to 6 hours long.
 
 At the beginning, maintainers gather together in front of all the contributors
 to briefly explain their projects and tickets in one minute. The idea is to give
@@ -138,7 +139,7 @@ project to the list!
 ### What you need to do
 
 Create a PR with the following information:
-  
+
 * Project information.
 * Your contact details.
 * A link to a "spree" or "hackathon" label with curated tickets for the
@@ -152,7 +153,7 @@ unfamiliar with the codebase and this is their first contribution.
 #### How to be an effective maintainer
 
 Maintainers can make a difference by tweaking some knobs:
-  
+
 * Provide a `CONTRIBUTING` guide. Contributing guides explain to newcomers the
     usual workflow to get started and what's expected from them. Good guides:
     [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.m://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
@@ -169,7 +170,7 @@ Maintainers can make a difference by tweaking some knobs:
 
 Curating tickets is not easy. If you want to optimize for the highest number of
 contributors, we recommend you to:
-  
+
 * Give hints on potential solutions. Say which solutions are not on the table,
     if any.
 * Describe the purpose of the ticket and its context. Having a clear idea of why
