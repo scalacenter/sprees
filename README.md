@@ -87,8 +87,8 @@ Want to add your project to the list? Jump to the next section!
 [accord]: https://github.com/wix/accord/labels/spree
 [kebs]: https://github.com/theiterators/kebs/labels/spree
 [scala-native]: https://github.com/scala-native/scala-native
-[monix]: https://github.com/monix/monix
-[cats]: https://github.com/typelevel/cats
+[monix]: https://github.com/monix/monix/labels/low-hanging%20fruit
+[cats]: https://github.com/typelevel/cats/labels/low-hanging%20fruit
 [alexandru]: https://github.com/alexandru
 [edmundnoble]: https://github.com/edmundnoble
 
