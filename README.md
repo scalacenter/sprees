@@ -38,7 +38,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [xylophone] - functional, typesafe XML support for Scala                          | [@propensive][propensive]                          |
 | [testaceous] - dependently-typed shell/CLI interaction                            | [@propensive][propensive]                          |
 | [cats] - tools for functional programming in Scala                                | [@edmundnoble][edmundnoble]                        |
-| [monix] - asynchronous programming                                                | [@alexandru][alexandru]                            |
+| [monix] - library for composing asynchronous programs                             | [@alexandru][alexandru]                            |
 | add your project here!                                                            |                                                    | 
  
 Who will be leading the Scala Open Source Spree?
