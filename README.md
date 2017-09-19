@@ -39,7 +39,8 @@ Here is a list of projects that you could contribute to during the spree:
 | [testaceous] - dependently-typed shell/CLI interaction                            | [@propensive][propensive]                          |
 | [cats] - tools for functional programming in Scala                                | [@edmundnoble][edmundnoble]                        |
 | [monix] - asynchronous programming                                                | [@alexandru][alexandru]                            |
-
+| add your project here!                                                            |                                                    | 
+ 
 Who will be leading the Scala Open Source Spree?
 - Olafur Pall Geirsson, [@olafurpg] (Scala Center)
 - Heather Miller, [@heathermiller] (Scala Center)
