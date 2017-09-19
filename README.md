@@ -2,7 +2,7 @@
 
 
 The Scala Center is organizing an *Open Source Spree* before
-[Scala World], on Wednesday, July 7th!
+[Scala World], on Wednesday, September 20th!
 
 |                         |                                                                    |
 | --------                | --------------------                                               |
