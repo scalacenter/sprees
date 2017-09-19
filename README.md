@@ -37,8 +37,10 @@ Here is a list of projects that you could contribute to during the spree:
 | [contextual] - static checking of interpolated strings                            | [@propensive][propensive]                          |
 | [xylophone] - functional, typesafe XML support for Scala                          | [@propensive][propensive]                          |
 | [testaceous] - dependently-typed shell/CLI interaction                            | [@propensive][propensive]                          |
-| add your project here!                                                            |                                                    |
-
+| [cats] - tools for functional programming in Scala                                | [@edmundnoble][edmundnoble]                        |
+| [monix] - library for composing asynchronous programs                             | [@alexandru][alexandru]                            |
+| add your project here!                                                            |                                                    | 
+ 
 Who will be leading the Scala Open Source Spree?
 - Olafur Pall Geirsson, [@olafurpg] (Scala Center)
 - Heather Miller, [@heathermiller] (Scala Center)
@@ -85,6 +87,10 @@ Want to add your project to the list? Jump to the next section!
 [accord]: https://github.com/wix/accord/labels/spree
 [kebs]: https://github.com/theiterators/kebs/labels/spree
 [scala-native]: https://github.com/scala-native/scala-native
+[monix]: https://github.com/monix/monix/labels/low-hanging%20fruit
+[cats]: https://github.com/typelevel/cats/labels/low-hanging%20fruit
+[alexandru]: https://github.com/alexandru
+[edmundnoble]: https://github.com/edmundnoble
 
 [register]: https://www.meetup.com/FunctionalTricity/events/240905056/
 [scalawave]: http://scalawave.io/
