@@ -27,17 +27,17 @@ and get this awesome t-shirt:
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                             | Contact                           |
-| -------                                                             | -------                           |
-| [scalafmt] - code formatter                                         | [@olafurpg]                       |
-| [scalafix] - rewrite and linting tool                               | [@olafurpg]                       |
-| [scalameta] - developer tooling library                             | [@olafurpg]                       |
-| [scala-lang.org] - The Scala language website                       | [@heathermiller]                  |
-| [docs.scala-lang.org] - The Scala language documentation            | [@heathermiller]                  |
-| [contextual] - static checking of interpolated strings  | [@propensive][propensive]         |
-| [xylophone] - functional, typesafe XML support for Scala | [@propensive][propensive]         |
-| [testaceous] - dependently-typed shell/CLI interaction  | [@propensive][propensive]         |
-| add your project here!                                              |                                   |
+| Project                                                                           | Contact                                            |
+| -------                                                                           | -------                                            |
+| [scalafmt] - code formatter                                                       | [@olafurpg]                                        |
+| [scalafix] - rewrite and linting tool                                             | [@olafurpg]                                        |
+| [scalameta] - developer tooling library                                           | [@olafurpg]                                        |
+| [scala-lang.org] - The Scala language website                                     | [@heathermiller]                                   |
+| [docs.scala-lang.org] - The Scala language documentation                          | [@heathermiller]                                   |
+| [contextual] - static checking of interpolated strings                            | [@propensive][propensive]                          |
+| [xylophone] - functional, typesafe XML support for Scala                          | [@propensive][propensive]                          |
+| [testaceous] - dependently-typed shell/CLI interaction                            | [@propensive][propensive]                          |
+| add your project here!                                                            |                                                    |
 
 Who will be leading the Scala Open Source Spree?
 - Olafur Pall Geirsson, [@olafurpg] (Scala Center)
