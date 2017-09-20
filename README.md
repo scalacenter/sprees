@@ -27,19 +27,22 @@ and get this awesome t-shirt:
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                                           | Contact                                            |
-| -------                                                                           | -------                                            |
-| [scalafmt] - code formatter                                                       | [@olafurpg]                                        |
-| [scalafix] - rewrite and linting tool                                             | [@olafurpg]                                        |
-| [scalameta] - developer tooling library                                           | [@olafurpg]                                        |
-| [scala-lang.org] - The Scala language website                                     | [@heathermiller]                                   |
-| [docs.scala-lang.org] - The Scala language documentation                          | [@heathermiller]                                   |
-| [contextual] - static checking of interpolated strings                            | [@propensive][propensive]                          |
-| [xylophone] - functional, typesafe XML support for Scala                          | [@propensive][propensive]                          |
-| [testaceous] - dependently-typed shell/CLI interaction                            | [@propensive][propensive]                          |
-| [cats] - tools for functional programming in Scala                                | [@edmundnoble][edmundnoble]                        |
-| [monix] - library for composing asynchronous programs                             | [@alexandru][alexandru]                            |
-| add your project here!                                                            |                                                    | 
+| Project                                                  | Contact          |
+| -------                                                  | -------          |
+| [scalafmt] - code formatter                              | [@olafurpg]      |
+| [scalafix] - rewrite and linting tool                    | [@olafurpg]      |
+| [scalameta] - developer tooling library                  | [@olafurpg]      |
+| [scala-lang.org] - The Scala language website            | [@heathermiller] |
+| [docs.scala-lang.org] - The Scala language documentation | [@heathermiller] |
+| [contextual] - static checking of interpolated strings   | [@propensive]    |
+| [xylophone] - functional, typesafe XML support for Scala | [@propensive]    |
+| [testaceous] - dependently-typed shell/CLI interaction   | [@propensive]    |
+| [cats] - tools for functional programming in Scala       | [@edmundnoble]   |
+| [monix] - library for composing asynchronous programs    | [@alexandru]     |
+| [scala-fiddle] - Interactive playground for Scala        | [@ochrons]       |
+| [boopickle] - Fast binary serialization                  | [@ochrons]       |
+| [suzaku] - Web UI framework for Scala                    | [@ochrons]       |
+| add your project here!                                   |                  |
  
 Who will be leading the Scala Open Source Spree?
 - Olafur Pall Geirsson, [@olafurpg] (Scala Center)
@@ -49,7 +52,7 @@ Want to add your project to the list? Jump to the next section!
 
 [MasseGuillaume]: https://github.com/MasseGuillaume
 [SethTisue]: https://github.com/SethTisue
-[propensive]: https://github.com/propensive
+[@propensive]: https://github.com/propensive
 [cvogt]: https://github.com/cvogt
 [@olafurpg]: https://github.com/olafurpg
 [@dwijnand]: https://github.com/dwijnand
@@ -87,10 +90,14 @@ Want to add your project to the list? Jump to the next section!
 [accord]: https://github.com/wix/accord/labels/spree
 [kebs]: https://github.com/theiterators/kebs/labels/spree
 [scala-native]: https://github.com/scala-native/scala-native
+[suzaku]: https://github.com/suzaku-io/suzaku
+[boopickle]: https://github.com/suzaku-io/boopickle
+[scala-fiddle]: https://github.com/scalafiddle/scalafiddle-core
 [monix]: https://github.com/monix/monix/labels/low-hanging%20fruit
 [cats]: https://github.com/typelevel/cats/labels/low-hanging%20fruit
-[alexandru]: https://github.com/alexandru
-[edmundnoble]: https://github.com/edmundnoble
+[@alexandru]: https://github.com/alexandru
+[@edmundnoble]: https://github.com/edmundnoble
+[@ochrons]: https://github.com/ochrons
 
 [register]: https://www.meetup.com/FunctionalTricity/events/240905056/
 [scalawave]: http://scalawave.io/
