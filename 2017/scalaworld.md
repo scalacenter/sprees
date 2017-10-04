@@ -1,12 +1,13 @@
-# Open Source Spree
+# [Open Source Spree][register]
 
-The Scala Center is organizing an *Open Source Spree* during
-[Scala.io], on Wednesday, September 20th!
+
+The Scala Center is organizing an *Open Source Spree* before
+[Scala World], on Wednesday, September 20th!
 
 |                         |                                                                    |
 | --------                | --------------------                                               |
-| Time                    | Nov 3rd, 14:00 - 18:00                                             |
-| Location                | [CPE, Lyon](https://goo.gl/maps/jzfE7y5vSbz)                       |
+| Time                    | Sept 20th, 14:10 - 18:00                                           |
+| Location                | [Exhibition Halls, Rheged Centre](https://goo.gl/maps/t4ufgYH3GKw) |
 | Conference registration | **Required**                                                       |
 | Event Registration      | Part of conference registration                                    |
 | Food                    | Conference lunch is before the event                               |
@@ -26,55 +27,81 @@ and get this awesome t-shirt:
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                  | Contact            |
-| -------                                                  | -------            |
-| [hamsters] - utility library                             | [@loicdescotte]    |
-| [dotty] - next major version of Scala                    | [@smarter]         |
-| [scalafix] - code rewriting tool                         | [@gabro]           |
-| [freestyle] - free monad utility                         | [@raulraja]        |
-| [scalaz] - general functional programming library        | [@jdegoes]         |
-| [magnolia], [contextual], [totalitarian] and “others” - nicely named libraries | [@propensive] |
-| [cbt] - build tool                                       | [@cvogt]           |
-| [scaladex] - index of Scala projects                     | [@MasseGuillaume]  |
-| [scastie] - web-based Scala playground                   | [@MasseGuillaume]  |
-| [scalajs-bundler] - NPM modules bundler for Scala.js     | [@julienrf]        |
-| [doodle] - composable vector graphics                    | [@julienrf]        |
-| [endpoints] - remote communication                       | [@julienrf]        |
-| add your project here!                                   |                    |
+| Project                                                  | Contact          |
+| -------                                                  | -------          |
+| [scalafmt] - code formatter                              | [@olafurpg]      |
+| [scalafix] - rewrite and linting tool                    | [@olafurpg]      |
+| [scalameta] - developer tooling library                  | [@olafurpg]      |
+| [scala-lang.org] - The Scala language website            | [@heathermiller] |
+| [docs.scala-lang.org] - The Scala language documentation | [@heathermiller] |
+| [contextual] - static checking of interpolated strings   | [@propensive]    |
+| [xylophone] - functional, typesafe XML support for Scala | [@propensive]    |
+| [testaceous] - dependently-typed shell/CLI interaction   | [@propensive]    |
+| [cats] - tools for functional programming in Scala       | [@edmundnoble]   |
+| [monix] - library for composing asynchronous programs    | [@alexandru]     |
+| [scala-fiddle] - Interactive playground for Scala        | [@ochrons]       |
+| [boopickle] - Fast binary serialization                  | [@ochrons]       |
+| [suzaku] - Web UI framework for Scala                    | [@ochrons]       |
+| add your project here!                                   |                  |
  
 Who will be leading the Scala Open Source Spree?
-- Julien Richard-Foy, [@julienrf] (Scala Center)
-- Guillaume Massé, [@MasseGuillaume] (Scala Center)
+- Olafur Pall Geirsson, [@olafurpg] (Scala Center)
+- Heather Miller, [@heathermiller] (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
 
-[@cvogt]: https://github.com/cvogt
-[@gabro]: https://github.com/gabro
-[@jdegoes]: https://github.com/jdegoes
-[@julienrf]: https://github.com/julienrf
-[@loicdescotte]: https://github.com/loicdescotte
-[@MasseGuillaume]: https://github.com/MasseGuillaume
+[MasseGuillaume]: https://github.com/MasseGuillaume
+[SethTisue]: https://github.com/SethTisue
 [@propensive]: https://github.com/propensive
-[@raulraja]: https://github.com/raulraja
-[@smarter]: https://github.com/smarter
+[cvogt]: https://github.com/cvogt
+[@olafurpg]: https://github.com/olafurpg
+[@dwijnand]: https://github.com/dwijnand
+[jvican]: https://github.com/jvican
+[lrytz]: https://github.com/lrytz
+[julienrf]: https://github.com/julienrf
+[noelwelsh]: https://github.com/noelwelsh
+[@heathermiller]: https://github.com/heathermiller
+[holograph]: https://github.com/holograph
+[densh]: https://github.com/densh
+[Duhemm]: https://github.com/Duhemm
+[fs2-rabbit]: https://github.com/gvolpe/fs2-rabbit
+[gvolpe]: https://github.com/gvolpe
+[rzeznik]: https://github.com/marcin-rzeznicki
 
-[cbt]: https://github.com/cvogt/cbt
-[contextual]: https://github.com/propensive/contextual
-[coursier]: https://github.com/coursier/coursier
-[doodle]: https://github.com/underscoreio/doodle/labels/hackathon
-[dotty]: https://github.com/lampefl/dotty
-[endpoints]: https://github.com/julienrf/endpoints/labels/low-hanging%20fruit
-[freestyle]: https://github.com/frees-io/freestyle
-[hamsters]: https://github.com/scala-hamsters/hamsters
-[magnolia]: https://github.com/propensive/magnolia
+[docs.scala-lang.org]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
+[scala]: https://github.com/scalacenter/sprees/issues/16
+[scala-lang.org]: https://github.com/scala/scala-lang/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
-[scalafix]: https://github.com/scalacenter/scalafix
-[scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
-[scalaz]: https://github.com/scalaz/scalaz
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
-[totalitarian]: https://github.com/propensive/totalitarian
+[cbt]: https://github.com/cvogt/cbt
+[sbt-dynver]: https://github.com/dwijnand/sbt-dynver
+[contextual]: https://github.com/propensive/contextual
+[xylophone]: https://github.com/propensive/xylophone
+[testaceous]: https://github.com/propensive/testaceous
+[scalafix]: https://github.com/scalacenter/scalafix/labels/good%20first%20contribution
+[scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20contribution
+[scalameta]: https://github.com/scalameta/scalameta/labels/Good%20first%20contribution
+[zinc]: https://github.com/sbt/zinc/labels/spree
+[sbt]: https://github.com/sbt/sbt/labels/spree
+[scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
+[endpoints]: http://julienrf.github.io/endpoints/
+[creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
+[doodle]: https://github.com/underscoreio/doodle/labels/hackathon
+[accord]: https://github.com/wix/accord/labels/spree
+[kebs]: https://github.com/theiterators/kebs/labels/spree
+[scala-native]: https://github.com/scala-native/scala-native
+[suzaku]: https://github.com/suzaku-io/suzaku
+[boopickle]: https://github.com/suzaku-io/boopickle
+[scala-fiddle]: https://github.com/scalafiddle/scalafiddle-core
+[monix]: https://github.com/monix/monix/labels/low-hanging%20fruit
+[cats]: https://github.com/typelevel/cats/labels/low-hanging%20fruit
+[@alexandru]: https://github.com/alexandru
+[@edmundnoble]: https://github.com/edmundnoble
+[@ochrons]: https://github.com/ochrons
 
-[Scala.io]: https://scala.io/
+[register]: https://www.meetup.com/FunctionalTricity/events/240905056/
+[scalawave]: http://scalawave.io/
+[Scala World]: https://scala.world/typelevel
 
 ## Duration, pace steps
 
