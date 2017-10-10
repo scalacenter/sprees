@@ -1,7 +1,7 @@
 # Open Source Spree
 
 The Scala Center is organizing an *Open Source Spree* during
-[Scala.io], on Wednesday, September 20th!
+[Scala.io], on Friday, November 3rd!
 
 |                         |                                                                    |
 | --------                | --------------------                                               |
