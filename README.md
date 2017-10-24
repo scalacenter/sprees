@@ -1,12 +1,12 @@
 # Open Source Spree
 
 The Scala Center is organizing an *Open Source Spree* during
-[Scala.io], on Friday, November 3rd!
+[Lambda World], on Thursday, October 26th!
 
 |                         |                                                                    |
 | --------                | --------------------                                               |
-| Time                    | Nov 3rd, 14:00 - 18:00                                             |
-| Location                | [CPE, Lyon](https://goo.gl/maps/jzfE7y5vSbz)                       |
+| Time                    | October 26th, 15:00 - 19:00                                        |
+| Location                | [Palacio de Congresos, Cádiz](https://goo.gl/maps/yin5wbQJVxm)     |
 | Conference registration | **Required**                                                       |
 | Event Registration      | Part of conference registration                                    |
 | Food                    | Conference lunch is before the event                               |
@@ -74,7 +74,7 @@ Want to add your project to the list? Jump to the next section!
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [totalitarian]: https://github.com/propensive/totalitarian
 
-[Scala.io]: https://scala.io/
+[Lambda World]: http://lambda.world/
 
 ## Duration, pace steps
 
