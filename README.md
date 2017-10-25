@@ -40,8 +40,11 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalajs-bundler] - NPM modules bundler for Scala.js     | [@julienrf]        |
 | [doodle] - composable vector graphics                    | [@julienrf]        |
 | [endpoints] - remote communication                       | [@julienrf]        |
+| [literator] - generate markdown docs from sources        | [@laughedelic]     |
+| [sbt-github-release] - publish release notes on Github   | [@laughedelic]     |
+| [sbt-publish-more] - publish to several repositories     | [@laughedelic]     |
 | add your project here!                                   |                    |
- 
+
 Who will be leading the Scala Open Source Spree?
 - Julien Richard-Foy, [@julienrf] (Scala Center)
 - Guillaume Massé, [@MasseGuillaume] (Scala Center)
@@ -52,6 +55,7 @@ Want to add your project to the list? Jump to the next section!
 [@gabro]: https://github.com/gabro
 [@jdegoes]: https://github.com/jdegoes
 [@julienrf]: https://github.com/julienrf
+[@laughedelic]: https://github.com/laughedelic
 [@loicdescotte]: https://github.com/loicdescotte
 [@MasseGuillaume]: https://github.com/MasseGuillaume
 [@propensive]: https://github.com/propensive
@@ -67,6 +71,9 @@ Want to add your project to the list? Jump to the next section!
 [freestyle]: https://github.com/frees-io/freestyle
 [hamsters]: https://github.com/scala-hamsters/hamsters
 [magnolia]: https://github.com/propensive/magnolia
+[literator]: https://github.com/laughedelic/literator/labels/spree
+[sbt-github-release]: https://github.com/ohnosequences/sbt-github-release/labels/spree
+[sbt-publish-more]: https://github.com/laughedelic/sbt-publish-more/labels/spree
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scalafix]: https://github.com/scalacenter/scalafix
 [scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
