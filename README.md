@@ -37,7 +37,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [sbt-publish-more] - publish to several repositories     | [@laughedelic]     |
 | [zinc][zinc] - Scala incremental compiler                           | [@jvican] & [@Duhemm]                 |
 | [sbt][sbt] - Scala build tool                                       | [@jvican] & [@Duhemm]                |
-| [scala-native][scala-native]                                        | [@Duhemm]           |
+| [Scala Native][scala-native]                                        | [@Duhemm]           |
 | [scala-lang.org][scala-lang]                                        | [@jvican]           |
 | [docs.scala-lang.org][docs.scala-lang]                              | [@jvican]           |
 | [sbt-release-early][sbt-release-early]                                        | [@jvican]           |
@@ -124,7 +124,7 @@ Want to add your project to the list? Jump to the next section!
 [creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 [accord]: https://github.com/wix/accord/labels/spree
-[scala-native]: https://github.com/scala-native/scala-native 
+[scala-native]: https://github.com/scala-native/scala-native/labels/spree
 
 [Lambda World]: http://lambda.world/
 
