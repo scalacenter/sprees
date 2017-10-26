@@ -33,6 +33,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [magnolia], [contextual], [totalitarian] and “others” - nicely named libraries | [@propensive] |
 | [literator] - generate markdown docs from sources        | [@laughedelic]     |
 | [sbt-github-release] - publish release notes on Github   | [@laughedelic]     |
+| [sbt-notifications] - native OS notifications from sbt   | [@laughedelic]     |
 | [sbt-publish-more] - publish to several repositories     | [@laughedelic]     |
 | [zinc][zinc] - Scala incremental compiler                           | [@jvican] & [@Duhemm]                 |
 | [sbt][sbt] - Scala build tool                                       | [@jvican] & [@Duhemm]                |
@@ -75,6 +76,7 @@ Want to add your project to the list? Jump to the next section!
 [magnolia]: https://github.com/propensive/magnolia
 [literator]: https://github.com/laughedelic/literator/labels/spree
 [sbt-github-release]: https://github.com/ohnosequences/sbt-github-release/labels/spree
+[sbt-notifications]: https://github.com/laughedelic/sbt-notifications/labels/spree
 [sbt-publish-more]: https://github.com/laughedelic/sbt-publish-more/labels/spree
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scalafix]: https://github.com/scalacenter/scalafix
