@@ -17,6 +17,7 @@ you can make your own contribution.
 
 **Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
+<p>
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -28,21 +29,20 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                  | Contact            |
 | -------                                                  | -------            |
-| [hamsters] - utility library                             | [@loicdescotte]    |
-| [dotty] - next major version of Scala                    | [@smarter]         |
-| [scalafix] - code rewriting tool                         | [@gabro]           |
 | [freestyle] - free monad utility                         | [@raulraja]        |
-| [scalaz] - general functional programming library        | [@jdegoes]         |
 | [magnolia], [contextual], [totalitarian] and “others” - nicely named libraries | [@propensive] |
-| [cbt] - build tool                                       | [@cvogt]           |
-| [scaladex] - index of Scala projects                     | [@MasseGuillaume]  |
-| [scastie] - web-based Scala playground                   | [@MasseGuillaume]  |
-| [scalajs-bundler] - NPM modules bundler for Scala.js     | [@julienrf]        |
-| [doodle] - composable vector graphics                    | [@julienrf]        |
-| [endpoints] - remote communication                       | [@julienrf]        |
 | [literator] - generate markdown docs from sources        | [@laughedelic]     |
 | [sbt-github-release] - publish release notes on Github   | [@laughedelic]     |
 | [sbt-publish-more] - publish to several repositories     | [@laughedelic]     |
+| [zinc][zinc] - Scala incremental compiler                           | [@jvican] & [@Duhemm]                 |
+| [sbt][sbt] - Scala build tool                                       | [@jvican] & [@Duhemm]                |
+| [scala-native][scala-native]                                        | [@Duhemm]           |
+| [scala-lang.org][scala-lang]                                        | [@jvican]           |
+| [docs.scala-lang.org][docs.scala-lang]                              | [@jvican]           |
+| [sbt-release-early][sbt-release-early]                                        | [@jvican]           |
+| [sbt-bintray][sbt-bintray]                                        | [@jvican]           |
+| [sbt-pgp][sbt-pgp]                                        | [@jvican]           |
+| [sbt-crossproject][sbt-crossproject]                                        | [@jvican]           |
 | add your project here!                                   |                    |
 
 Who will be leading the Scala Open Source Spree?
@@ -61,6 +61,8 @@ Want to add your project to the list? Jump to the next section!
 [@propensive]: https://github.com/propensive
 [@raulraja]: https://github.com/raulraja
 [@smarter]: https://github.com/smarter
+[@Duhemm]: https://github.com/Duhemm
+[@jvican]: https://github.com/jvican
 
 [cbt]: https://github.com/cvogt/cbt
 [contextual]: https://github.com/propensive/contextual
@@ -80,6 +82,29 @@ Want to add your project to the list? Jump to the next section!
 [scalaz]: https://github.com/scalaz/scalaz
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [totalitarian]: https://github.com/propensive/totalitarian
+
+[sbt-release-early]: https://github.com/scalacenter/sbt-release-early
+[sbt-bintray]: https://github.com/sbt/sbt-bintray
+[sbt-pgp]: https://github.com/sbt/sbt-pgp
+[sbt-crossproject]: https://github.com/scala-native/sbt-crossproject
+
+[docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
+[scala]: https://github.com/scalacenter/sprees/issues/16
+[scala-lang]: https://github.com/scala/scala-lang/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
+[cbt]: https://github.com/cvogt/cbt
+[contextual]: https://github.com/propensive/contextual
+[xylophone]: https://github.com/propensive/xylophone
+[testaceous]: https://github.com/propensive/testaceous
+[scalafix]: https://github.com/scalacenter/scalafix/labels/spree
+[scalafmt]: https://github.com/scalameta/scalafmt/labels/spree
+[scalameta]: https://github.com/scalameta/scalameta/labels/Spree
+[zinc]: https://github.com/sbt/zinc/labels/spree
+[sbt]: https://github.com/sbt/sbt/labels/spree
+[endpoints]: http://julienrf.github.io/endpoints/
+[creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
+[doodle]: https://github.com/underscoreio/doodle/labels/hackathon
+[accord]: https://github.com/wix/accord/labels/spree
+[scala-native]: https://github.com/scala-native/scala-native 
 
 [Lambda World]: http://lambda.world/
 
