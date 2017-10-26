@@ -29,7 +29,7 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                  | Contact            |
 | -------                                                  | -------            |
-| [freestyle] - free monad utility                         | [@raulraja]        |
+| [freestyle] - A cohesive & pragmatic framework of FP centric Scala libraries                         | [@raulraja]        |
 | [magnolia], [contextual], [totalitarian] and “others” - nicely named libraries | [@propensive] |
 | [literator] - generate markdown docs from sources        | [@laughedelic]     |
 | [sbt-github-release] - publish release notes on Github   | [@laughedelic]     |
@@ -46,6 +46,18 @@ Here is a list of projects that you could contribute to during the spree:
 | [sbt-crossproject][sbt-crossproject]                                        | [@jvican]           |
 | add your project here!                                   |                    |
 
+### Special Collaboration with 47 Degrees
+
+Here below a list of [Freestyle](https://github.com/frees-io/) projects that you might want to contribute during the spree:
+
+| Project                                                  | Contact            |
+| -------                                                  | -------            |
+| [freestyle] - A cohesive & pragmatic framework of FP centric Scala libraries | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [iota] - Fast [co]product types with a clean syntax. For Cats & Scalaz. | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [freestyle-cassandra] - Freestyle Cassandra | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [freestyle-rpc] - Freestyle RPC | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [sbt-freestyle-protogen] - Sbt plugin to generate .proto files from freestyle-rpc service definitions | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+
 Who will be leading the Scala Open Source Spree?
 - Julien Richard-Foy, [@julienrf] (Scala Center)
 - Guillaume Massé, [@MasseGuillaume] (Scala Center)
@@ -53,8 +65,10 @@ Who will be leading the Scala Open Source Spree?
 Want to add your project to the list? Jump to the next section!
 
 [@cvogt]: https://github.com/cvogt
+[@fedefernandez]: https://github.com/fedefernandez
 [@gabro]: https://github.com/gabro
 [@jdegoes]: https://github.com/jdegoes
+[@juanpedromoreno]: https://github.com/juanpedromoreno
 [@julienrf]: https://github.com/julienrf
 [@laughedelic]: https://github.com/laughedelic
 [@loicdescotte]: https://github.com/loicdescotte
@@ -71,10 +85,14 @@ Want to add your project to the list? Jump to the next section!
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 [dotty]: https://github.com/lampefl/dotty
 [endpoints]: https://github.com/julienrf/endpoints/labels/low-hanging%20fruit
-[freestyle]: https://github.com/frees-io/freestyle
+[freestyle]: https://github.com/frees-io/freestyle/labels/spree
+[freestyle-cassandra]: https://github.com/frees-io/freestyle-cassandra/labels/spree
+[freestyle-rpc]: https://github.com/frees-io/freestyle-rpc/labels/spree
 [hamsters]: https://github.com/scala-hamsters/hamsters
+[iota]: https://github.com/frees-io/iota/labels/spree
 [magnolia]: https://github.com/propensive/magnolia
 [literator]: https://github.com/laughedelic/literator/labels/spree
+[sbt-freestyle-protogen]: https://github.com/frees-io/sbt-freestyle-protogen/labels/spree
 [sbt-github-release]: https://github.com/ohnosequences/sbt-github-release/labels/spree
 [sbt-notifications]: https://github.com/laughedelic/sbt-notifications/labels/spree
 [sbt-publish-more]: https://github.com/laughedelic/sbt-publish-more/labels/spree
