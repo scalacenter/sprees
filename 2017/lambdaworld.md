@@ -1,12 +1,12 @@
 # Open Source Spree
 
 The Scala Center is organizing an *Open Source Spree* during
-[Scala.io], on Friday, November 3rd!
+[Lambda World], on Thursday, October 26th!
 
 |                         |                                                                    |
 | --------                | --------------------                                               |
-| Time                    | Nov 3rd, 14:00 - 18:00                                             |
-| Location                | [CPE, Lyon](https://goo.gl/maps/jzfE7y5vSbz)                       |
+| Time                    | October 26th, 15:00 - 19:00                                        |
+| Location                | [Palacio de Congresos, Cádiz](https://goo.gl/maps/yin5wbQJVxm)     |
 | Conference registration | **Required**                                                       |
 | Event Registration      | Part of conference registration                                    |
 | Food                    | Conference lunch is before the event                               |
@@ -17,6 +17,7 @@ you can make your own contribution.
 
 **Your challenge?** Get one pull request merged into one of the projects,
 and get this awesome t-shirt:
+<p>
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -28,20 +29,35 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                  | Contact            |
 | -------                                                  | -------            |
-| [hamsters] - utility library                             | [@loicdescotte]    |
-| [dotty] - next major version of Scala                    | [@smarter]         |
-| [scalafix] - code rewriting tool                         | [@gabro]           |
-| [freestyle] - free monad utility                         | [@raulraja]        |
-| [scalaz] - general functional programming library        | [@jdegoes]         |
+| [freestyle] - A cohesive & pragmatic framework of FP centric Scala libraries                         | [@raulraja]        |
 | [magnolia], [contextual], [totalitarian] and “others” - nicely named libraries | [@propensive] |
-| [cbt] - build tool                                       | [@cvogt]           |
-| [scaladex] - index of Scala projects                     | [@MasseGuillaume]  |
-| [scastie] - web-based Scala playground                   | [@MasseGuillaume]  |
-| [scalajs-bundler] - NPM modules bundler for Scala.js     | [@julienrf]        |
-| [doodle] - composable vector graphics                    | [@julienrf]        |
-| [endpoints] - remote communication                       | [@julienrf]        |
+| [literator] - generate markdown docs from sources        | [@laughedelic]     |
+| [sbt-github-release] - publish release notes on Github   | [@laughedelic]     |
+| [sbt-notifications] - native OS notifications from sbt   | [@laughedelic]     |
+| [sbt-publish-more] - publish to several repositories     | [@laughedelic]     |
+| [zinc][zinc] - Scala incremental compiler                           | [@jvican] & [@Duhemm]                 |
+| [sbt][sbt] - Scala build tool                                       | [@jvican] & [@Duhemm]                |
+| [Scala Native][scala-native]                                        | [@Duhemm]           |
+| [scala-lang.org][scala-lang]                                        | [@jvican]           |
+| [docs.scala-lang.org][docs.scala-lang]                              | [@jvican]           |
+| [sbt-release-early][sbt-release-early]                                        | [@jvican]           |
+| [sbt-bintray][sbt-bintray]                                        | [@jvican]           |
+| [sbt-pgp][sbt-pgp]                                        | [@jvican]           |
+| [sbt-crossproject][sbt-crossproject]                                        | [@jvican]           |
 | add your project here!                                   |                    |
- 
+
+### Special Collaboration with 47 Degrees
+
+Here below a list of [Freestyle](https://github.com/frees-io/) projects that you might want to contribute during the spree:
+
+| Project                                                  | Contact            |
+| -------                                                  | -------            |
+| [freestyle] - A cohesive & pragmatic framework of FP centric Scala libraries | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [iota] - Fast [co]product types with a clean syntax. For Cats & Scalaz. | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [freestyle-cassandra] - Freestyle Cassandra | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [freestyle-rpc] - Freestyle RPC | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+| [sbt-freestyle-protogen] - Sbt plugin to generate .proto files from freestyle-rpc service definitions | [@raulraja] & [@fedefernandez] & [@juanpedromoreno] |
+
 Who will be leading the Scala Open Source Spree?
 - Julien Richard-Foy, [@julienrf] (Scala Center)
 - Guillaume Massé, [@MasseGuillaume] (Scala Center)
@@ -49,14 +65,19 @@ Who will be leading the Scala Open Source Spree?
 Want to add your project to the list? Jump to the next section!
 
 [@cvogt]: https://github.com/cvogt
+[@fedefernandez]: https://github.com/fedefernandez
 [@gabro]: https://github.com/gabro
 [@jdegoes]: https://github.com/jdegoes
+[@juanpedromoreno]: https://github.com/juanpedromoreno
 [@julienrf]: https://github.com/julienrf
+[@laughedelic]: https://github.com/laughedelic
 [@loicdescotte]: https://github.com/loicdescotte
 [@MasseGuillaume]: https://github.com/MasseGuillaume
 [@propensive]: https://github.com/propensive
 [@raulraja]: https://github.com/raulraja
 [@smarter]: https://github.com/smarter
+[@Duhemm]: https://github.com/Duhemm
+[@jvican]: https://github.com/jvican
 
 [cbt]: https://github.com/cvogt/cbt
 [contextual]: https://github.com/propensive/contextual
@@ -64,9 +85,17 @@ Want to add your project to the list? Jump to the next section!
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
 [dotty]: https://github.com/lampefl/dotty
 [endpoints]: https://github.com/julienrf/endpoints/labels/low-hanging%20fruit
-[freestyle]: https://github.com/frees-io/freestyle
+[freestyle]: https://github.com/frees-io/freestyle/labels/spree
+[freestyle-cassandra]: https://github.com/frees-io/freestyle-cassandra/labels/spree
+[freestyle-rpc]: https://github.com/frees-io/freestyle-rpc/labels/spree
 [hamsters]: https://github.com/scala-hamsters/hamsters
+[iota]: https://github.com/frees-io/iota/labels/spree
 [magnolia]: https://github.com/propensive/magnolia
+[literator]: https://github.com/laughedelic/literator/labels/spree
+[sbt-freestyle-protogen]: https://github.com/frees-io/sbt-freestyle-protogen/labels/spree
+[sbt-github-release]: https://github.com/ohnosequences/sbt-github-release/labels/spree
+[sbt-notifications]: https://github.com/laughedelic/sbt-notifications/labels/spree
+[sbt-publish-more]: https://github.com/laughedelic/sbt-publish-more/labels/spree
 [scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
 [scalafix]: https://github.com/scalacenter/scalafix
 [scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
@@ -74,7 +103,30 @@ Want to add your project to the list? Jump to the next section!
 [scastie]: https://github.com/scalacenter/scastie/labels/hackathon
 [totalitarian]: https://github.com/propensive/totalitarian
 
-[Scala.io]: https://scala.io/
+[sbt-release-early]: https://github.com/scalacenter/sbt-release-early
+[sbt-bintray]: https://github.com/sbt/sbt-bintray
+[sbt-pgp]: https://github.com/sbt/sbt-pgp
+[sbt-crossproject]: https://github.com/scala-native/sbt-crossproject
+
+[docs.scala-lang]: https://github.com/scala/scala.github.com/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Aspree%20
+[scala]: https://github.com/scalacenter/sprees/issues/16
+[scala-lang]: https://github.com/scala/scala-lang/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
+[cbt]: https://github.com/cvogt/cbt
+[contextual]: https://github.com/propensive/contextual
+[xylophone]: https://github.com/propensive/xylophone
+[testaceous]: https://github.com/propensive/testaceous
+[scalafix]: https://github.com/scalacenter/scalafix/labels/spree
+[scalafmt]: https://github.com/scalameta/scalafmt/labels/spree
+[scalameta]: https://github.com/scalameta/scalameta/labels/Spree
+[zinc]: https://github.com/sbt/zinc/labels/spree
+[sbt]: https://github.com/sbt/sbt/labels/spree
+[endpoints]: http://julienrf.github.io/endpoints/
+[creative-scala]: https://github.com/underscoreio/creative-scala/labels/hackathon
+[doodle]: https://github.com/underscoreio/doodle/labels/hackathon
+[accord]: https://github.com/wix/accord/labels/spree
+[scala-native]: https://github.com/scala-native/scala-native/labels/spree
+
+[Lambda World]: http://lambda.world/
 
 ## Duration, pace steps
 
