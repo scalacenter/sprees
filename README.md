@@ -62,7 +62,7 @@ Want to add your project to the list? Jump to the next section!
 [contextual]: https://github.com/propensive/contextual
 [coursier]: https://github.com/coursier/coursier
 [doodle]: https://github.com/underscoreio/doodle/labels/hackathon
-[dotty]: https://github.com/lampefl/dotty
+[dotty]: https://github.com/lampepfl/dotty
 [endpoints]: https://github.com/julienrf/endpoints/labels/low-hanging%20fruit
 [freestyle]: https://github.com/frees-io/freestyle
 [hamsters]: https://github.com/scala-hamsters/hamsters
