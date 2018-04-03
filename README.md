@@ -38,7 +38,9 @@ Who will be leading the Scala Open Source Spree?
 Want to add your project to the list? Jump to the next section!
 
 [@Duhemm]: https://github.com/Duhemm
+[@jvican]: https://github.com/jvican
 [Bloop]: https://github.com/scalacenter/bloop
+[Scala Native]: https://github.com/scala-native/scala-native
 [Scala Sphere]: http://scala.sphere.it
 
 ## Duration, pace steps
@@ -107,8 +109,8 @@ Maintainers can make a difference by tweaking some knobs:
 
 * Provide a `CONTRIBUTING` guide. Contributing guides explain to newcomers the
     usual workflow to get started and what's expected from them. Good guides:
-    [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.m://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
-    [sbt/zinc](https://github.com/sbt/zinc/blob/1.0/CONTRIBUTING.md), [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
+    [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
+    [sbt/zinc](https://github.com/sbt/zinc/blob/1.x/CONTRIBUTING.md), [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
 		[scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
 * Provide a motivating `README` with clear instructions. Make sure docs are up to date.
 * Link to documentation when possible, or show contributors how to search for
