@@ -1,15 +1,15 @@
 # Open Source Spree
 
 The Scala Center is organizing an *Open Source Spree* during
-[Scala.io], on Friday, November 3rd!
+[Scala Sphere], on Sunday, April 15th!
 
-|                         |                                                                    |
-| --------                | --------------------                                               |
-| Time                    | Nov 3rd, 14:00 - 18:00                                             |
-| Location                | [CPE, Lyon](https://goo.gl/maps/jzfE7y5vSbz)                       |
-| Conference registration | **Required**                                                       |
-| Event Registration      | Part of conference registration                                    |
-| Food                    | Conference lunch is before the event                               |
+|                         |                                                                         |
+|-------------------------|-------------------------------------------------------------------------|
+| Time                    | Apr 15th, 10:00 - 18:00                                                 |
+| Location                | [Coworking Office on Rynek 28, Kraków](https://goo.gl/maps/zFrA4jT5Vtj) |
+| Conference registration | **Not Required**                                                        |
+| Event Registration      | TBD                                                                     |
+| Food                    | TBD                                                                     |
 
 The focus of Scala Sprees is to introduce newcomers and veterans alike to open source!
 Come meet contributors of well-known open source Scala projects and learn how
@@ -26,55 +26,20 @@ and get this awesome t-shirt:
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                  | Contact            |
-| -------                                                  | -------            |
-| [hamsters] - utility library                             | [@loicdescotte]    |
-| [dotty] - next major version of Scala                    | [@smarter]         |
-| [scalafix] - code rewriting tool                         | [@gabro]           |
-| [freestyle] - free monad utility                         | [@raulraja]        |
-| [scalaz] - general functional programming library        | [@jdegoes]         |
-| [magnolia], [contextual], [totalitarian] and “others” - nicely named libraries | [@propensive] |
-| [cbt] - build tool                                       | [@cvogt]           |
-| [scaladex] - index of Scala projects                     | [@MasseGuillaume]  |
-| [scastie] - web-based Scala playground                   | [@MasseGuillaume]  |
-| [scalajs-bundler] - NPM modules bundler for Scala.js     | [@julienrf]        |
-| [doodle] - composable vector graphics                    | [@julienrf]        |
-| [endpoints] - remote communication                       | [@julienrf]        |
-| add your project here!                                   |                    |
+| Project                                                  | Contact                          |
+| -------                                                  | -------                          |
+| [Bloop] - A hot bloop for your productivity              | [@Duhemm], [@jvican]             |
+| [Scala Native] - Compile Scala to Native!                | [@Duhemm]                        |
+| add your project here!                                   |                                  |
  
 Who will be leading the Scala Open Source Spree?
-- Julien Richard-Foy, [@julienrf] (Scala Center)
-- Guillaume Massé, [@MasseGuillaume] (Scala Center)
+- Martin Duhem, [@Duhemm] (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
 
-[@cvogt]: https://github.com/cvogt
-[@gabro]: https://github.com/gabro
-[@jdegoes]: https://github.com/jdegoes
-[@julienrf]: https://github.com/julienrf
-[@loicdescotte]: https://github.com/loicdescotte
-[@MasseGuillaume]: https://github.com/MasseGuillaume
-[@propensive]: https://github.com/propensive
-[@raulraja]: https://github.com/raulraja
-[@smarter]: https://github.com/smarter
-
-[cbt]: https://github.com/cvogt/cbt
-[contextual]: https://github.com/propensive/contextual
-[coursier]: https://github.com/coursier/coursier
-[doodle]: https://github.com/underscoreio/doodle/labels/hackathon
-[dotty]: https://github.com/lampepfl/dotty
-[endpoints]: https://github.com/julienrf/endpoints/labels/low-hanging%20fruit
-[freestyle]: https://github.com/frees-io/freestyle
-[hamsters]: https://github.com/scala-hamsters/hamsters
-[magnolia]: https://github.com/propensive/magnolia
-[scaladex]: https://github.com/scalacenter/scaladex/labels/hackathon
-[scalafix]: https://github.com/scalacenter/scalafix
-[scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22
-[scalaz]: https://github.com/scalaz/scalaz
-[scastie]: https://github.com/scalacenter/scastie/labels/hackathon
-[totalitarian]: https://github.com/propensive/totalitarian
-
-[Scala.io]: https://scala.io/
+[@Duhemm]: https://github.com/Duhemm
+[Bloop]: https://github.com/scalacenter/bloop
+[Scala Sphere]: http://scala.sphere.it
 
 ## Duration, pace steps
 
