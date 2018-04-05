@@ -8,7 +8,7 @@ The Scala Center is organizing an *Open Source Spree* during
 | Time                    | Apr 15th, 10:00 - 18:00                                                 |
 | Location                | [Coworking Office on Rynek 28, Kraków](https://goo.gl/maps/zFrA4jT5Vtj) |
 | Conference registration | **Not Required**                                                        |
-| Event Registration      | TBD                                                                     |
+| Event Registration      | **Free, Mandatory**: https://scalaspree.eventbrite.co.uk/               |
 | Food                    | TBD                                                                     |
 
 The focus of Scala Sprees is to introduce newcomers and veterans alike to open source!
