@@ -9,7 +9,7 @@ The Scala Center is organizing an *Open Source Spree* during
 | Location                | [Coworking Office on Rynek 28, Kraków](https://goo.gl/maps/zFrA4jT5Vtj) |
 | Conference registration | **Not Required**                                                        |
 | Event Registration      | **Free, Mandatory**: https://scalaspree.eventbrite.co.uk/               |
-| Food                    | TBD                                                                     |
+| Food                    | Food will be available, Sponsored by [VirtusLab](https://virtuslab.com) |
 
 The focus of Scala Sprees is to introduce newcomers and veterans alike to open source!
 Come meet contributors of well-known open source Scala projects and learn how
