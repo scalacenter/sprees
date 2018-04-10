@@ -30,6 +30,11 @@ Here is a list of projects that you could contribute to during the spree:
 | -------                                                  | -------                          |
 | [Bloop] - A hot bloop for your productivity              | [@Duhemm], [@jvican]             |
 | [Scala Native] - Compile Scala to Native!                | [@Duhemm]                        |
+| [Scalafmt] - Code formatter for Scala                    | [@olafurpg]                      |
+| [Scalafix] - Rewrite and linting tool for Scala          | [@olafurpg]                      |
+| [Scalameta] - Library to read/write/transform Scala code | [@olafurpg]                      |
+| [Metals] - Experimental language server for Scala        | [@olafurpg], [@laughedelic]      |
+| [Metadoc] - Online code browser with IDE-like features   | [@olafurpg]                      |
 | add your project here!                                   |                                  |
  
 Who will be leading the Scala Open Source Spree?
@@ -37,11 +42,18 @@ Who will be leading the Scala Open Source Spree?
 
 Want to add your project to the list? Jump to the next section!
 
+[@laughedelic]: https://github.com/laughedelic
+[@olafurpg]: https://github.com/olafurpg
 [@Duhemm]: https://github.com/Duhemm
 [@jvican]: https://github.com/jvican
 [Bloop]: https://github.com/scalacenter/bloop
 [Scala Native]: https://github.com/scala-native/scala-native
 [Scala Sphere]: http://scala.sphere.it
+[Metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
+[Scalameta]: https://github.com/scalameta/scalameta/labels/Good%20first%20contribution
+[Scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20time%20contribution
+[Scalafix]: https://github.com/scalacenter/scalafix/labels/good%20first%20issue
+[Metadoc]: https://github.com/scalameta/metadoc/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+sort%3Aupdated-desc
 
 ## Duration, pace steps
 
