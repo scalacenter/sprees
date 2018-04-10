@@ -35,6 +35,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [Scalameta] - Library to read/write/transform Scala code | [@olafurpg]                      |
 | [Metals] - Experimental language server for Scala        | [@olafurpg], [@laughedelic]      |
 | [Metadoc] - Online code browser with IDE-like features   | [@olafurpg]                      |
+| [Monix] - Asynchronous, Reactive Programming for Scala   | [@Avasil]                        |
 | add your project here!                                   |                                  |
  
 Who will be leading the Scala Open Source Spree?
@@ -46,6 +47,7 @@ Want to add your project to the list? Jump to the next section!
 [@olafurpg]: https://github.com/olafurpg
 [@Duhemm]: https://github.com/Duhemm
 [@jvican]: https://github.com/jvican
+[@Avasil]: https://github.com/Avasil
 [Bloop]: https://github.com/scalacenter/bloop
 [Scala Native]: https://github.com/scala-native/scala-native
 [Scala Sphere]: http://scala.sphere.it
@@ -54,6 +56,7 @@ Want to add your project to the list? Jump to the next section!
 [Scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20time%20contribution
 [Scalafix]: https://github.com/scalacenter/scalafix/labels/good%20first%20issue
 [Metadoc]: https://github.com/scalameta/metadoc/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+sort%3Aupdated-desc
+[Monix]: https://github.com/monix/monix/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22scala-spree%22+sort%3Aupdated-desc
 
 ## Duration, pace steps
 
