@@ -36,6 +36,10 @@ Here is a list of projects that you could contribute to during the spree:
 | [Metals] - Experimental language server for Scala        | [@olafurpg], [@laughedelic]      |
 | [Metadoc] - Online code browser with IDE-like features   | [@olafurpg]                      |
 | [Monix] - Asynchronous, Reactive Programming for Scala   | [@Avasil]                        |
+| [atom-ide-scala] - Scala language client for Atom IDE    | [@laughedelic]                   |
+| [sbt-github-release] - publish release notes on Github   | [@laughedelic]                   |
+| [sbt-publish-more] - publish to several repositories     | [@laughedelic]                   |
+| [sbt-notifications] - native OS notifications from sbt   | [@laughedelic]                   |
 | add your project here!                                   |                                  |
  
 Who will be leading the Scala Open Source Spree?
@@ -57,6 +61,10 @@ Want to add your project to the list? Jump to the next section!
 [Scalafix]: https://github.com/scalacenter/scalafix/labels/good%20first%20issue
 [Metadoc]: https://github.com/scalameta/metadoc/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+sort%3Aupdated-desc
 [Monix]: https://github.com/monix/monix/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22scala-spree%22+sort%3Aupdated-desc
+[atom-ide-scala]: https://github.com/laughedelic/atom-ide-scala/labels/spree
+[sbt-github-release]: https://github.com/ohnosequences/sbt-github-release/labels/spree
+[sbt-notifications]: https://github.com/laughedelic/sbt-notifications/labels/spree
+[sbt-publish-more]: https://github.com/laughedelic/sbt-publish-more/labels/spree
 
 ## Duration, pace steps
 
