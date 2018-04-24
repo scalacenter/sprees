@@ -50,6 +50,7 @@ Want to add your project to the list? Jump to the next section!
 [@jvican]: https://github.com/jvican
 [bloop]: https://github.com/scalacenter/bloop
 [scala native]: https://github.com/scala-native/scala-native
+[dotty]: http://dotty.epfl.ch/
 [metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
 [scalameta]: https://github.com/scalameta/scalameta/labels/Good%20first%20contribution
 [scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20time%20contribution
