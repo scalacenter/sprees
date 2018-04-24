@@ -1,14 +1,8 @@
 # Open Source Spree
 
-The Scala Center is organizing an _Open Source Spree_ during [Scala Sphere], on
-Sunday, April 15th!
-
 The focus of Scala Sprees is to introduce newcomers and veterans alike to open
 source! Come meet contributors of well-known open source Scala projects and
 learn how you can make your own contribution.
-
-[teknologihuset, oslo, norway]: https://www.google.com/maps/search/?api=1&query=Pilestredet+56%2C+Oslo%2C+no
-[scalabin oslo meetup]: https://www.meetup.com/scalabin/events/249937547/
 
 **Your challenge?** Get one pull request merged into one of the projects, and
 get this awesome t-shirt:
@@ -26,6 +20,8 @@ get this awesome t-shirt:
 | Event Registration      | **Free**: [Scalabin Oslo meetup][]                                 |
 | Food                    | Food will be available, Sponsored by [Arktekk](http://arktekk.no/) |
 
+[teknologihuset, oslo, norway]: https://www.google.com/maps/search/?api=1&query=Pilestredet+56%2C+Oslo%2C+no
+[scalabin oslo meetup]: https://www.meetup.com/scalabin/events/249937547/
 
 ### Projects
 
@@ -54,7 +50,6 @@ Want to add your project to the list? Jump to the next section!
 [@jvican]: https://github.com/jvican
 [bloop]: https://github.com/scalacenter/bloop
 [scala native]: https://github.com/scala-native/scala-native
-[scala sphere]: http://scala.sphere.it
 [metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
 [scalameta]: https://github.com/scalameta/scalameta/labels/Good%20first%20contribution
 [scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20time%20contribution
