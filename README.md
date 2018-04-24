@@ -12,13 +12,13 @@ get this awesome t-shirt:
 
 ## flatMap(Oslo) May 2nd
 
-|                         |                                                                    |
-| ----------------------- | ------------------------------------------------------------------ |
-| Time                    | May 2nd, 12:00 - 18:00                                             |
-| Location                | [Teknologihuset, Oslo, Norway][]                                   |
-| Conference registration | **Not Required**                                                   |
-| Event Registration      | **Free**: [Scalabin Oslo meetup][]                                 |
-| Food                    | Food will be available, Sponsored by [Arktekk](http://arktekk.no/) |
+|                         |                                    |
+| ----------------------- | ---------------------------------- |
+| Time                    | May 2nd, 12:00 - 18:00             |
+| Location                | [Teknologihuset, Oslo, Norway][]   |
+| Conference registration | **Not Required**                   |
+| Event Registration      | **Free**: [Scalabin Oslo meetup][] |
+| Food                    | Fruits and coffee                  |
 
 [teknologihuset, oslo, norway]: https://www.google.com/maps/search/?api=1&query=Pilestredet+56%2C+Oslo%2C+no
 [scalabin oslo meetup]: https://www.meetup.com/scalabin/events/249937547/
