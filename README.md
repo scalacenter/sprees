@@ -10,18 +10,18 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## flatMap(Oslo) May 2nd
+## [ScalaDays 2018 (Berlin)](https://eu.scaladays.org/) May 15th
 
 |                         |                                    |
 | ----------------------- | ---------------------------------- |
-| Time                    | May 2nd, 12:00 - 18:00             |
-| Location                | [Teknologihuset, Oslo, Norway][]   |
+| Time                    | May 15th, 09:00 - 15:30             |
+| Location                | Zeughofstr. 1, 10997, Berlin, Germany   |
 | Conference registration | **Not Required**                   |
-| Event Registration      | **Free**: [Scalabin Oslo meetup][] |
-| Food                    | Fruits and coffee                  |
+| Event Registration      | **Free** |
+| Food                    | Sponsored by Zalando                  |
 
-[teknologihuset, oslo, norway]: https://www.google.com/maps/search/?api=1&query=Pilestredet+56%2C+Oslo%2C+no
-[scalabin oslo meetup]: https://www.meetup.com/scalabin/events/249937547/
+[Berlin, Germany]: https://www.google.ch/maps/place/Zeughofstra%C3%9Fe+1,+10997+Berlin,+Germany/@52.5027426,13.4341226,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e494b8b6a69:0x4e494a90083c87b7!8m2!3d52.5027426!4d13.4363113
+[Scala Center & Berlin SUG]
 
 ### Projects
 
@@ -110,9 +110,9 @@ Create a PR with the following information:
 * Project information.
 * Your contact details.
 * A link to a "spree" or "hackathon" label with curated tickets for the
-  participants. See
-  [this project](https://github.com/sbt/zinc/issues?utf8=✓&q=label:hackathon%20is:issue)
-  for inspiration.
+ participants. See
+ [this project](https://github.com/sbt/zinc/issues?utf8=✓&q=label:hackathon%20is:issue)
+ for inspiration.
 
 It's important that the curated tickets are entry-level, typical issues that you
 would solve in 15-20 minutes of your time as an experienced maintainer. In our
@@ -124,18 +124,18 @@ unfamiliar with the codebase and this is their first contribution.
 Maintainers can make a difference by tweaking some knobs:
 
 * Provide a `CONTRIBUTING` guide. Contributing guides explain to newcomers the
-  usual workflow to get started and what's expected from them. Good guides:
-  [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
-  [sbt/zinc](https://github.com/sbt/zinc/blob/1.x/CONTRIBUTING.md),
-  [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
-  [scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
+ usual workflow to get started and what's expected from them. Good guides:
+ [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
+ [sbt/zinc](https://github.com/sbt/zinc/blob/1.x/CONTRIBUTING.md),
+ [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
+ [scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
 * Provide a motivating `README` with clear instructions. Make sure docs are up
-  to date.
+ to date.
 * Link to documentation when possible, or show contributors how to search for
-  docs. You can label as `docs` any issue or PR with relevant discussions to get
-  acquainted with implementation details and design decisions.
+ docs. You can label as `docs` any issue or PR with relevant discussions to get
+ acquainted with implementation details and design decisions.
 * [Be nice to newcomers](http://brson.github.io/2017/04/05/minimally-nice-maintainer),
-  they will always remember it!
+ they will always remember it!
 
 #### How to write good tickets
 
@@ -143,11 +143,11 @@ Curating tickets is not easy. If you want to optimize for the highest number of
 contributors, we recommend you to:
 
 * Give hints on potential solutions. Say which solutions are not on the table,
-  if any.
+ if any.
 * Describe the purpose of the ticket and its context. Having a clear idea of why
-  your ticket is relevant will motivate participants.
+ your ticket is relevant will motivate participants.
 * Add links to source code sparingly. Show the entry-points for the requested
-  functionality / fix, give a basic explanation of the code structure.
+ functionality / fix, give a basic explanation of the code structure.
 * Be concise and detail specifics of your project or its implementation.
-  Providing this kind of domain knowledge to participants will help them finish
-  off their tickets sooner, and move to the next one!
+ Providing this kind of domain knowledge to participants will help them finish
+ off their tickets sooner, and move to the next one!
