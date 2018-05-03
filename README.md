@@ -29,7 +29,7 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                                                   | Contact     |
 | ----------------------------------------------------------------------------------------- | ----------- |
-| [Dotty] - The research compiler that will become Scala 3                                  | [@smarter]  |
+| [Dotty] - The research compiler that will become Scala 3                                  | [@smarter] [@allanrenucci] [@nicolasstucki] |
 | [Scalafmt] - Code formatter for Scala                                                     | [@olafurpg] |
 | [Scalafix] - Rewrite and linting tool for Scala                                           | [@olafurpg] |
 | [Scalameta] - Library to read/write/transform Scala code                                  | [@olafurpg] |
@@ -48,6 +48,8 @@ Want to add your project to the list? Jump to the next section!
 [@olafurpg]: https://github.com/olafurpg
 [@duhemm]: https://github.com/Duhemm
 [@jvican]: https://github.com/jvican
+[@allanrenucci]: https://github.com/allanrenucci
+[@nicolasstucki]: https://github.com/nicolasstucki
 [bloop]: https://github.com/scalacenter/bloop
 [scala native]: https://github.com/scala-native/scala-native
 [dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
