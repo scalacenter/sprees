@@ -10,18 +10,20 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## [ScalaDays 2018 (Berlin)](https://eu.scaladays.org/) May 15th
+## ScalaDays 2018 (Berlin) May 15th
 
-|                         |                                    |
-| ----------------------- | ---------------------------------- |
-| Time                    | May 15th, 09:00 - 15:30             |
-| Location                | Zeughofstr. 1, 10997, Berlin, Germany   |
-| Conference registration | **Not Required**                   |
-| Event Registration      | **Free** |
-| Food                    | Sponsored by Zalando                  |
+|                         |                                       |
+| ----------------------- | ------------------------------------- |
+| Time                    | May 15th, 09:00 - 15:30               |
+| Location                | [Zeughofstr. 1, 10997, Berlin][venue] |
+| Conference registration | **Not Required**                      |
+| Event Registration      | **Free, required**: [meetup.com]      |
+| Food                    | **Free**: Sponsored by Zalando        |
+| Bring                   | Laptop + ID for security check        |
 
-[Berlin, Germany]: https://www.google.ch/maps/place/Zeughofstra%C3%9Fe+1,+10997+Berlin,+Germany/@52.5027426,13.4341226,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e494b8b6a69:0x4e494a90083c87b7!8m2!3d52.5027426!4d13.4363113
-[Scala Center & Berlin SUG]
+
+[venue]: https://goo.gl/maps/uTSRUYstbhN2
+[meetup.com]: https://www.meetup.com/Scala-Berlin-Brandenburg/events/250525599
 
 ### Projects
 
