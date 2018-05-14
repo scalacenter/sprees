@@ -32,6 +32,7 @@ Here is a list of projects that you could contribute to during the spree:
 | Project                                                                                   | Contact     |
 | ----------------------------------------------------------------------------------------- | ----------- |
 | [Dotty] - The research compiler that will become Scala 3                                  | [@smarter] [@allanrenucci] [@nicolasstucki] |
+| [sbt] - the Scala ecosystem's build tool                                                  | [@eed3si9n] [@dwijnand] [@cunei] |
 | [Scalafmt] - Code formatter for Scala                                                     | [@olafurpg] |
 | [Scalafix] - Rewrite and linting tool for Scala                                           | [@olafurpg] |
 | [Scalameta] - Library to read/write/transform Scala code                                  | [@olafurpg] |
@@ -47,6 +48,9 @@ Want to add your project to the list? Jump to the next section!
 
 [@laughedelic]: https://github.com/laughedelic
 [@smarter]: https://github.com/smarter
+[@eed3si9n]: https://github.com/eed3si9n
+[@dwijnand]: https://github.com/dwijnand
+[@cunei]: https://github.com/cunei
 [@olafurpg]: https://github.com/olafurpg
 [@duhemm]: https://github.com/Duhemm
 [@jvican]: https://github.com/jvican
@@ -56,6 +60,7 @@ Want to add your project to the list? Jump to the next section!
 [scala native]: https://github.com/scala-native/scala-native
 [dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 [metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
+[sbt]: https://github.com/sbt/sbt/labels/good%20first%20issue
 [scalameta]: https://github.com/scalameta/scalameta/labels/Good%20first%20contribution
 [scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20time%20contribution
 [scalafix]: https://github.com/scalacenter/scalafix/labels/good%20first%20issue
