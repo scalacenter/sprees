@@ -38,7 +38,6 @@ Here is a list of projects that you could contribute to during the spree:
 | [Scalameta] - Library to read/write/transform Scala code                                  | [@olafurpg] |
 | [Metals] - Experimental language server for Scala                                         | [@olafurpg] |
 | [Metadoc] - Online code browser with IDE-like features                                    | [@olafurpg] |
-| [Apache Spark] - Distributed data processing                                              | [@holdenk]  |
 | add your project here!                                                                    |             |
 
 Who will be leading the Scala Open Source Spree?
@@ -57,7 +56,6 @@ Want to add your project to the list? Jump to the next section!
 [@jvican]: https://github.com/jvican
 [@allanrenucci]: https://github.com/allanrenucci
 [@nicolasstucki]: https://github.com/nicolasstucki
-[@holdenk]: https://github.com/holdenk
 [bloop]: https://github.com/scalacenter/bloop
 [scala native]: https://github.com/scala-native/scala-native
 [dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
@@ -67,7 +65,6 @@ Want to add your project to the list? Jump to the next section!
 [scalafmt]: https://github.com/scalameta/scalafmt/labels/good%20first%20time%20contribution
 [scalafix]: https://github.com/scalacenter/scalafix/labels/good%20first%20issue
 [metadoc]: https://github.com/scalameta/metadoc/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+sort%3Aupdated-desc
-[Apache Spark]: https://issues.apache.org/jira/browse/SPARK-24195?jql=project%20%3D%20spark%20and%20labels%20%3D%20starter%20AND%20status%20%3D%20open
 
 ## Duration, pace steps
 
