@@ -31,6 +31,7 @@ Here is a list of projects that you could contribute to during the spree:
 | Project                                                                                   | Contact             |
 | ----------------------------------------------------------------------------------------- | ------------------- |
 | [Bloop] - A hot bloop for your productivity                                               | [@duhemm] [@jvican] |
+| [sbt] - the Scala ecosystem's build tool                                                  | [@eed3si9n] [@dwijnand] |
 | add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
