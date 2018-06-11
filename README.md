@@ -10,39 +10,32 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## ScalaDays 2018 (Berlin) May 15th
+## ScalaDays 2018 (New York) June 19th
 
-|                         |                                       |
-| ----------------------- | ------------------------------------- |
-| Time                    | May 15th, 09:00 - 15:30               |
-| Location                | [Zeughofstr. 1, 10997, Berlin][venue] |
-| Conference registration | **Not Required**                      |
-| Event Registration      | **Free, required**: [meetup.com]      |
-| Food                    | **Free**: Sponsored by Zalando        |
-| Bring                   | Laptop + ID for security check        |
+|                         |                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------ |
+| Time                    | June 19th, 09:00am - 04:00pm                                                               |
+| Location                | [60 Madison Ave, New York, NY 10010, United States][venue] (12th floor, sponsored by Tapad |
+| Conference registration | **Not Required**                                                                           |
+| Event Registration      | **Free, required**: [event-registration]                                                   |
+| Food                    | **Free**: Sponsored by Lightbend.                                                          |
+| Bring                   | Laptop + ID for security check                                                             |
 
-
-[venue]: https://goo.gl/maps/uTSRUYstbhN2
-[meetup.com]: https://www.meetup.com/Scala-Berlin-Brandenburg/events/250525599
+[venue]: https://goo.gl/maps/YAg5eNZtN3y
+[event-registration]: https://goo.gl/forms/Rn624OQKXaDUhtpk2
 
 ### Projects
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                                                   | Contact     |
-| ----------------------------------------------------------------------------------------- | ----------- |
-| [Dotty] - The research compiler that will become Scala 3                                  | [@smarter] [@allanrenucci] [@nicolasstucki] |
-| [sbt] - the Scala ecosystem's build tool                                                  | [@eed3si9n] [@dwijnand] [@cunei] |
-| [Scalafmt] - Code formatter for Scala                                                     | [@olafurpg] |
-| [Scalafix] - Rewrite and linting tool for Scala                                           | [@olafurpg] |
-| [Scalameta] - Library to read/write/transform Scala code                                  | [@olafurpg] |
-| [Metals] - Experimental language server for Scala                                         | [@olafurpg] |
-| [Metadoc] - Online code browser with IDE-like features                                    | [@olafurpg] |
-| add your project here!                                                                    |             |
+| Project                                                                                   | Contact             |
+| ----------------------------------------------------------------------------------------- | ------------------- |
+| [Bloop] - A hot bloop for your productivity                                               | [@duhemm] [@jvican] |
+| add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
 
-* Ólafur Páll Geirsson, [@olafurpg] (Scala Center)
+* Darja Jovanovic, [@darjutak] (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
 
@@ -52,6 +45,7 @@ Want to add your project to the list? Jump to the next section!
 [@dwijnand]: https://github.com/dwijnand
 [@cunei]: https://github.com/cunei
 [@olafurpg]: https://github.com/olafurpg
+[@darjutak]: https://github.com/darjutak
 [@duhemm]: https://github.com/Duhemm
 [@jvican]: https://github.com/jvican
 [@allanrenucci]: https://github.com/allanrenucci
