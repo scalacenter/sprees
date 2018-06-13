@@ -30,7 +30,7 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                                                   | Contact             |
 | ----------------------------------------------------------------------------------------- | ------------------- |
-| [Bloop] - A hot bloop for your productivity                                               | [@duhemm] [@jvican] |
+| [Bloop] - Scala build server and command-line tool for faster developer workflows         | [@duhemm] [@jvican] |
 | [sbt] - the Scala ecosystem's build tool                                                  | [@eed3si9n] [@dwijnand] |
 | [Dotty] - The research compiler that will become Scala 3                                  | [@smarter] [@duhemm] |
 | add your project here!                                                                    |                     |
