@@ -33,6 +33,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [Bloop] - Scala build server and command-line tool for faster developer workflows         | [@duhemm] [@jvican] |
 | [sbt] - the Scala ecosystem's build tool                                                  | [@eed3si9n] [@dwijnand] |
 | [Dotty] - The research compiler that will become Scala 3                                  | [@smarter] [@duhemm] |
+| Help upgrade community projects to the new collections in Scala 2.13                      | adriaanm |
 | add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
