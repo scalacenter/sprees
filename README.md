@@ -34,6 +34,9 @@ Here is a list of projects that you could contribute to during the spree:
 | [sbt] - the Scala ecosystem's build tool                                                  | [@eed3si9n] [@dwijnand] |
 | [Dotty] - The research compiler that will become Scala 3                                  | [@smarter] [@duhemm] |
 | Help upgrade community projects to the new collections in Scala 2.13                      | adriaanm |
+| [Magnolia] - simpler, faster generic derivation with better diagnostics                   | [@propensive] |
+| [Guillotine] - simplified and generalized support for calling shell processes             | [@propensive] |
+| [Kaleidoscope] - support for constructing and pattern matching new types of literals      | [@propensive] |
 | add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
@@ -51,9 +54,13 @@ Want to add your project to the list? Jump to the next section!
 [@darjutak]: https://github.com/darjutak
 [@duhemm]: https://github.com/Duhemm
 [@jvican]: https://github.com/jvican
+[@propensive]: https://github.com/propensive
 [@allanrenucci]: https://github.com/allanrenucci
 [@nicolasstucki]: https://github.com/nicolasstucki
 [bloop]: https://github.com/scalacenter/bloop
+[Guillotine]: https://github.com/propensive/guillotine
+[Magnolia]: https://github.com/propensive/magnolia
+[Kaleidoscope]: https://github.com/propensive/kaleidoscope
 [scala native]: https://github.com/scala-native/scala-native
 [dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 [metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
