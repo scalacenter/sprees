@@ -53,9 +53,13 @@ Want to add your project to the list? Jump to the next section!
 [@darjutak]: https://github.com/darjutak
 [@duhemm]: https://github.com/Duhemm
 [@jvican]: https://github.com/jvican
+[@propensive]: https://github.com/propensive
 [@allanrenucci]: https://github.com/allanrenucci
 [@nicolasstucki]: https://github.com/nicolasstucki
 [bloop]: https://github.com/scalacenter/bloop
+[Guillotine]: https://github.com/propensive/guillotine
+[Magnolia]: https://github.com/propensive/magnolia
+[Kaleidoscope]: https://github.com/propensive/kaleidoscope
 [scala native]: https://github.com/scala-native/scala-native
 [dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 [metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
