@@ -35,7 +35,6 @@ Here is a list of projects that you could contribute to during the spree:
 | [Dotty] - The research compiler that will become Scala 3                                  | [@smarter] [@duhemm] |
 | Help upgrade community projects to the new collections in Scala 2.13                      | adriaanm |
 | [Magnolia] - simpler, faster generic derivation with better diagnostics                   | [@propensive] |
-| [Guillotine] - simplified and generalized support for calling shell processes             | [@propensive] |
 | [Kaleidoscope] - support for constructing and pattern matching new types of literals      | [@propensive] |
 | add your project here!                                                                    |                     |
 
