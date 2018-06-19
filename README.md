@@ -58,7 +58,7 @@ Want to add your project to the list? Jump to the next section!
 [@propensive]: https://github.com/propensive
 [@allanrenucci]: https://github.com/allanrenucci
 [@nicolasstucki]: https://github.com/nicolasstucki
-[bloop]: https://github.com/scalacenter/bloop
+[bloop]: https://github.com/scalacenter/bloop/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 [Guillotine]: https://github.com/propensive/guillotine
 [Magnolia]: https://github.com/propensive/magnolia
 [Kaleidoscope]: https://github.com/propensive/kaleidoscope
