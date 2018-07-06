@@ -36,7 +36,7 @@ get this awesome t-shirt:
 | Drinks		  | 09:00pm      			 |
 
 
-### Projects
+### Projects (**ToBeUpdated**)
 
 Here is a list of projects that you could contribute to during the spree:
 
