@@ -31,7 +31,6 @@ Who will be leading the Scala Open Source Spree?
 
 * Darja Jovanovic, [@darjutak] (Scala Center)
 
-Want to add your project to the list? Jump to the next section!
 
 [@laughedelic]: https://github.com/laughedelic
 [@smarter]: https://github.com/smarter
