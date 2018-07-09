@@ -14,7 +14,7 @@ get this awesome t-shirt:
 
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
-| Time                    | June 18th, 02:30pm - 09:00pm                                                               |
+| Time                    | July 18th, 02:30pm - 09:00pm                                                               |
 | Location                | [Bijlmerdreef 24, Amsterdam Zuid Oost.][venue]					       |
 | Conference registration | **Not Required**                                                                           |
 | Event Registration      | **Free, required**: [event-registration]                                                   |
