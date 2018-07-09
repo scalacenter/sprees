@@ -10,25 +10,37 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## ScalaDays 2018 (New York) June 19th
+## CurryOn 2018 (Amsterdam) July 18th
 
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
-| Time                    | June 19th, 09:00am - 04:00pm                                                               |
-| Location                | [60 Madison Ave, New York, NY 10010, United States][venue] (12th floor, sponsored by Tapad |
+| Time                    | July 18th, 02:30pm - 09:00pm                                                               |
+| Location                | [Bijlmerdreef 24, Amsterdam Zuid Oost.][venue]					       |
 | Conference registration | **Not Required**                                                                           |
 | Event Registration      | **Free, required**: [event-registration]                                                   |
 | Food                    | **Free**: Sponsored by Lightbend.                                                          |
-| Bring                   | Laptop + ID for security check                                                             |
+| Bring                   | Laptop + Power Cord + ID for security check                                                |
 
-[venue]: https://goo.gl/maps/YAg5eNZtN3y
-[event-registration]: https://goo.gl/forms/Rn624OQKXaDUhtpk2
+[venue]: https://www.google.com/maps/place/Acanthus,+Bijlmerdreef+24,+1102+CT+Amsterdam,+Netherlands/data=!4m2!3m1!1s0x47c60b91227b1f3d:0x8f2538ebec1b00c5?sa=X&ved=0ahUKEwid_56isYvcAhVJc98KHTUwAUwQ8gEIKjAA
+[event-registration]: ???
 
-### Projects
+
+### Detailed Schedule
+|                         |                                      |
+| ----------------------- | -------------------------------------|
+| Start Time              | 02:30pm                              |
+| Opening Remark          | 03:00pm				 |
+| Contributing		  | 03:30pm				 |
+| Dinner & Networking	  | 07:00pm				 |
+| Heather's Talk	  | 08:00pm      			 |
+| Drinks		  | 09:00pm      			 |
+
+
+### Projects (**ToBeUpdated**)
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                                                   | Contact             |
+| Project (**ToBeUpdated**)                                                                 | Contact             |
 | ----------------------------------------------------------------------------------------- | ------------------- |
 | [Bloop] - Scala build server and command-line tool for faster developer workflows         | [@duhemm] [@jvican] |
 | [sbt] - the Scala ecosystem's build tool                                                  | [@eed3si9n] [@dwijnand] |
@@ -41,7 +53,9 @@ Here is a list of projects that you could contribute to during the spree:
 
 Who will be leading the Scala Open Source Spree?
 
+* Heather Miller, [@heathermiller] (Scala Center, CMU)
 * Darja Jovanovic, [@darjutak] (Scala Center)
+* Yifan Xing, [@yifanxing]
 
 Want to add your project to the list? Jump to the next section!
 
@@ -58,6 +72,9 @@ Want to add your project to the list? Jump to the next section!
 [@propensive]: https://github.com/propensive
 [@allanrenucci]: https://github.com/allanrenucci
 [@nicolasstucki]: https://github.com/nicolasstucki
+[@heathermiller]: https://github.com/heathermiller
+[@yifanxing]: https://github.com/xingyif
+
 [bloop]: https://github.com/scalacenter/bloop/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 [Guillotine]: https://github.com/propensive/guillotine
 [Magnolia]: https://github.com/propensive/magnolia
@@ -105,7 +122,9 @@ the end, everyone starts to wrap up: participants finish their PRs while
 maintainers finish their review, and organizers of the spree give away Scala
 t-shirts. We finish by thanking your hard work for open-source.
 
-## How to propose a project
+## For Maintainers:
+
+### How to propose a project
 
 A Scala Center spree is the perfect event to gauge interest in your open-source
 projects. You not only have the opportunity to get new contributors involved in
@@ -135,7 +154,7 @@ would solve in 15-20 minutes of your time as an experienced maintainer. In our
 experience, newcomers will take 1 to 2 hours to address them, assuming they are
 unfamiliar with the codebase and this is their first contribution.
 
-#### How to be an effective maintainer
+### How to be an effective maintainer
 
 Maintainers can make a difference by tweaking some knobs:
 
@@ -153,7 +172,7 @@ Maintainers can make a difference by tweaking some knobs:
 * [Be nice to newcomers](http://brson.github.io/2017/04/05/minimally-nice-maintainer),
  they will always remember it!
 
-#### How to write good tickets
+### How to write good tickets
 
 Curating tickets is not easy. If you want to optimize for the highest number of
 contributors, we recommend you to:
