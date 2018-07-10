@@ -17,7 +17,7 @@ get this awesome t-shirt:
 | Time                    | July 18th, 02:30pm - 09:00pm                                                               |
 | Location                | HQ ING NL [Bijlmerdreef 24, Amsterdam Zuid Oost.][venue]					       |
 | Conference registration | **Not Required**                                                                           |
-| Event Registration      | **Free, required**: [event-registration]                                                   |
+| Event Registration      | **Free, required**: [event-registration](https://www.meetup.com/amsterdam-scala/events/252627071/)                                                  |
 | Food                    | **Free**: Sponsored by ING                                                          |
 | Bring                   | Laptop + Power Cord + ID for security check                                                |
 
