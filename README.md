@@ -15,10 +15,10 @@ get this awesome t-shirt:
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
 | Time                    | July 18th, 02:30pm - 09:00pm                                                               |
-| Location                | [Bijlmerdreef 24, Amsterdam Zuid Oost.][venue]					       |
+| Location                | HQ ING NL [Bijlmerdreef 24, Amsterdam Zuid Oost.][venue]					       |
 | Conference registration | **Not Required**                                                                           |
 | Event Registration      | **Free, required**: [event-registration]                                                   |
-| Food                    | **Free**: Sponsored by Lightbend.                                                          |
+| Food                    | **Free**: Sponsored by ING                                                          |
 | Bring                   | Laptop + Power Cord + ID for security check                                                |
 
 [venue]: https://www.google.com/maps/place/Acanthus,+Bijlmerdreef+24,+1102+CT+Amsterdam,+Netherlands/data=!4m2!3m1!1s0x47c60b91227b1f3d:0x8f2538ebec1b00c5?sa=X&ved=0ahUKEwid_56isYvcAhVJc98KHTUwAUwQ8gEIKjAA
@@ -28,12 +28,12 @@ get this awesome t-shirt:
 ### Detailed Schedule
 |                         |                                      |
 | ----------------------- | -------------------------------------|
-| Start Time              | 02:30pm                              |
-| Opening Remark          | 03:00pm				 |
+| Start Time              | 2:30 PM                              |
+| Opening Remark          | 3 PM				 |
 | Contributing		  | 03:30pm				 |
-| Dinner & Networking	  | 07:00pm				 |
-| Heather's Talk	  | 08:00pm      			 |
-| Drinks		  | 09:00pm      			 |
+| Dinner & Networking	  | 7 PM				 |
+| Heather Miller's Talk	  | 8 PM      			 |
+
 
 
 ### Projects (**ToBeUpdated**)
