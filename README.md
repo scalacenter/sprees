@@ -30,7 +30,7 @@ get this awesome t-shirt:
 | ----------------------- | -------------------------------------|
 | Start Time              | 2:30 PM                              |
 | Opening Remark          | 3 PM				 |
-| Contributing		  | 03:30pm				 |
+| Contributing		  | 3:30 PM				 |
 | Dinner & Networking	  | 7 PM				 |
 | Heather Miller's Talk	  | 8 PM      			 |
 
