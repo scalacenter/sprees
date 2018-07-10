@@ -48,7 +48,6 @@ Here is a list of projects that you could contribute to during the spree:
 | Help upgrade community projects to the new collections in Scala 2.13                      | adriaanm |
 | [Magnolia] - simpler, faster generic derivation with better diagnostics                   | [@propensive] |
 | [Kaleidoscope] - support for constructing and pattern matching new types of literals      | [@propensive] |
-| [scala-library]/[collection-strawman] - improve API documentation, fix remaining issues   | [@julienrf] |
 | add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
