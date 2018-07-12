@@ -56,6 +56,7 @@ Want to add your project to the list? Jump to the next section!
 [@darjutak]: https://github.com/darjutak
 [@heathermiller]: https://github.com/heathermiller
 [@yifanxing]: https://github.com/xingyif
+[@raboof]: https://github.com/raboof
 
 [Akka]: https://github.com/akka/akka/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 
