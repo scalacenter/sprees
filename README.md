@@ -42,7 +42,7 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project      			                                                            | Contact             |
 | ----------------------------------------------------------------------------------------- | ------------------- |
-| [ExampleProjectName] - Project Description         | [@maintainer1] |
+| [Akka] - toolkit for concurrent, distributed, and resilient message-driven applications | [@raboof] |
 | Add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
@@ -56,8 +56,9 @@ Want to add your project to the list? Jump to the next section!
 [@darjutak]: https://github.com/darjutak
 [@heathermiller]: https://github.com/heathermiller
 [@yifanxing]: https://github.com/xingyif
+[@raboof]: https://github.com/raboof
 
-[ExampleProjectName]: #
+[Akka]: https://github.com/akka/akka/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 
 ## Duration, pace steps
 
