@@ -44,6 +44,7 @@ Here is a list of projects that you could contribute to during the spree:
 | ----------------------------------------------------------------------------------------- | ------------------- |
 | [Akka] - toolkit for concurrent, distributed, and resilient message-driven applications | [@raboof] |
 | [scala-lang.org] - scala.lang.org / [docs.scala-lang.org] - docs.scala-lang.org | [@Philippus] |
+| [Apache Spark] - Lightning-fast unified analytics engine | [@hvanhovell] |
 | Add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
@@ -59,10 +60,12 @@ Want to add your project to the list? Jump to the next section!
 [@yifanxing]: https://github.com/xingyif
 [@raboof]: https://github.com/raboof
 [@Philippus]: https://github.com/Philippus
+[@hvanhovell]: https://github.com/hvanhovell
 
 [Akka]: https://github.com/akka/akka/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 [scala-lang.org]: https://github.com/scala/scala-lang/issues
 [docs.scala-lang.org]: https://github.com/scala/docs.scala-lang/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Apache Spark]: https://issues.apache.org/jira/projects/SPARK/issues?filter=allissues
 
 ## Duration, pace steps
 
