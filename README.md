@@ -14,23 +14,23 @@ get this awesome t-shirt:
 
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
-| Time                    | September 9th, 9:00am - 3:00pm                                                               |
-| Location                | Scalac HQ [Czesława Miłosza 9][venue]					       |
+| Time                    | September 9th, 10:00am - 4:00pm                                                               |
+| Location                | Olivia Business Centre, Olivia FOUR, [aleja Grunwaldzka 472a][venue]					       |
 | Conference registration | **Not Required**                                                                           |
 | Event Registration      | **Free, required**: [event-registration](event-registration)                                                  |
 | Food                    | **Free**: Sponsored by Scalac                                                          |
 | Bring                   | Laptop + Power Cord                                               |
 
-[venue]: https://www.google.pl/maps/place/Czes%C5%82awa+Mi%C5%82osza+9,+80-126+Gda%C5%84sk/@54.3486693,18.5882556,17.56z/data=!4m5!3m4!1s0x46fd746f306947e9:0x5e4c82894a4dbc76!8m2!3d54.348488!4d18.58972
-[event-registration]: ???
+[venue]: https://www.google.com/maps/search/?api=1&query=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl
+[event-registration]: https://www.meetup.com/FunctionalTricity/events/253573703/
 
 
 ### Detailed Schedule
 |                         |                                      |
 | ----------------------- | -------------------------------------|
-| Start Time              | 9:00am                              |
-| Presenting the projects          | 9:10am				 |
-| Contributing		  | 9:30am			 |
+| Start Time              | 10:00am                              |
+| Presenting the projects          | 10:10am				 |
+| Contributing		  | 10:30am			 |
 | Dinner & Networking	  | 1:00pm				 |
 
 
