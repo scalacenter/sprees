@@ -10,7 +10,7 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Scala Wave 2018 (Gdańsk, Poland) July 18th
+## Scala Wave 2018 (Gdańsk, Poland) September 9th
 
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
