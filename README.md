@@ -15,14 +15,12 @@ get this awesome t-shirt:
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
 | Time                    | September 9th, 10:00am - 4:00pm                                                               |
-| Location                | Olivia Business Centre, Olivia FOUR, [aleja Grunwaldzka 472a][venue]					       |
+| Location                | Olivia Business Centre, Olivia FOUR, [aleja Grunwaldzka 472a][https://www.google.com/maps/search/?api=1&query=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl]					       |
 | Conference registration | **Not Required**                                                                           |
-| Event Registration      | **Free, required**: [event-registration](event-registration)                                                  |
+| Event Registration      | **Free, required**: [event-registration](https://www.meetup.com/FunctionalTricity/events/253573703/)                                                  |
 | Food                    | **Free**: Sponsored by Scalac                                                          |
 | Bring                   | Laptop + Power Cord                                               |
 
-[venue]: https://www.google.com/maps/search/?api=1&query=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl
-[event-registration]: https://www.meetup.com/FunctionalTricity/events/253573703/
 
 
 ### Detailed Schedule
