@@ -30,6 +30,8 @@ get this awesome t-shirt:
 | Presenting the projects          | 10:10am				 |
 | Contributing		  | 10:30am			 |
 | Dinner & Networking	  | 1:00pm				 |
+| Contributing	  | 1:30pm				 |
+| Wrap up	  | 4:00pm				 |
 
 
 
