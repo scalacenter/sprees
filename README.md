@@ -14,7 +14,7 @@ get this awesome t-shirt:
 
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
-| Time                    | September 9th, 10:00am - 4:00pm                                                               |
+| Time                    | September 9th, 9:00am - 4:00pm                                                               |
 | Location                | Olivia Business Centre, Olivia FOUR, [aleja Grunwaldzka 472a](https://www.google.com/maps/search/?api=1&query=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl)					       |
 | Conference registration | **Not Required**                                                                           |
 | Event Registration      | **Free, required**: [event-registration](https://www.meetup.com/FunctionalTricity/events/253573703/)                                                  |
@@ -26,11 +26,11 @@ get this awesome t-shirt:
 ### Detailed Schedule
 |                         |                                      |
 | ----------------------- | -------------------------------------|
-| Start Time              | 10:00am                              |
-| Presenting the projects          | 10:10am				 |
-| Contributing		  | 10:30am			 |
+| Start Time              | 9:00am                              |
+| Presenting the projects          | 9:30am				 |
+| Contributing		  | 10:00am			 |
 | Dinner & Networking	  | 1:00pm				 |
-| Contributing	  | 1:30pm				 |
+| Contributing	  | 2:00pm				 |
 | Wrap up	  | 4:00pm				 |
 
 
