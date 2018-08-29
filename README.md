@@ -41,6 +41,7 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project      			                                                            | Contact             |
 | ----------------------------------------------------------------------------------------- | ------------------- |
+| [Chimney](https://github.com/scalalandio/chimney/) - Scala library for boilerplate-free data transformations | @krzemin |
 | Add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
