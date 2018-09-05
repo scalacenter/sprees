@@ -39,9 +39,12 @@ get this awesome t-shirt:
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project      			                                                    | Contact           |
-|---------------------------------------------------------------------|-------------------|
+| Project      			                                                                          | Contact             |
+| ----------------------------------------------------------------------------------------- | ------------------- |
 | Orkestra (https://github.com/Orkestra-Tech/orkestra)                | @joan38           |
+| [Chimney](https://github.com/scalalandio/chimney/) - Scala library for boilerplate-free data transformations | @krzemin |
+| [julienrf/endpoints][endpoints] - API definition shared between client, server and docs ([issues][endpoints-issues])   | [@Krever][krever]   |
+| Add your project here!                                                                    |                     |
 
 Who will be leading the Scala Open Source Spree?
 
