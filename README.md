@@ -44,6 +44,7 @@ Here is a list of projects that you could contribute to during the spree:
 | Orkestra (https://github.com/Orkestra-Tech/orkestra)                | @joan38           |
 | [Chimney](https://github.com/scalalandio/chimney/) - Scala library for boilerplate-free data transformations | @krzemin |
 | [julienrf/endpoints][endpoints] - API definition shared between client, server and docs ([issues][endpoints-issues])   | [@Krever][krever]   |
+| [Bloop](https://github.com/scalacenter/bloop) - Scala build server | [@tues](https://github.com/tues) |
 | Add your project here!                                                                    |                     |
 
 [endpoints]: https://github.com/julienrf/endpoints
