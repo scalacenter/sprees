@@ -15,7 +15,7 @@ get this awesome t-shirt:
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
 | Time                    | October 30th, 9:00am - 5:00pm, October 31st 9:00am - 4:00pm                                |
-| Location                | [CPE Lyon](https://www.google.com/maps/search/?api=1&query=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl) Bâtiment Hubert Curien, Domaine Scientifique de la Doua, 43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne					       |
+| Location                | [CPE Lyon](https://www.google.com/maps/place/CPE+Lyon/@45.7838533,4.8690119,12z/data=!4m12!1m6!3m5!1s0x0:0x9efbb71d73134a76!2sCPE+Lyon!8m2!3d45.7838533!4d4.8690119!3m4!1s0x0:0x9efbb71d73134a76!8m2!3d45.7838533!4d4.8690119?hl=fr-FR) Bâtiment Hubert Curien, Domaine Scientifique de la Doua, 43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne					       |
 | Conference registration | **Required** [event registration](https://scala.io)                                        |
 | Event Registration      | **Free, not required**                                                  |
 | Food                    | **Free**                                                          |
@@ -45,7 +45,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scala.js] and/or [scalac] | @sjrd |
 | [Hamsters] A mini Scala utility library   | @dgouyette   |
 | IntelliJ Scala plugin | @jastice  |
-| [scalajs-bundler], [endpoints], [scalac] | @ulienrf | 
+| [scalajs-bundler], [endpoints], [scalac] | @julienrf | 
 | [fs2-cassandra], [fs2-rabbit] and / or [fs2-redis] | @gvolpe |
 | [ZIO] — A principled, powerful, standalone effect data type for any Scala project. | @jdegoes | 
 | Add your project here!                                                                    |                     |
