@@ -10,15 +10,15 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Scala Wave 2018 (Gdańsk, Poland) September 9th
+## Scala.IO 2018 (Lyon, France) October 30th and 31st
 
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
-| Time                    | September 9th, 9:00am - 4:00pm                                                               |
-| Location                | Olivia Business Centre, Olivia FOUR, [aleja Grunwaldzka 472a](https://www.google.com/maps/search/?api=1&query=aleja+Grunwaldzka+472a%2C+Gdansk%2C+pl)					       |
-| Conference registration | **Not Required**                                                                           |
-| Event Registration      | **Free, required**: [event-registration](https://www.meetup.com/FunctionalTricity/events/253573703/)                                                  |
-| Food                    | **Free**: Sponsored by Scalac                                                          |
+| Time                    | October 30th, 9:00am - 5:00pm, October 31st 9:00am - 4:00pm                                |
+| Location                | [CPE Lyon](https://www.google.com/maps/place/CPE+Lyon/@45.7838533,4.8690119,12z/data=!4m12!1m6!3m5!1s0x0:0x9efbb71d73134a76!2sCPE+Lyon!8m2!3d45.7838533!4d4.8690119!3m4!1s0x0:0x9efbb71d73134a76!8m2!3d45.7838533!4d4.8690119?hl=fr-FR) Bâtiment Hubert Curien, Domaine Scientifique de la Doua, 43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne					       |
+| Conference registration | **Required** [event registration](https://scala.io)                                        |
+| Event Registration      | **Free, not required**                                                  |
+| Food                    | **Free**                                                          |
 | Bring                   | Laptop + Power Cord                                               |
 
 
@@ -29,9 +29,9 @@ get this awesome t-shirt:
 | Start Time              | 9:00am                              |
 | Presenting the projects          | 9:30am				 |
 | Contributing		  | 10:00am			 |
-| Dinner & Networking	  | 1:00pm				 |
-| Contributing	  | 2:00pm				 |
-| Wrap up	  | 4:00pm				 |
+| Dinner & Networking	  | 12:30am Oct 30th, 1:00pm Oct 31th				 |
+| Contributing	  | 1:30pm Oct 30th, 2:00pm	Oct 31th			 |
+| Wrap up	  | 5:00pm Oct 30th, 4:00pm Oct 31th				 |
 
 
 
@@ -41,15 +41,25 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project      			                                                                          | Contact             |
 | ----------------------------------------------------------------------------------------- | ------------------- |
-| Orkestra (https://github.com/Orkestra-Tech/orkestra)                | @joan38           |
-| [Chimney](https://github.com/scalalandio/chimney/) - Scala library for boilerplate-free data transformations | @krzemin |
-| [julienrf/endpoints][endpoints] - API definition shared between client, server and docs ([issues][endpoints-issues])   | [@Krever][krever]   |
-| [Bloop](https://github.com/scalacenter/bloop) - Scala build server | [@tues](https://github.com/tues) |
+| [Fury]                | @propensive           |
+| [scala.js] and/or [scalac] | @sjrd |
+| [Hamsters] A mini Scala utility library   | @dgouyette   |
+| IntelliJ Scala plugin | @jastice  |
+| [scalajs-bundler], [endpoints], [scalac] | @julienrf | 
+| [fs2-cassandra], [fs2-rabbit] and / or [fs2-redis] | @gvolpe |
+| [ZIO] — A principled, powerful, standalone effect data type for any Scala project. | @jdegoes | 
 | Add your project here!                                                                    |                     |
 
+[Fury]:  https://github.com/propensive/fury
+[scala.js]: https://github.com/scala-js/scala-js
+[scalac]: https://github.com/scala/scala
+[Hamsters]: https://github.com/scala-hamsters/hamsters
+[scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler
 [endpoints]: https://github.com/julienrf/endpoints
-[endpoints-issues]: https://github.com/julienrf/endpoints/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
-[krever]: https://github.com/Krever
+[fs2-cassandra]: https://github.com/Spinoco/fs2-cassandra
+[fs2-rabbit]: https://github.com/gvolpe/fs2-rabbit
+[fs2-redis]: https://github.com/gvolpe/fs2-redis
+[ZIO]: https://github.com/scalaz/scalaz-zio
 
 Who will be leading the Scala Open Source Spree?
 
