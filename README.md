@@ -29,7 +29,7 @@ get this awesome t-shirt:
 | Start Time              | 9:00am                              |
 | Presenting the projects          | 9:30am				 |
 | Contributing		  | 10:00am			 |
-| Dinner & Networking	  | 12:30am Oct 30th, 1:00pm Oct 31th				 |
+| Lunch & Networking	  | 12:30am Oct 30th, 1:00pm Oct 31th				 |
 | Contributing	  | 1:30pm Oct 30th, 2:00pm	Oct 31th			 |
 | Wrap up	  | 5:00pm Oct 30th, 4:00pm Oct 31th				 |
 
