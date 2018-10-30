@@ -48,8 +48,10 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalajs-bundler], [endpoints], [scalac] | @julienrf | 
 | [fs2-cassandra], [fs2-rabbit] and / or [fs2-redis] | @gvolpe |
 | [ZIO] — A principled, powerful, standalone effect data type for any Scala project. | @jdegoes | 
+| [coursier] — Library and CLI tool to manage dependencies | @alexarchambault | 
 | Add your project here!                                                                    |                     |
 
+[coursier]:  https://github.com/coursier/coursier
 [Fury]:  https://github.com/propensive/fury
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/scala
