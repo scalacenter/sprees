@@ -10,14 +10,13 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Scala.IO 2018 (Lyon, France) October 30th and 31st
+## Scala Center, EPFL 15th of December 2018
 
 |                         |                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------ |
-| Time                    | October 30th, 9:00am - 5:00pm, October 31st 9:00am - 4:00pm                                |
-| Location                | [CPE Lyon](https://www.google.com/maps/place/CPE+Lyon/@45.7838533,4.8690119,12z/data=!4m12!1m6!3m5!1s0x0:0x9efbb71d73134a76!2sCPE+Lyon!8m2!3d45.7838533!4d4.8690119!3m4!1s0x0:0x9efbb71d73134a76!8m2!3d45.7838533!4d4.8690119?hl=fr-FR) Bâtiment Hubert Curien, Domaine Scientifique de la Doua, 43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne					       |
-| Conference registration | **Required** [event registration](https://scala.io)                                        |
-| Event Registration      | **Free, not required**                                                  |
+| Time                    | December 15th, 9:00am - 5:00pm                                |
+| Location                | [EPFL. BC 01 under the Scala stairs](https://map.epfl.ch/?dim_floor=0&lang=en&dim_lang=en&tree_groups=centres_nevralgiques%2Cacces%2Cmobilite_reduite%2Censeignement%2Ccommerces_et_services%2Cvehicules%2Cinfrastructure_plan_grp&tree_group_layers_centres_nevralgiques=information_epfl%2Cguichet_etudiants&tree_group_layers_acces=metro&tree_group_layers_mobilite_reduite=&tree_group_layers_enseignement=&tree_group_layers_commerces_et_services=&tree_group_layers_vehicules=&tree_group_layers_infrastructure_plan_grp=batiments_query_plan&baselayer_ref=grp_backgrounds&map_x=532737&map_y=152319&map_zoom=14) |                                        |
+| Event Registration      | **Free, required, 30 - 40 participants maximum capacity to ensure the best quality of maintainer-contributor work**                                                  |
 | Food                    | **Free**                                                          |
 | Bring                   | Laptop + Power Cord                                               |
 
@@ -26,12 +25,11 @@ get this awesome t-shirt:
 ### Detailed Schedule
 |                         |                                      |
 | ----------------------- | -------------------------------------|
-| Start Time              | 9:00am                              |
-| Presenting the projects          | 9:30am				 |
-| Contributing		  | 10:00am			 |
-| Dinner & Networking	  | 12:30am Oct 30th, 1:00pm Oct 31th				 |
-| Contributing	  | 1:30pm Oct 30th, 2:00pm	Oct 31th			 |
-| Wrap up	  | 5:00pm Oct 30th, 4:00pm Oct 31th				 |
+| Early-bird coffee&croissants	  | 9:00am			 |
+| Start Time              | 10:00am                              |
+| Lunch	  | 12:30am				 |
+| Contributing	  | 1:30pm			 |
+| Talks	  | 4:30pm				 |
 
 
 
@@ -41,31 +39,21 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project      			                                                                          | Contact             |
 | ----------------------------------------------------------------------------------------- | ------------------- |
-| [Fury]                | @propensive           |
 | [scala.js] and/or [scalac] | @sjrd |
-| [Hamsters] A mini Scala utility library   | @dgouyette   |
-| IntelliJ Scala plugin | @jastice  |
-| [scalajs-bundler], [endpoints], [scalac] | @julienrf | 
-| [fs2-cassandra], [fs2-rabbit] and / or [fs2-redis] | @gvolpe |
-| [ZIO] — A principled, powerful, standalone effect data type for any Scala project. | @jdegoes | 
+| [scalajs-bundler], [endpoints], [scalac] | @julienrf |  
 | [coursier] — Library and CLI tool to manage dependencies | @alexarchambault | 
 | Add your project here!                                                                    |                     |
 
 [coursier]:  https://github.com/coursier/coursier
-[Fury]:  https://github.com/propensive/fury
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/scala
-[Hamsters]: https://github.com/scala-hamsters/hamsters
 [scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler
 [endpoints]: https://github.com/julienrf/endpoints
-[fs2-cassandra]: https://github.com/Spinoco/fs2-cassandra
-[fs2-rabbit]: https://github.com/gvolpe/fs2-rabbit
-[fs2-redis]: https://github.com/gvolpe/fs2-redis
-[ZIO]: https://github.com/scalaz/scalaz-zio
 
 Who will be leading the Scala Open Source Spree?
 
-* Darja Jovanovic, [@darjutak] (Scala Center)
+* Darja Jovanovic, @darjutak (Scala Center)
+* Sébastien Doeraene, @sjrd
 
 Want to add your project to the list? Jump to the next section!
 
