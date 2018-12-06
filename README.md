@@ -17,7 +17,7 @@ get this awesome t-shirt:
 | Time                    | December 15th, 9:00am - 5:00pm                                |
 | Location                | [EPFL. BC 01 under the Scala stairs](https://map.epfl.ch/?dim_floor=0&lang=en&dim_lang=en&tree_groups=centres_nevralgiques%2Cacces%2Cmobilite_reduite%2Censeignement%2Ccommerces_et_services%2Cvehicules%2Cinfrastructure_plan_grp&tree_group_layers_centres_nevralgiques=information_epfl%2Cguichet_etudiants&tree_group_layers_acces=metro&tree_group_layers_mobilite_reduite=&tree_group_layers_enseignement=&tree_group_layers_commerces_et_services=&tree_group_layers_vehicules=&tree_group_layers_infrastructure_plan_grp=batiments_query_plan&baselayer_ref=grp_backgrounds&map_x=532737&map_y=152319&map_zoom=14) |                                        |
 | Event Registration      | **Free, required, 30 - 40 participants maximum capacity to ensure the best quality of maintainer-contributor work**                                                  |
-| Food                    | **Free**                                                          |
+| Food                    | **Free** sponsored by Bestmile                                                         |
 | Bring                   | Laptop + Power Cord                                               |
 
 
@@ -53,7 +53,7 @@ Here is a list of projects that you could contribute to during the spree:
 Who will be leading the Scala Open Source Spree?
 
 * Darja Jovanovic, @darjutak (Scala Center)
-* Sébastien Doeraene, @sjrd
+* Sébastien Doeraene, @sjrd (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
 
