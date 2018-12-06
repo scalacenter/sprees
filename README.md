@@ -42,9 +42,11 @@ Here is a list of projects that you could contribute to during the spree:
 | [scala.js] and/or [scalac] | @sjrd |
 | [scalajs-bundler], [endpoints], [scalac] | @julienrf |  
 | [coursier] — Library and CLI tool to manage dependencies | @alexarchambault | 
+| [dotty] — Future Scala 3 compiler | @nicolasstucki @smarter | 
 | Add your project here!                                                                    |                     |
 
 [coursier]:  https://github.com/coursier/coursier
+[dotty]: https://github.com/lampepfl/dotty
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/scala
 [scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler
