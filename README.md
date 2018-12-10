@@ -44,6 +44,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [coursier] — Library and CLI tool to manage dependencies | @alexarchambault | 
 | [cats], [cats-collections], [cats-mtl] | @larsrh |
 | [GraalVM] | @vjovanov | 
+| [dotty] - The research compiler that will become Scala 3                                  | [@smarter] |
 | Add your project here!                                                                    |                     |
 
 [coursier]:  https://github.com/coursier/coursier
@@ -56,6 +57,9 @@ Here is a list of projects that you could contribute to during the spree:
 [cats-mtl]: https://github.com/typelevel/cats-mtl
 [scaladex]: https://github.com/scalacenter/scaladex
 [GraalVM]: https://github.com/oracle/graal
+[dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+
+[@smarter]: https://github.com/smarter
 
 Who will be leading the Scala Open Source Spree?
 
