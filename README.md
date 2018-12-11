@@ -55,7 +55,7 @@ Here is a list of projects that you could contribute to during the spree:
 [cats]: https://github.com/typelevel/cats/issues
 [cats-collections]: https://github.com/typelevel/cats-collections
 [cats-mtl]: https://github.com/typelevel/cats-mtl
-[scaladex]: https://github.com/scalacenter/scaladex
+[scaladex]: https://github.com/scalacenter/scaladex/labels/Scala%20Spree
 [GraalVM]: https://github.com/oracle/graal
 [dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 
