@@ -50,7 +50,7 @@ Here is a list of projects that you could contribute to during the spree:
 [coursier]:  https://github.com/coursier/coursier
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/bug/labels/scala%20spree
-[scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler
+[scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/labels/low%20hanging%20fruit
 [endpoints]: https://github.com/julienrf/endpoints
 [cats]: https://github.com/typelevel/cats/issues
 [cats-collections]: https://github.com/typelevel/cats-collections
