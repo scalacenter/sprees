@@ -41,12 +41,14 @@ Here is a list of projects that you could contribute to during the spree:
 | ----------------------------------------------------------------------------------------- | ------------------- |
 | [scala.js] and/or [scalac] | @sjrd |
 | [scalajs-bundler], [scala-library][scalac], [scaladex], [endpoints] | @julienrf |  
-| [coursier] — Library and CLI tool to manage dependencies | @alexarchambault | 
+| [coursier] — Library and CLI tool to manage dependencies | @alexarchambault |
+| [almond] (aka jupyter-scala) — Scala kernel for Jupyter | @alexarchambault |
 | [cats], [cats-collections], [cats-mtl] | @larsrh |
 | [GraalVM] | @vjovanov | 
 | [dotty] - The research compiler that will become Scala 3                                  | [@smarter] |
 | Add your project here!                                                                    |                     |
 
+[almond]:  https://github.com/almond-sh/almond
 [coursier]:  https://github.com/coursier/coursier
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/bug/labels/scala%20spree
