@@ -10,25 +10,23 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Scala Center, EPFL 15th of December 2018
+## Teknologihuset, Oslo, Norway May 7th 2019
 
-|                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Time               | December 15th, 9:00am - 5:00pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Location           | [EPFL. BC 01 next to the Scala stairs](https://map.epfl.ch/?dim_floor=0&lang=en&dim_lang=en&tree_groups=centres_nevralgiques%2Cacces%2Cmobilite_reduite%2Censeignement%2Ccommerces_et_services%2Cvehicules%2Cinfrastructure_plan_grp&tree_group_layers_centres_nevralgiques=information_epfl%2Cguichet_etudiants&tree_group_layers_acces=metro&tree_group_layers_mobilite_reduite=&tree_group_layers_enseignement=&tree_group_layers_commerces_et_services=&tree_group_layers_vehicules=&tree_group_layers_infrastructure_plan_grp=batiments_query_plan&baselayer_ref=grp_backgrounds&map_x=532737&map_y=152319&map_zoom=14) |  |
-| Event Registration | **Free, required, 30 - 40 participants maximum capacity to ensure the best quality of maintainer-contributor work**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Food               | **Free** sponsored by Bestmile                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Bring              | Laptop + Power Cord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                    |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| Time               | May 7th, 10:00am - 4:00pm                               |
+| Location           | [Teknologihuset](https://goo.gl/maps/Xkd6aoJqVXwDpKES9)      |
+| Event Registration | [**Free**](https://www.meetup.com/scalabin/events/259982942) |
+| Food               | **Free** sponsored by Arktekk                                |
+| Bring              | Laptop + Power Cord                                          |
 
 ### Detailed Schedule
 
-|                              |         |
-| ---------------------------- | ------- |
-| Early-bird coffee&croissants | 9:00am  |
-| Start Time                   | 10:00am |
-| Lunch                        | 12:30am |
-| Contributing                 | 1:30pm  |
-| Talks                        | 4:30pm  |
+|            |         |
+| ---------- | ------- |
+| Start Time | 10:00am |
+| Lunch      | 12:00am |
+| End Time   | 16:00am |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
