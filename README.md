@@ -12,64 +12,62 @@ get this awesome t-shirt:
 
 ## Scala Center, EPFL 15th of December 2018
 
-|                         |                                                                                            |
-| ----------------------- | ------------------------------------------------------------------------------------------ |
-| Time                    | December 15th, 9:00am - 5:00pm                                |
-| Location                | [EPFL. BC 01 next to the Scala stairs](https://map.epfl.ch/?dim_floor=0&lang=en&dim_lang=en&tree_groups=centres_nevralgiques%2Cacces%2Cmobilite_reduite%2Censeignement%2Ccommerces_et_services%2Cvehicules%2Cinfrastructure_plan_grp&tree_group_layers_centres_nevralgiques=information_epfl%2Cguichet_etudiants&tree_group_layers_acces=metro&tree_group_layers_mobilite_reduite=&tree_group_layers_enseignement=&tree_group_layers_commerces_et_services=&tree_group_layers_vehicules=&tree_group_layers_infrastructure_plan_grp=batiments_query_plan&baselayer_ref=grp_backgrounds&map_x=532737&map_y=152319&map_zoom=14) |                                        |
-| Event Registration      | **Free, required, 30 - 40 participants maximum capacity to ensure the best quality of maintainer-contributor work**                                                  |
-| Food                    | **Free** sponsored by Bestmile                                                         |
-| Bring                   | Laptop + Power Cord                                               |
-
-
+|                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Time               | December 15th, 9:00am - 5:00pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Location           | [EPFL. BC 01 next to the Scala stairs](https://map.epfl.ch/?dim_floor=0&lang=en&dim_lang=en&tree_groups=centres_nevralgiques%2Cacces%2Cmobilite_reduite%2Censeignement%2Ccommerces_et_services%2Cvehicules%2Cinfrastructure_plan_grp&tree_group_layers_centres_nevralgiques=information_epfl%2Cguichet_etudiants&tree_group_layers_acces=metro&tree_group_layers_mobilite_reduite=&tree_group_layers_enseignement=&tree_group_layers_commerces_et_services=&tree_group_layers_vehicules=&tree_group_layers_infrastructure_plan_grp=batiments_query_plan&baselayer_ref=grp_backgrounds&map_x=532737&map_y=152319&map_zoom=14) |  |
+| Event Registration | **Free, required, 30 - 40 participants maximum capacity to ensure the best quality of maintainer-contributor work**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Food               | **Free** sponsored by Bestmile                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Bring              | Laptop + Power Cord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ### Detailed Schedule
-|                         |                                      |
-| ----------------------- | -------------------------------------|
-| Early-bird coffee&croissants	  | 9:00am			 |
-| Start Time              | 10:00am                              |
-| Lunch	  | 12:30am				 |
-| Contributing	  | 1:30pm			 |
-| Talks	  | 4:30pm				 |
 
-
+|                              |         |
+| ---------------------------- | ------- |
+| Early-bird coffee&croissants | 9:00am  |
+| Start Time                   | 10:00am |
+| Lunch                        | 12:30am |
+| Contributing                 | 1:30pm  |
+| Talks                        | 4:30pm  |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project      			                                                                          | Contact             |
-| ----------------------------------------------------------------------------------------- | ------------------- |
-| [scala.js] and/or [scalac] | @sjrd |
-| [scalajs-bundler], [scala-library][scalac], [scaladex], [endpoints] | @julienrf |  
-| [coursier] — Library and CLI tool to manage dependencies | @alexarchambault |
-| [almond] (aka jupyter-scala) — Scala kernel for Jupyter | @alexarchambault |
-| [cats], [cats-collections], [cats-mtl] | @larsrh |
-| [GraalVM] | @vjovanov | 
-| [dotty] - The research compiler that will become Scala 3                                  | [@smarter] |
-| Add your project here!                                                                    |                     |
+| Project                                                   | Contact          |
+| --------------------------------------------------------- | ---------------- |
+| [Coursier] — Library and CLI tool to manage dependencies  | @alexarchambault |
+| [Almond] (aka jupyter-scala) — Scala kernel for Jupyter   | @alexarchambault |
+| [Metals] — Language Server for Scala                      | @olafurpg        |
+| [Bloop] — Scala build server for fast developer workflows | @jvican          |
+| [IntelliJ Scala] — Scala plugin for IntelliJ IDEA         | @jastice         |
+| Add your project here!                                    |                  |
 
-[almond]:  https://github.com/almond-sh/almond
-[coursier]:  https://github.com/coursier/coursier
+[almond]: https://github.com/almond-sh/almond
+[coursier]: https://github.com/coursier/coursier
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/bug/labels/scala%20spree
-[scalajs-bundler]: https://github.com/scalacenter/scalajs-bundler/labels/low%20hanging%20fruit
+[metals]: https://github.com/scalameta/metals
+[bloop]: https://github.com/scalacenter/bloop
+[intellij scala]: https://github.com/jetbrains/intellij-scala
+[scalajs-bundler]:
+  https://github.com/scalacenter/scalajs-bundler/labels/low%20hanging%20fruit
 [endpoints]: https://github.com/julienrf/endpoints
 [cats]: https://github.com/typelevel/cats/issues
 [cats-collections]: https://github.com/typelevel/cats-collections
 [cats-mtl]: https://github.com/typelevel/cats-mtl
 [scaladex]: https://github.com/scalacenter/scaladex/labels/Scala%20Spree
-[GraalVM]: https://github.com/oracle/graal
-[dotty]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
-
+[graalvm]: https://github.com/oracle/graal
+[dotty]:
+  https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 [@smarter]: https://github.com/smarter
 
 Who will be leading the Scala Open Source Spree?
 
-* Darja Jovanovic, @darjutak (Scala Center)
-* Sébastien Doeraene, @sjrd (Scala Center)
+- Darja Jovanovic, @darjutak (Scala Center)
+- Sébastien Doeraene, @sjrd (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
-
 
 ## Duration, pace steps
 
@@ -123,12 +121,12 @@ project to the list!
 
 Create a PR with the following information:
 
-* Project information.
-* Your contact details.
-* A link to a "spree" or "hackathon" label with curated tickets for the
- participants. See
- [this project](https://github.com/sbt/zinc/issues?utf8=✓&q=label:hackathon%20is:issue)
- for inspiration.
+- Project information.
+- Your contact details.
+- A link to a "spree" or "hackathon" label with curated tickets for the
+  participants. See
+  [this project](https://github.com/sbt/zinc/issues?utf8=✓&q=label:hackathon%20is:issue)
+  for inspiration.
 
 It's important that the curated tickets are entry-level, typical issues that you
 would solve in 15-20 minutes of your time as an experienced maintainer. In our
@@ -139,31 +137,31 @@ unfamiliar with the codebase and this is their first contribution.
 
 Maintainers can make a difference by tweaking some knobs:
 
-* Provide a `CONTRIBUTING` guide. Contributing guides explain to newcomers the
- usual workflow to get started and what's expected from them. Good guides:
- [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
- [sbt/zinc](https://github.com/sbt/zinc/blob/1.x/CONTRIBUTING.md),
- [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
- [scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
-* Provide a motivating `README` with clear instructions. Make sure docs are up
- to date.
-* Link to documentation when possible, or show contributors how to search for
- docs. You can label as `docs` any issue or PR with relevant discussions to get
- acquainted with implementation details and design decisions.
-* [Be nice to newcomers](http://brson.github.io/2017/04/05/minimally-nice-maintainer),
- they will always remember it!
+- Provide a `CONTRIBUTING` guide. Contributing guides explain to newcomers the
+  usual workflow to get started and what's expected from them. Good guides:
+  [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
+  [sbt/zinc](https://github.com/sbt/zinc/blob/1.x/CONTRIBUTING.md),
+  [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
+  [scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
+- Provide a motivating `README` with clear instructions. Make sure docs are up
+  to date.
+- Link to documentation when possible, or show contributors how to search for
+  docs. You can label as `docs` any issue or PR with relevant discussions to get
+  acquainted with implementation details and design decisions.
+- [Be nice to newcomers](http://brson.github.io/2017/04/05/minimally-nice-maintainer),
+  they will always remember it!
 
 ### How to write good tickets
 
 Curating tickets is not easy. If you want to optimize for the highest number of
 contributors, we recommend you to:
 
-* Give hints on potential solutions. Say which solutions are not on the table,
- if any.
-* Describe the purpose of the ticket and its context. Having a clear idea of why
- your ticket is relevant will motivate participants.
-* Add links to source code sparingly. Show the entry-points for the requested
- functionality / fix, give a basic explanation of the code structure.
-* Be concise and detail specifics of your project or its implementation.
- Providing this kind of domain knowledge to participants will help them finish
- off their tickets sooner, and move to the next one!
+- Give hints on potential solutions. Say which solutions are not on the table,
+  if any.
+- Describe the purpose of the ticket and its context. Having a clear idea of why
+  your ticket is relevant will motivate participants.
+- Add links to source code sparingly. Show the entry-points for the requested
+  functionality / fix, give a basic explanation of the code structure.
+- Be concise and detail specifics of your project or its implementation.
+  Providing this kind of domain knowledge to participants will help them finish
+  off their tickets sooner, and move to the next one!
