@@ -16,7 +16,7 @@ get this awesome t-shirt:
 | ------------------ | ------------------------------------------------------------ |
 | Time               | May 29th, 2:00pm - 8:00pm                               |
 | Location           | Prime Tower, 17th floor, Zurich, Switzerland |
-| Event Registration | TBA |
+| Event Registration | Free [here](https://www.meetup.com/Zurich-Scala/events/261645226/) |
 | Food               | Free Pizzas                                |
 | Bring              | Laptop + Power Cord                                          |
 
