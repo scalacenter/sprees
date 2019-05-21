@@ -17,7 +17,7 @@ get this awesome t-shirt:
 | Time               | May 29th, 2:00pm - 8:00pm                               |
 | Location           | Prime Tower, 17th floor, Zurich, Switzerland |
 | Event Registration | TBA |
-| Food               | TBA                                |
+| Food               | Free Pizzas                                |
 | Bring              | Laptop + Power Cord                                          |
 
 ### Detailed Schedule
