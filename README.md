@@ -10,14 +10,14 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Teknologihuset, Oslo, Norway May 7th 2019
+## Zurich, Switzerland. May 28th 2019
 
 |                    |                                                              |
 | ------------------ | ------------------------------------------------------------ |
-| Time               | May 7th, 10:00am - 4:00pm                               |
-| Location           | [Teknologihuset](https://goo.gl/maps/Xkd6aoJqVXwDpKES9)      |
+| Time               | May 28th, 10:00am - 4:00pm                               |
+| Location           | TBA      |
 | Event Registration | [**Free**](https://www.meetup.com/scalabin/events/259982942) |
-| Food               | **Free** sponsored by Arktekk                                |
+| Food               | TBA                                |
 | Bring              | Laptop + Power Cord                                          |
 
 ### Detailed Schedule
@@ -38,7 +38,9 @@ Here is a list of projects that you could contribute to during the spree:
 | [Almond] (aka jupyter-scala) — Scala kernel for Jupyter   | @alexarchambault |
 | [Metals] — Language Server for Scala                      | @olafurpg        |
 | [Bloop] — Scala build server for fast developer workflows | @jvican          |
-| [IntelliJ Scala] — Scala plugin for IntelliJ IDEA         | @jastice         |
+| [Scala.js] — scalac backend that produces JavaScript      | @sjrd            |
+| [scalac] — The Scala compiler and standard library        | @sjrd            |
+| [scalajs-bundler] — Integration with npm and webpack      | @julienrf        |
 | Add your project here!                                    |                  |
 
 [almond]: https://github.com/almond-sh/almond
