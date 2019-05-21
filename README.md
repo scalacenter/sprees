@@ -46,7 +46,7 @@ Here is a list of projects that you could contribute to during the spree:
 [almond]: https://github.com/almond-sh/almond
 [coursier]: https://github.com/coursier/coursier
 [scala.js]: https://github.com/scala-js/scala-js
-[scalac]: https://github.com/scala/bug/labels/scala%20spree
+[scalac]: https://github.com/scala/bug/labels/good%20first%20issue
 [metals]: https://github.com/scalameta/metals
 [bloop]: https://github.com/scalacenter/bloop
 [intellij scala]: https://github.com/jetbrains/intellij-scala
