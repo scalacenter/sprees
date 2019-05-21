@@ -10,11 +10,11 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Zurich, Switzerland. May 28th 2019
+## Zurich, Switzerland. May 29th 2019
 
 |                    |                                                              |
 | ------------------ | ------------------------------------------------------------ |
-| Time               | May 28th, 10:00am - 4:00pm                               |
+| Time               | May 29th, 2:00pm - 8:00pm                               |
 | Location           | TBA      |
 | Event Registration | TBA |
 | Food               | TBA                                |
@@ -24,9 +24,9 @@ get this awesome t-shirt:
 
 |            |         |
 | ---------- | ------- |
-| Start Time | 10:00am |
-| Lunch      | 12:00am |
-| End Time   | 16:00am |
+| Start Time | 2:00pm |
+| Coffee     | 4:00pm |
+| End Time   | 8:00pm |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
