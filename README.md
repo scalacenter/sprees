@@ -15,7 +15,7 @@ get this awesome t-shirt:
 |                    |                                                              |
 | ------------------ | ------------------------------------------------------------ |
 | Time               | May 29th, 2:00pm - 8:00pm                               |
-| Location           | TBA      |
+| Location           | Prime Tower, 17th floor, Zurich, Switzerland |
 | Event Registration | TBA |
 | Food               | TBA                                |
 | Bring              | Laptop + Power Cord                                          |
@@ -24,9 +24,11 @@ get this awesome t-shirt:
 
 |            |         |
 | ---------- | ------- |
+| Welcome Coffee | 1:30pm |
 | Start Time | 2:00pm |
-| Coffee     | 4:00pm |
-| End Time   | 8:00pm |
+| Dinner     | 7:00pm |
+| GraalVM Presentation   | 7:30pm |
+| End Time | 8:00pm |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
