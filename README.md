@@ -16,7 +16,7 @@ get this awesome t-shirt:
 | ------------------ | ------------------------------------------------------------ |
 | Time               | May 28th, 10:00am - 4:00pm                               |
 | Location           | TBA      |
-| Event Registration | [**Free**](https://www.meetup.com/scalabin/events/259982942) |
+| Event Registration | TBA |
 | Food               | TBA                                |
 | Bring              | Laptop + Power Cord                                          |
 
