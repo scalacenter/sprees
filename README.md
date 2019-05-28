@@ -45,16 +45,15 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalajs-bundler] — Integration with npm and webpack      | @julienrf        |
 | Add your project here!                                    |                  |
 
-[almond]: https://github.com/almond-sh/almond
-[coursier]: https://github.com/coursier/coursier
+[almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
+[coursier]: https://github.com/coursier/coursier/labels/low%20hanging%20fruit
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/bug/labels/good%20first%20issue
-[metals]: https://github.com/scalameta/metals
-[bloop]: https://github.com/scalacenter/bloop
+[metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
+[bloop]: https://github.com/scalacenter/bloop/labels/good%20first%20issue
 [intellij scala]: https://github.com/jetbrains/intellij-scala
 [scalajs-bundler]:
   https://github.com/scalacenter/scalajs-bundler/labels/low%20hanging%20fruit
-[endpoints]: https://github.com/julienrf/endpoints
 [cats]: https://github.com/typelevel/cats/issues
 [cats-collections]: https://github.com/typelevel/cats-collections
 [cats-mtl]: https://github.com/typelevel/cats-mtl
