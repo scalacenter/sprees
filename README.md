@@ -38,7 +38,6 @@ Here is a list of projects that you could contribute to during the spree:
 | --------------------------------------------------------- | ---------------- |
 | [Coursier] — Library and CLI tool to manage dependencies  | @alexarchambault |
 | [Almond] (aka jupyter-scala) — Scala kernel for Jupyter   | @alexarchambault |
-| [Metals] — Language Server for Scala                      | @olafurpg        |
 | [Bloop] — Scala build server for fast developer workflows | @jvican          |
 | [Scala.js] — scalac backend that produces JavaScript      | @sjrd            |
 | [scalac] — The Scala compiler and standard library        | @sjrd            |
@@ -49,7 +48,6 @@ Here is a list of projects that you could contribute to during the spree:
 [coursier]: https://github.com/coursier/coursier/labels/low%20hanging%20fruit
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/bug/labels/good%20first%20issue
-[metals]: https://github.com/scalameta/metals/labels/good%20first%20issue
 [bloop]: https://github.com/scalacenter/bloop/labels/good%20first%20issue
 [intellij scala]: https://github.com/jetbrains/intellij-scala
 [scalajs-bundler]:
