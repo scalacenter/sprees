@@ -45,7 +45,7 @@ Here is a list of projects that you could contribute to during the spree:
 | Add your project here!                                    |                  |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
-[coursier]: https://github.com/coursier/coursier/labels/low%20hanging%20fruit
+[coursier]: https://github.com/coursier/coursier/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/bug/labels/good%20first%20issue
 [bloop]: https://github.com/scalacenter/bloop/labels/good%20first%20issue
