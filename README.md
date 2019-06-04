@@ -44,6 +44,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalajs-bundler] — Integration with npm and webpack      | @julienrf        |
 | [akka] - Toolkit to build concurrent and distributed apps | @jrudolph        |
 | [akka-http] - Streaming HTTP server + client on Akka      | @jrudolph        |
+| [Metals] - Language Server for Scala                      | @olafurpg        |
 | Add your project here!                                    |                  |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
@@ -64,6 +65,7 @@ Here is a list of projects that you could contribute to during the spree:
 [@smarter]: https://github.com/smarter
 [akka]: https://github.com/akka/akka
 [akka-http]: https://github.com/akka/akka-http
+[metals]: https://github.com/scalameta/metals
 
 Who will be leading the Scala Open Source Spree?
 
