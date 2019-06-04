@@ -10,25 +10,25 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Zurich, Switzerland. May 29th 2019
+## Lausanne, Switzerland. June 11th 2019
 
 |                    |                                                              |
 | ------------------ | ------------------------------------------------------------ |
-| Time               | May 29th, 2:00pm - 8:00pm                               |
-| Location           | Prime Tower, 17th floor, Zurich, Switzerland |
-| Event Registration | Free [here](https://www.meetup.com/Zurich-Scala/events/261645226/) |
-| Food               | Free Pizzas                                |
+| Time               | June 11th, 09:00 - 16:00                               |
+| Location           | EPFL building BC, 4th Floor, room no. 410, Lausanne, Switzerland |
+| Event Registration | Free [here](https://www.meetup.com/Scala-Romandie/events/261590615/) |
+| Food               | Free! See detailed schedule. |
 | Bring              | Laptop + Power Cord                                          |
 
 ### Detailed Schedule
 
 |            |         |
 | ---------- | ------- |
-| Welcome Coffee | 1:30pm |
-| Start Time | 2:00pm |
-| Dinner     | 7:00pm |
-| GraalVM Presentation   | 7:30pm |
-| End Time | 8:00pm |
+| Welcome Breakfast | 08:00 - 09:00 |
+| Start Time | 09:00 |
+| Coffee and fruits break | 11:00 |
+| Lunch     | 12:30 |
+| End Time | 16:00 |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
