@@ -66,6 +66,7 @@ Here is a list of projects that you could contribute to during the spree:
 [akka]: https://github.com/akka/akka
 [akka-http]: https://github.com/akka/akka-http
 [metals]: https://github.com/scalameta/metals
+[endpoints]: https://github.com/julienrf/endpoints
 
 Who will be leading the Scala Open Source Spree?
 
