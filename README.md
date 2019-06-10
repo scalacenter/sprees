@@ -42,6 +42,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [Scala.js] — scalac backend that produces JavaScript      | @sjrd            |
 | [scalac] — The Scala compiler and standard library        | @sjrd            |
 | [scalajs-bundler] — Integration with npm and webpack      | @julienrf        |
+| [endpoints] — Consistent HTTP client, server and docs     | @julienrf        |
 | [akka] - Toolkit to build concurrent and distributed apps | @jrudolph        |
 | [akka-http] - Streaming HTTP server + client on Akka      | @jrudolph        |
 | [Metals] - Language Server for Scala                      | @olafurpg        |
