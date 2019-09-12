@@ -10,43 +10,45 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Kraków, Poland. October 6th 2019
+## Lausanne, Switzerland. June 11th 2019
 
-|                    |                                                                                                      |
-| ------------------ | ---------------------------------------------------------------------------------------------------- |
-| Time               | October 6th, 10:00 - 18:00                                                                           |
-| Location           | Podwale 3/7 (VirtusLab office) 31-118 Kraków, Poland                                                 |
-| Event Registration | Free [here](https://www.eventbrite.co.uk/e/scala-spree-as-part-of-sphereit-2019-tickets-70193953003) |
-| Food               | Free! See detailed schedule.                                                                         |
-| Bring              | Laptop + Power Cord                                                                                  |
+|                    |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| Time               | June 11th, 09:00 - 16:00                               |
+| Location           | EPFL building BC, 4th Floor, room no. 410, Lausanne, Switzerland |
+| Event Registration | Free [here](https://www.meetup.com/Scala-Romandie/events/261590615/) |
+| Food               | Free! See detailed schedule. |
+| Bring              | Laptop + Power Cord                                          |
 
 ### Detailed Schedule
 
-|              |       |
-| ------------ | ----- |
-| Start Time   | 10:00 |
-| Coffee break | 12:00 |
-| Pizza        | 14:00 |
-| End Time     | 18:00 |
+|            |         |
+| ---------- | ------- |
+| Welcome Breakfast | 08:00 - 09:00 |
+| Start Time | 09:00 |
+| Coffee and fruits break | 11:00 |
+| Lunch     | 12:30 |
+| End Time | 16:00 |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                                                                         | Contact                       |
-| --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [Bloop] — Scala build server for fast developer workflows                                                       | @tgodzik @marek1840           |
-| [Scala.js] — scalac backend that produces JavaScript                                                            | @sjrd                         |
-| [scalac] — The Scala compiler and standard library                                                              | @sjrd                         |
-| [dotty] — The Scala 3 compiler                                                                                  | @smarter                      |
-| [Intellij Scala] — A popular IDE for Scala                                                                      | @jastice                      |
-| [Metals] — Language Server for Scala                                                                            | @olafurpg @tgodzik @marek1840 |
-| [Monix] — Monix is a high-performance Scala / Scala.js library for composing asynchronous, event-based programs | @Avasil                       |
-| Add your project here!                                                                                          |                               |
+| Project                                                   | Contact          |
+| --------------------------------------------------------- | ---------------- |
+| [Coursier] — Library and CLI tool to manage dependencies  | @alexarchambault |
+| [Almond] (aka jupyter-scala) — Scala kernel for Jupyter   | @alexarchambault |
+| [Bloop] — Scala build server for fast developer workflows | @jvican          |
+| [Scala.js] — scalac backend that produces JavaScript      | @sjrd            |
+| [scalac] — The Scala compiler and standard library        | @sjrd, @szeiger  |
+| [dotty] — The Scala 3  compiler                           | @smarter, @anatoliykmetyuk, ... |
+| [scalajs-bundler] — Integration with npm and webpack      | @julienrf        |
+| [endpoints] — Consistent HTTP client, server and docs     | @julienrf        |
+| [Metals] - Language Server for Scala                      | @olafurpg        |
+| Add your project here!                                    |                  |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
-[coursier]:
-  https://github.com/coursier/coursier/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
+[coursier]: https://github.com/coursier/coursier/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
 [scala.js]: https://github.com/scala-js/scala-js
 [scalac]: https://github.com/scala/bug/labels/good%20first%20issue
 [bloop]: https://github.com/scalacenter/bloop/labels/good%20first%20issue
@@ -60,8 +62,8 @@ Here is a list of projects that you could contribute to during the spree:
 [graalvm]: https://github.com/oracle/graal
 [dotty]:
   https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+[@smarter]: https://github.com/smarter
 [akka]: https://github.com/akka/akka
-[monix]: https://github.com/monix/monix
 [akka-http]: https://github.com/akka/akka-http
 [metals]: https://github.com/scalameta/metals
 [endpoints]: https://github.com/julienrf/endpoints
