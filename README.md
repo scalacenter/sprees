@@ -10,14 +10,14 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Kraków, Poland. October 6th 2019
+## Bern, Switzerland. February 26th 2020
 
 |                    |                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
-| Time               | October 6th, 10:00 - 18:00                                                                           |
-| Location           | Podwale 3/7 (VirtusLab office) 31-118 Kraków, Poland                                                 |
-| Event Registration | Free [here](https://www.eventbrite.co.uk/e/scala-spree-as-part-of-sphereit-2019-tickets-70193953003) |
-| Food               | Free! See detailed schedule.                                                                         |
+| Time               | February 26th, 10:00 - 18:00                                                                       |
+| Location           | Sqooba (Schweiz) AG, Effingerstrasse 47, 3008 Bern                                                 |
+| Event Registration | Free [here] |
+| Food               | Free! See detailed schedule.                                                                       |
 | Bring              | Laptop + Power Cord                                                                                  |
 
 ### Detailed Schedule
@@ -27,6 +27,7 @@ get this awesome t-shirt:
 | Start Time   | 10:00 |
 | Coffee break | 12:00 |
 | Pizza        | 14:00 |
+| Talk by [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo)     | 16:30 |
 | End Time     | 18:00 |
 
 ### Projects (**Maintainers: Please add your project here!**)
@@ -35,14 +36,9 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                                                                         | Contact                       |
 | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [Bloop] — Scala build server for fast developer workflows                                                       | @tgodzik @marek1840           |
-| [Scala.js] — scalac backend that produces JavaScript                                                            | @sjrd                         |
-| [scalac] — The Scala compiler and standard library                                                              | @sjrd                         |
-| [dotty] — The Scala 3 compiler                                                                                  | @smarter                      |
-| [Intellij Scala] — A popular IDE for Scala                                                                      | @jastice                      |
-| [Metals] — Language Server for Scala                                                                            | @olafurpg @tgodzik @marek1840 |
-| [Monix] — Monix is a high-performance Scala / Scala.js library for composing asynchronous, event-based programs | @Avasil                       |
-| Add your project here!                                                                                          |                               |
+| [Scala.js] — scalac backend that produces JavaScript                                                            | @sjrd 
+| [scalac] — The Scala compiler and standard library                                                              | @sjrd |
+| Add your project here!                                                                                          | |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
 [coursier]:
