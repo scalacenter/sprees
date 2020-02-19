@@ -40,6 +40,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scalac] — The Scala compiler and standard library                                            | @sjrd |
 | [tasty-reader] — Use Scala 3 dependencies from Scala 2                                        | @bishabosha |
 | [scala-collection-compat] — Use the Scala 2.13’s new collections in Scala 2.12 projects       | @julienrf   |
+| [sbt-missinglink] — Detects binary incompatibilitiy errors                                    | @julienrf and @sjrd |
 | Add your project here!                                                                        |             |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
@@ -65,6 +66,7 @@ Here is a list of projects that you could contribute to during the spree:
 [metals]: https://github.com/scalameta/metals
 [endpoints]: https://github.com/julienrf/endpoints
 [scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
+[sbt-missinglink]: https://github.com/scalacenter/sbt-missinglink/labels/good%20first%20issue
 
 Who will be leading the Scala Open Source Spree?
 
