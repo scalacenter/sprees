@@ -34,12 +34,13 @@ get this awesome t-shirt:
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                                                                         | Contact                       |
-| --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [Scala.js] — scalac backend that produces JavaScript                                                            | @sjrd 
-| [scalac] — The Scala compiler and standard library                                                              | @sjrd |
-| [tasty-reader] — Use Scala 3 dependencies from Scala 2                                                              | @bishabosha |
-| Add your project here!                                                                                          | |
+| Project                                                                                       | Contact          |
+| --------------------------------------------------------------------------------------------- | ---------------- |
+| [Scala.js] — scalac backend that produces JavaScript                                          | @sjrd |
+| [scalac] — The Scala compiler and standard library                                            | @sjrd |
+| [tasty-reader] — Use Scala 3 dependencies from Scala 2                                        | @bishabosha |
+| [scala-collection-compat] — Use the Scala 2.13’s new collections in Scala 2.12 projects       | @julienrf   |
+| Add your project here!                                                                        |             |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
 [coursier]:
@@ -63,6 +64,7 @@ Here is a list of projects that you could contribute to during the spree:
 [akka-http]: https://github.com/akka/akka-http
 [metals]: https://github.com/scalameta/metals
 [endpoints]: https://github.com/julienrf/endpoints
+[scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
 
 Who will be leading the Scala Open Source Spree?
 
