@@ -41,6 +41,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [tasty-reader] — Use Scala 3 dependencies from Scala 2                                        | @bishabosha |
 | [scala-collection-compat] — Use the Scala 2.13’s new collections in Scala 2.12 projects       | @julienrf   |
 | [sbt-missinglink] — Detects binary incompatibilitiy errors                                    | @julienrf, @sjrd |
+| [dotty]                                                                                       | @anatoliykmetyuk |
 | Add your project here!                                                                        |             |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
