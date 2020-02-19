@@ -16,7 +16,7 @@ get this awesome t-shirt:
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
 | Time               | February 26th, 10:00 - 18:00                                                                       |
 | Location           | Sqooba (Schweiz) AG, Effingerstrasse 47, 3008 Bern                                                 |
-| Event Registration | Free [here] |
+| Event Registration | Free [here](https://www.meetup.com/Bern-Scala-User-Group/events/268650397/) |
 | Food               | Free! See detailed schedule.                                                                       |
 | Bring              | Laptop + Power Cord                                                                                  |
 
