@@ -36,9 +36,9 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                                                                         | Contact                       |
 | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [Scala.js] — scalac backend that produces JavaScript                                                            | @sjrd 
-| [scalac] — The Scala compiler and standard library                                                              | @sjrd |
-| [tasty-reader] — Use Scala 3 dependencies from Scala 2                                                              | @bishabosha |
+| [Scala.js] — scalac backend that produces JavaScript                                                            | @sjrd |
+| [scalac] — The Scala compiler and standard library                                                              | @sjrd, @lrytz |
+| [tasty-reader] — Use Scala 3 dependencies from Scala 2                                                          | @bishabosha |
 | Add your project here!                                                                                          | |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
