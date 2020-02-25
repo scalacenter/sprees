@@ -42,6 +42,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [scala-collection-compat] — Use the Scala 2.13’s new collections in Scala 2.12 projects       | @julienrf   |
 | [sbt-missinglink] — Detects binary incompatibilitiy errors                                    | @julienrf, @sjrd |
 | [dotty]                                                                                       | @anatoliykmetyuk |
+| [tf-dotty] — Experimental Dotty library for statically checking TensorFlow types and shapes   | @maximekjaer |
 | Add your project here!                                                                        |             |
 
 [almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
@@ -68,6 +69,7 @@ Here is a list of projects that you could contribute to during the spree:
 [endpoints]: https://github.com/julienrf/endpoints
 [scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
 [sbt-missinglink]: https://github.com/scalacenter/sbt-missinglink/labels/good%20first%20issue
+[tf-dotty]: https://github.com/MaximeKjaer/tf-dotty/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
 
 Who will be leading the Scala Open Source Spree?
 
