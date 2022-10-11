@@ -10,24 +10,25 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Paris, France. Thursday, 3rd November 2022
+## Bern, Switzerland. February 26th 2020
 
 |                    |                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
-| Time               | Thursday, 3rd November 2022, Time TODO |
-| Location           | TODO |
-| Event Registration | TODO |
-| Food               | TODO |
-| Bring              | Laptop + Power Cord |
+| Time               | February 26th, 10:00 - 18:00                                                                       |
+| Location           | Sqooba (Schweiz) AG, Effingerstrasse 47, 3008 Bern                                                 |
+| Event Registration | Free [here](https://www.meetup.com/Bern-Scala-User-Group/events/268650397/) |
+| Food               | Free! See detailed schedule.                                                                       |
+| Bring              | Laptop + Power Cord                                                                                  |
 
 ### Detailed Schedule
 
 |              |       |
 | ------------ | ----- |
-| Start Time   | TODO |
-| Coffee break | TODO |
-| Pizza        | TODO |
-| End Time     | TODO |
+| Start Time   | 10:00 |
+| Coffee break | 12:00 |
+| Pizza        | 14:00 |
+| Talk by [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo)     | 16:30 |
+| End Time     | 18:00 |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
@@ -35,20 +36,45 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                                                       | Contact          |
 | --------------------------------------------------------------------------------------------- | ---------------- |
-| [TASTy Query] – a library for semantic analysis of Scala programs | @bishabosha, @sjrd |
-| [Scaladex] — a Scala libraries search engine | @adpi2 |
-| [Scala Debugger in Metals] — a debugger for Scala programs | @adpi2 |
-| [Slinc] — Scala Link to C using Project Panama | @markehammons |
+| [Scala.js] — scalac backend that produces JavaScript                                          | @sjrd |
+| [scalac] — The Scala compiler and standard library                                            | @sjrd, @lrytz |
+| [tasty-reader] — Use Scala 3 dependencies from Scala 2                                        | @bishabosha |
+| [scala-collection-compat] — Use the Scala 2.13’s new collections in Scala 2.12 projects       | @julienrf   |
+| [sbt-missinglink] — Detects binary incompatibilitiy errors                                    | @julienrf, @sjrd |
+| [dotty]                                                                                       | @anatoliykmetyuk |
+| [tf-dotty] — Experimental Dotty library for statically checking TensorFlow types and shapes   | @maximekjaer |
 | Add your project here!                                                                        |             |
 
-[TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Slinc]: https://gitlab.com/mhammons/slinc/-/issues
+[almond]: https://github.com/almond-sh/almond/labels/low%20hanging%20fruit
+[coursier]:
+  https://github.com/coursier/coursier/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
+[scala.js]: https://github.com/scala-js/scala-js
+[scalac]: https://github.com/scala/bug/labels/good%20first%20issue
+[tasty-reader]: https://github.com/scalacenter/scala/labels/topic%3Atasty%2Fscala2
+[bloop]: https://github.com/scalacenter/bloop/labels/good%20first%20issue
+[intellij scala]: https://github.com/jetbrains/intellij-scala
+[scalajs-bundler]:
+  https://github.com/scalacenter/scalajs-bundler/labels/low%20hanging%20fruit
+[cats]: https://github.com/typelevel/cats/issues
+[cats-collections]: https://github.com/typelevel/cats-collections
+[cats-mtl]: https://github.com/typelevel/cats-mtl
+[scaladex]: https://github.com/scalacenter/scaladex/labels/Scala%20Spree
+[graalvm]: https://github.com/oracle/graal
+[dotty]:
+  https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+[akka]: https://github.com/akka/akka
+[monix]: https://github.com/monix/monix
+[akka-http]: https://github.com/akka/akka-http
+[metals]: https://github.com/scalameta/metals
+[endpoints]: https://github.com/julienrf/endpoints
+[scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
+[sbt-missinglink]: https://github.com/scalacenter/sbt-missinglink/labels/good%20first%20issue
+[tf-dotty]: https://github.com/MaximeKjaer/tf-dotty/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
 
 Who will be leading the Scala Open Source Spree?
 
-- Anatolii Kmetiuk, @anatoliykmetyuk (Scala Center)
+- Darja Jovanovic, @darjutak (Scala Center)
+- Sébastien Doeraene, @sjrd (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
 
