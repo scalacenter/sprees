@@ -14,20 +14,20 @@ get this awesome t-shirt:
 
 |                    |                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
-| Time               | Thursday, 3rd November 2022, Time TODO |
-| Location           | TODO |
+| Time               | Thursday, 3rd November 2022, 13:30 |
+| Location           | 81 rue de Clichy, Paris, 75009 |
 | Event Registration | TODO |
-| Food               | TODO |
+| Food               | Pizza after the spree |
 | Bring              | Laptop + Power Cord |
 
 ### Detailed Schedule
 
 |              |       |
 | ------------ | ----- |
-| Start Time   | TODO |
-| Coffee break | TODO |
-| Pizza        | TODO |
-| End Time     | TODO |
+| Start Time   | 13:30 |
+| Coffee break | 15:00 |
+| Pizza        | 16:30 |
+| End Time     | 17:30 |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
