@@ -22,12 +22,12 @@ get this awesome t-shirt:
 
 ### Detailed Schedule
 
-|              |       |
-| ------------ | ----- |
-| Start Time   | 13:30 |
-| Coffee break | 15:00 |
-| Pizza        | 16:30 |
-| End Time     | 17:30 |
+|                  |       |
+| ---------------- | ----- |
+| Start Time       | 13:30 |
+| Coffee break     | 15:00 |
+| Pizza            | 16:30 |
+| End Time, Drinks | 17:30 |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
