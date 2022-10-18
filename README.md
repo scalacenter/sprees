@@ -16,7 +16,7 @@ get this awesome t-shirt:
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
 | Time               | Thursday, 3rd November 2022, 13:30 |
 | Location           | 81 rue de Clichy, Paris, 75009 |
-| Event Registration | TODO |
+| Event Registration | https://scala.io/ |
 | Food               | Pizza after the spree |
 | Bring              | Laptop + Power Cord |
 
