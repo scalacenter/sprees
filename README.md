@@ -35,14 +35,19 @@ Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                                                       | Contact          |
 | --------------------------------------------------------------------------------------------- | ---------------- |
-| [TASTy Query] – a library for semantic analysis of Scala programs | @bishabosha, @sjrd |
-| [Scaladex] — a Scala libraries search engine | @adpi2 |
-| [Scala Debugger in Metals] — a debugger for Scala programs | @adpi2 |
-| [Slinc] — Scala Link to C using Project Panama | @markehammons |
-| [Scala Website] | @julienrf |
-| [sbt-version-policy] - a plugin to help enforce semantic versioning | @julienrf |
+| [TASTy Query] – a library for semantic analysis of Scala programs | [@bishabosha], [@sjrd] |
+| [Scaladex] — a Scala libraries search engine | [@adpi2] |
+| [Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2] |
+| [Slinc] — Scala Link to C using Project Panama | [@markehammons] |
+| [Scala Website] | [@julienrf] |
+| [sbt-version-policy] - a plugin to help enforce semantic versioning | [@julienrf] |
 | Add your project here!                                                                        |             |
 
+[@adpi2]: https://github.com/adpi2
+[@bishabosha]: https://github.com/bishabosha
+[@julienrf]: https://github.com/julienrf
+[@markehammons]: https://github.com/markehammons
+[@sjrd]: https://github.com/sjrd
 [TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
@@ -52,7 +57,9 @@ Here is a list of projects that you could contribute to during the spree:
 
 Who will be leading the Scala Open Source Spree?
 
-- Anatolii Kmetiuk, @anatoliykmetyuk (Scala Center)
+- Anatolii Kmetiuk, [@anatoliykmetyuk] (Scala Center)
+
+[@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
 
 Want to add your project to the list? Jump to the next section!
 
