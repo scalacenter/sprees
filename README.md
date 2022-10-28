@@ -39,6 +39,9 @@ Here is a list of projects that you could contribute to during the spree:
 | [Scaladex] — a Scala libraries search engine | [@adpi2] |
 | [Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2] |
 | [Slinc] — Scala Link to C using Project Panama | [@markehammons] |
+| [Scala 2] | [@SethTisue] |
+| [Scala 3] | [@SethTisue] |
+| [scala-collection-compat] | [@SethTisue] |
 | [Scala Website] | [@julienrf] |
 | [sbt-version-policy] - a plugin to help enforce semantic versioning | [@julienrf] |
 | Add your project here!                                                                        |             |
@@ -48,6 +51,10 @@ Here is a list of projects that you could contribute to during the spree:
 [@julienrf]: https://github.com/julienrf
 [@markehammons]: https://github.com/markehammons
 [@sjrd]: https://github.com/sjrd
+[@SethTisue]: https://github.com/SethTisue
+[Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
+[scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
 [TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
