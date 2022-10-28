@@ -51,7 +51,7 @@ Here is a list of projects that you could contribute to during the spree:
 [TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Slinc]: https://gitlab.com/mhammons/slinc/-/issues
+[Slinc]: https://github.com/markehammons/slinc/issues
 [Scala Website]: https://github.com/scala/docs.scala-lang
 [sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
 
