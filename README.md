@@ -36,6 +36,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [TASTy Query][TASTy Query] – a library for semantic analysis of Scala programs       | [@bishabosha][@bishabosha] |
 | [Scaladex][Scaladex] — a Scala libraries search engine                               | [@adpi2][@adpi2]           |
 | [Scala Debugger in Metals][Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2][@adpi2]           |
+| [kebs][kebs] — a Scala library to eliminate boilerplate                              | [@luksow][@luksow]         |
 | Add your project here!                                                                |                            |
 |                                                                                       |                            |
 |                                                                                       |                            |
@@ -149,6 +150,7 @@ contributors, we recommend you to:
 [@markehammons]: https://github.com/markehammons
 [@sjrd]: https://github.com/sjrd
 [@SethTisue]: https://github.com/SethTisue
+[@luksow]: https://github.com/luksow
 [Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
 [scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
@@ -158,4 +160,5 @@ contributors, we recommend you to:
 [Slinc]: https://github.com/markehammons/slinc/issues
 [Scala Website]: https://github.com/scala/docs.scala-lang
 [sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
+[kebs]: https://github.com/theiterators/kebs
 [@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
