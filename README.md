@@ -17,7 +17,7 @@ get this awesome t-shirt:
 | Time               | Wednesday, 7th of December 2022, 17:00                                                     |
 | Location           | [Giełdowa 1, Warsaw](https://goo.gl/maps/pvyqLmdCpMpLAbWA9) ([Synerise](https://synerise.com/)) |
 | Event Registration | [Meetups](https://www.meetup.com/scalawaw/events/289954415/)                                  |
-| Food               |                                                                                            |
+| Food               | Pizza and drinks                                                                           |
 | Bring              | Laptop + Power Cord                                                                        |
 
 ### Detailed Schedule
