@@ -10,63 +10,39 @@ get this awesome t-shirt:
 
 [![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Paris, France. Thursday, 3rd November 2022
+## Warsaw, Poland. Wednesday, 7th of December 2022
 
-|                    |                                                                                                      |
-| ------------------ | ---------------------------------------------------------------------------------------------------- |
-| Time               | Thursday, 3rd November 2022, 13:30 |
-| Location           | 81 rue de Clichy, Paris, 75009 |
-| Event Registration | https://scala.io/ |
-| Food               | Pizza after the spree |
-| Bring              | Laptop + Power Cord |
+|                    |                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------ |
+| Time               | Wednesday, 7th of December 2022, 17:00                                                     |
+| Location           | [Giełdowa 1, Warsaw](https://goo.gl/maps/pvyqLmdCpMpLAbWA9) ([Synerise](https://synerise.com/)) |
+| Event Registration | [Meetups](https://www.meetup.com/scalawaw/events/289954415/)                                  |
+| Food               |                                                                                            |
+| Bring              | Laptop + Power Cord                                                                        |
 
 ### Detailed Schedule
 
 |                  |       |
 | ---------------- | ----- |
-| Start Time       | 13:30 |
-| Coffee break     | 15:00 |
-| Pizza            | 16:30 |
-| End Time, Drinks | 17:30 |
+| Start Time       | 17:00 |
+| End Time, Drinks | 22:00 |
 
 ### Projects (**Maintainers: Please add your project here!**)
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                                                       | Contact          |
-| --------------------------------------------------------------------------------------------- | ---------------- |
-| [TASTy Query] – a library for semantic analysis of Scala programs | [@bishabosha], [@sjrd] |
-| [Scaladex] — a Scala libraries search engine | [@adpi2] |
-| [Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2] |
-| [Slinc] — Scala Link to C using Project Panama | [@markehammons] |
-| [Scala 2] | [@SethTisue] |
-| [Scala 3] | [@SethTisue] |
-| [scala-collection-compat] | [@SethTisue] |
-| [Scala Website] | [@julienrf] |
-| [sbt-version-policy] - a plugin to help enforce semantic versioning | [@julienrf] |
-| Add your project here!                                                                        |             |
-
-[@adpi2]: https://github.com/adpi2
-[@bishabosha]: https://github.com/bishabosha
-[@julienrf]: https://github.com/julienrf
-[@markehammons]: https://github.com/markehammons
-[@sjrd]: https://github.com/sjrd
-[@SethTisue]: https://github.com/SethTisue
-[Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
-[scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
-[TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Slinc]: https://github.com/markehammons/slinc/issues
-[Scala Website]: https://github.com/scala/docs.scala-lang
-[sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
+| Project                                                                               | Contact                    |
+| ------------------------------------------------------------------------------------- | -------------------------- |
+| [TASTy Query][TASTy Query] – a library for semantic analysis of Scala programs       | [@bishabosha][@bishabosha] |
+| [Scaladex][Scaladex] — a Scala libraries search engine                               | [@adpi2][@adpi2]           |
+| [Scala Debugger in Metals][Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2][@adpi2]           |
+| Add your project here!                                                                |                            |
+|                                                                                       |                            |
+|                                                                                       |                            |
 
 Who will be leading the Scala Open Source Spree?
 
-- Anatolii Kmetiuk, [@anatoliykmetyuk] (Scala Center)
-
-[@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
+- Anatolii Kmetiuk, [@anatoliykmetyuk][@anatoliykmetyuk] (Scala Center)
 
 Want to add your project to the list? Jump to the next section!
 
@@ -87,8 +63,8 @@ maintainers review PRs as they come, assisting participants when they ask for
 help. We encourage maintainers to merge as many PRs as possible in the place,
 for two reasons:
 
-1.  Participants get a small token of appreciation from the Scala Center.
-2.  It increases the motivation of the participants.
+1. Participants get a small token of appreciation from the Scala Center.
+2. It increases the motivation of the participants.
 
 If participants get the first PR merged, they are invited to continue solving
 issues until they are happy with their work!
@@ -166,3 +142,20 @@ contributors, we recommend you to:
 - Be concise and detail specifics of your project or its implementation.
   Providing this kind of domain knowledge to participants will help them finish
   off their tickets sooner, and move to the next one!
+
+[@adpi2]: https://github.com/adpi2
+[@bishabosha]: https://github.com/bishabosha
+[@julienrf]: https://github.com/julienrf
+[@markehammons]: https://github.com/markehammons
+[@sjrd]: https://github.com/sjrd
+[@SethTisue]: https://github.com/SethTisue
+[Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
+[scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
+[TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Slinc]: https://github.com/markehammons/slinc/issues
+[Scala Website]: https://github.com/scala/docs.scala-lang
+[sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
+[@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
