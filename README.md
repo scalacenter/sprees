@@ -36,6 +36,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [TASTy Query][TASTy Query] – a library for semantic analysis of Scala programs       | [@bishabosha][@bishabosha] |
 | [Scaladex][Scaladex] — a Scala libraries search engine                               | [@adpi2][@adpi2]           |
 | [Scala Debugger in Metals][Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2][@adpi2]           |
+| [Scala CLI][Scala CLI] —  a command-line tool to interact with the Scala language    | [@lwronski][@lwronski], [@Gedochao][@Gedochao], [@wleczny][@wleczny] |
 | Add your project here!                                                                |                            |
 |                                                                                       |                            |
 |                                                                                       |                            |
@@ -155,7 +156,11 @@ contributors, we recommend you to:
 [TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala CLI]: https://github.com/VirtusLab/scala-cli/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Slinc]: https://github.com/markehammons/slinc/issues
 [Scala Website]: https://github.com/scala/docs.scala-lang
 [sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
 [@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
+[@lwronski]: https://github.com/lwronski
+[@Gedochao]: https://github.com/Gedochao
+[@wleczny]: https://github.com/wleczny
