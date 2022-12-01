@@ -12,18 +12,18 @@ get this awesome t-shirt:
 
 ## Warsaw, Poland. Wednesday, 7th of December 2022
 
-|                    |                                                                                            |
-| ------------------ | ------------------------------------------------------------------------------------------ |
-| Time               | Wednesday, 7th of December 2022, 17:00                                                     |
+|                    |                                                                                                 |
+|--------------------|-------------------------------------------------------------------------------------------------|
+| Time               | Wednesday, 7th of December 2022, 17:00                                                          |
 | Location           | [Giełdowa 1, Warsaw](https://goo.gl/maps/pvyqLmdCpMpLAbWA9) ([Synerise](https://synerise.com/)) |
-| Event Registration | [Meetups](https://www.meetup.com/scalawaw/events/289954415/)                                  |
-| Food               | Pizza and drinks                                                                           |
-| Bring              | Laptop + Power Cord                                                                        |
+| Event Registration | [Meetups](https://www.meetup.com/scalawaw/events/289954415/)                                    |
+| Food               | Pizza and drinks                                                                                |
+| Bring              | Laptop + Power Cord                                                                             |
 
 ### Detailed Schedule
 
 |                  |       |
-| ---------------- | ----- |
+|------------------|-------|
 | Start Time       | 17:00 |
 | End Time, Drinks | 22:00 |
 
@@ -31,15 +31,15 @@ get this awesome t-shirt:
 
 Here is a list of projects that you could contribute to during the spree:
 
-| Project                                                                               | Contact                    |
-| ------------------------------------------------------------------------------------- | -------------------------- |
-| [TASTy Query][TASTy Query] – a library for semantic analysis of Scala programs       | [@bishabosha][@bishabosha] |
-| [Scaladex][Scaladex] — a Scala libraries search engine                               | [@adpi2][@adpi2]           |
-| [Scala Debugger in Metals][Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2][@adpi2]           |
+| Project                                                                              | Contact                                                              |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [TASTy Query][TASTy Query] – a library for semantic analysis of Scala programs       | [@bishabosha][@bishabosha]                                           |
+| [Scaladex][Scaladex] — a Scala libraries search engine                               | [@adpi2][@adpi2]                                                     |
+| [Scala Debugger in Metals][Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2][@adpi2]                                                     |
 | [Scala CLI][Scala CLI] —  a command-line tool to interact with the Scala language    | [@lwronski][@lwronski], [@Gedochao][@Gedochao], [@wleczny][@wleczny] |
-| Add your project here!                                                                |                            |
-|                                                                                       |                            |
-|                                                                                       |                            |
+| Add your project here!                                                               |                                                                      |
+|                                                                                      |                                                                      |
+|                                                                                      |                                                                      |
 
 Who will be leading the Scala Open Source Spree?
 
