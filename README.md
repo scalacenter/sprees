@@ -37,6 +37,9 @@ Here is a list of projects that you could contribute to during the spree:
 | [Scaladex][Scaladex] — a Scala libraries search engine                               | [@adpi2][@adpi2]                                                     |
 | [Scala Debugger in Metals][Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2][@adpi2]                                                     |
 | [Scala CLI][Scala CLI] —  a command-line tool to interact with the Scala language    | [@lwronski][@lwronski], [@Gedochao][@Gedochao], [@wleczny][@wleczny] |
+| [Metals][Metals] — Scala LSP server                                                  | [@tgodzik][@tgodzik]                                                 |
+| [Mdoc][Mdoc] — Typechecked markdown documentation for Scala                          | [@tgodzik][@tgodzik]                                                 |
+| [Scalameta][Scalameta] — Scala parser and semanticdb generation                      | [@tgodzik][@tgodzik]                                                 |
 | Add your project here!                                                               |                                                                      |
 |                                                                                      |                                                                      |
 |                                                                                      |                                                                      |
@@ -150,6 +153,7 @@ contributors, we recommend you to:
 [@markehammons]: https://github.com/markehammons
 [@sjrd]: https://github.com/sjrd
 [@SethTisue]: https://github.com/SethTisue
+[@tgodzik]: https://github.com/tgodzik
 [Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
 [scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
@@ -161,6 +165,9 @@ contributors, we recommend you to:
 [Scala Website]: https://github.com/scala/docs.scala-lang
 [sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
 [@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
+[Metals]: https://github.com/scalameta/metals/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
+[Mdoc]: https://github.com/scalameta/mdoc/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
+[Scalameta]: https://github.com/scalameta/scalameta/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
 [@lwronski]: https://github.com/lwronski
 [@Gedochao]: https://github.com/Gedochao
 [@wleczny]: https://github.com/wleczny
