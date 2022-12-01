@@ -41,6 +41,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [Mdoc][Mdoc] — Typechecked markdown documentation for Scala                          | [@tgodzik][@tgodzik]                                                 |
 | [Scalameta][Scalameta] — Scala parser and semanticdb generation                      | [@tgodzik][@tgodzik]                                                 |
 | [sttp][sttp] — The Scala HTTP client that you always wanted!                         | [@Pask423][@Pask423]                                                 |
+| [kebs][kebs] — a Scala library to eliminate boilerplate                              | [@luksow][@luksow]                                                   |
 | Add your project here!                                                               |                                                                      |
 
 Who will be leading the Scala Open Source Spree?
@@ -152,6 +153,7 @@ contributors, we recommend you to:
 [@markehammons]: https://github.com/markehammons
 [@sjrd]: https://github.com/sjrd
 [@SethTisue]: https://github.com/SethTisue
+[@luksow]: https://github.com/luksow
 [@Pask423]: https://github.com/Pask423
 [@tgodzik]: https://github.com/tgodzik
 [Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
@@ -165,6 +167,7 @@ contributors, we recommend you to:
 [Slinc]: https://github.com/markehammons/slinc/issues
 [Scala Website]: https://github.com/scala/docs.scala-lang
 [sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
+[kebs]: https://github.com/theiterators/kebs
 [@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
 [Metals]: https://github.com/scalameta/metals/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
 [Mdoc]: https://github.com/scalameta/mdoc/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
