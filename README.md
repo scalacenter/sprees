@@ -40,9 +40,8 @@ Here is a list of projects that you could contribute to during the spree:
 | [Metals][Metals] — Scala LSP server                                                  | [@tgodzik][@tgodzik]                                                 |
 | [Mdoc][Mdoc] — Typechecked markdown documentation for Scala                          | [@tgodzik][@tgodzik]                                                 |
 | [Scalameta][Scalameta] — Scala parser and semanticdb generation                      | [@tgodzik][@tgodzik]                                                 |
+| [sttp][sttp] — The Scala HTTP client that you always wanted!                         | [@Pask423][@Pask423]                                                 |
 | Add your project here!                                                               |                                                                      |
-|                                                                                      |                                                                      |
-|                                                                                      |                                                                      |
 
 Who will be leading the Scala Open Source Spree?
 
@@ -153,6 +152,7 @@ contributors, we recommend you to:
 [@markehammons]: https://github.com/markehammons
 [@sjrd]: https://github.com/sjrd
 [@SethTisue]: https://github.com/SethTisue
+[@Pask423]: https://github.com/Pask423
 [@tgodzik]: https://github.com/tgodzik
 [Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
@@ -161,6 +161,7 @@ contributors, we recommend you to:
 [Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala CLI]: https://github.com/VirtusLab/scala-cli/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[sttp]: https://github.com/softwaremill/sttp/issues?q=is%3Aissue+is%3Aopen+label%3Aspree-warsaw
 [Slinc]: https://github.com/markehammons/slinc/issues
 [Scala Website]: https://github.com/scala/docs.scala-lang
 [sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
