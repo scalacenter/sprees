@@ -42,6 +42,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [Scalameta][Scalameta] — Scala parser and semanticdb generation                      | [@tgodzik][@tgodzik]                                                 |
 | [sttp][sttp] — The Scala HTTP client that you always wanted!                         | [@Pask423][@Pask423]                                                 |
 | [kebs][kebs] — a Scala library to eliminate boilerplate                              | [@luksow][@luksow]                                                   |
+| [magnolia][magnolia] — fast and friendly typeclass derivation for Scala              | [@micsza][@micsza]                                                   |
 | Add your project here!                                                               |                                                                      |
 
 Who will be leading the Scala Open Source Spree?
@@ -156,6 +157,7 @@ contributors, we recommend you to:
 [@luksow]: https://github.com/luksow
 [@Pask423]: https://github.com/Pask423
 [@tgodzik]: https://github.com/tgodzik
+[@micsza]: https://github.com/micsza
 [Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
 [scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
@@ -164,6 +166,7 @@ contributors, we recommend you to:
 [Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala CLI]: https://github.com/VirtusLab/scala-cli/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [sttp]: https://github.com/softwaremill/sttp/issues?q=is%3Aissue+is%3Aopen+label%3Aspree-warsaw
+[magnolia]: https://github.com/softwaremill/magnolia/issues?q=is%3Aissue+is%3Aopen+label%3Awarsaw-spree
 [Slinc]: https://github.com/markehammons/slinc/issues
 [Scala Website]: https://github.com/scala/docs.scala-lang
 [sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
