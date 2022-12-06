@@ -164,7 +164,7 @@ contributors, we recommend you to:
 [TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 [Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-[Scala CLI]: https://github.com/VirtusLab/scala-cli/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala CLI]: https://github.com/VirtusLab/scala-cli/issues?q=is%3Aissue+is%3Aopen+label%3A%22Warsaw+Scala+Spree%22
 [sttp]: https://github.com/softwaremill/sttp/issues?q=is%3Aissue+is%3Aopen+label%3Aspree-warsaw
 [magnolia]: https://github.com/softwaremill/magnolia/issues?q=is%3Aissue+is%3Aopen+label%3Awarsaw-spree
 [Slinc]: https://github.com/markehammons/slinc/issues
