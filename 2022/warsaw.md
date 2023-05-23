@@ -4,51 +4,52 @@ The focus of Scala Sprees is to introduce newcomers and veterans alike to open
 source! Come meet contributors of well-known open source Scala projects and
 learn how you can make your own contribution.
 
-We have TWO sprees panned for June 2023 in Seattle and San Francisco!
-
 **Your challenge?** Get one pull request merged into one of the projects, and
 get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
-## Seattle, USA. Wednesday, 7th of December 2022
+[![Join the chat at https://gitter.im/scalacenter/sprees](https://badges.gitter.im/scalacenter/sprees.svg)](https://gitter.im/scalacenter/sprees?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+## Warsaw, Poland. Wednesday, 7th of December 2022
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
-| Time               | Monday, 5th of June 2023, 13:30-17:00                                                           |
-| Location           | [Bell Harbor International Conference Center](https://scaladays.org/seattle-2023/the-venue), Co-located with the Scala Days conference |
-| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
+| Time               | Wednesday, 7th of December 2022, 17:00                                                          |
+| Location           | [Giełdowa 1, Warsaw](https://goo.gl/maps/pvyqLmdCpMpLAbWA9) ([Synerise](https://synerise.com/)) |
+| Event Registration | [Meetups](https://www.meetup.com/scalawaw/events/289954415/)                                    |
+| Food               | Pizza and drinks                                                                                |
 | Bring              | Laptop + Power Cord                                                                             |
 
-### Projects
+### Detailed Schedule
 
-Here is a list of projects that you could contribute to during the spree. If you are a maintainer of an OSS project and would like to mentor someone during the Spree, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
+|                  |       |
+|------------------|-------|
+| Start Time       | 17:00 |
+| End Time, Drinks | 22:00 |
+
+### Projects (**Maintainers: Please add your project here!**)
+
+Here is a list of projects that you could contribute to during the spree:
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [@bishabosha](https://github.com/bishabosha) |
-| [The Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter) |
+| [TASTy Query][TASTy Query] – a library for semantic analysis of Scala programs       | [@bishabosha][@bishabosha]                                           |
+| [Scaladex][Scaladex] — a Scala libraries search engine                               | [@adpi2][@adpi2]                                                     |
+| [Scala Debugger in Metals][Scala Debugger in Metals] — a debugger for Scala programs | [@adpi2][@adpi2]                                                     |
+| [Scala CLI][Scala CLI] —  a command-line tool to interact with the Scala language    | [@lwronski][@lwronski], [@Gedochao][@Gedochao], [@wleczny][@wleczny] |
+| [Metals][Metals] — Scala LSP server                                                  | [@tgodzik][@tgodzik]                                                 |
+| [Mdoc][Mdoc] — Typechecked markdown documentation for Scala                          | [@tgodzik][@tgodzik]                                                 |
+| [Scalameta][Scalameta] — Scala parser and semanticdb generation                      | [@tgodzik][@tgodzik]                                                 |
+| [sttp][sttp] — The Scala HTTP client that you always wanted!                         | [@Pask423][@Pask423]                                                 |
+| [kebs][kebs] — a Scala library to eliminate boilerplate                              | [@luksow][@luksow]                                                   |
+| [magnolia][magnolia] — fast and friendly typeclass derivation for Scala              | [@micsza][@micsza]                                                   |
+| Add your project here!                                                               |                                                                      |
 
-## San Francisco, USA. Wednesday, 7th of December 2022
+Who will be leading the Scala Open Source Spree?
 
-The exact time and place are not confirmed yet – stay tuned on the Scala Center communication channels for more updates,
-and register nontheless if the location and tentative times work for you.
+- Anatolii Kmetiuk, [@anatoliykmetyuk][@anatoliykmetyuk] (Scala Center)
 
-|                    |                                                                                                 |
-|--------------------|-------------------------------------------------------------------------------------------------|
-| Time               | TBD, 9th June at 17:00-21:00 or 10th June at 09:00-13:00 |
-| Location           | TBD, San Francisco |
-| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
-| Bring              | Laptop + Power Cord                                                                             |
-
-### Projects
-
-Here is a list of projects that you could contribute to during the spree. If you are a maintainer of an OSS project and would like to mentor someone during the Spree, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
-
-| Project                                                                              | Contact                                                              |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [@bishabosha](https://github.com/bishabosha) |
-| [The Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter) |
-
+Want to add your project to the list? Jump to the next section!
 
 ## Duration, pace steps
 
@@ -82,7 +83,7 @@ the end, everyone starts to wrap up: participants finish their PRs while
 maintainers finish their review, and organizers of the spree give away Scala
 t-shirts. We finish by thanking your hard work for open-source.
 
-## For Maintainers
+## For Maintainers:
 
 ### How to propose a project
 
@@ -95,8 +96,8 @@ There is only one requirement to submit a project -- you need to be present for
 the duration of the Scala Center spree. Your physical presence is important to
 assist and motivate contributors.
 
-If you are a maintainer of an open-source Scala project, fill in the registration
-[form](https://airtable.com/shrwSI11zJHmh7CkZ) and we will get in touch with you.
+If you are a maintainer of an open-source Scala project, make a PR to add your
+project to the list!
 
 ### What you need to do
 
@@ -146,3 +147,34 @@ contributors, we recommend you to:
 - Be concise and detail specifics of your project or its implementation.
   Providing this kind of domain knowledge to participants will help them finish
   off their tickets sooner, and move to the next one!
+
+[@adpi2]: https://github.com/adpi2
+[@bishabosha]: https://github.com/bishabosha
+[@julienrf]: https://github.com/julienrf
+[@markehammons]: https://github.com/markehammons
+[@sjrd]: https://github.com/sjrd
+[@SethTisue]: https://github.com/SethTisue
+[@luksow]: https://github.com/luksow
+[@Pask423]: https://github.com/Pask423
+[@tgodzik]: https://github.com/tgodzik
+[@micsza]: https://github.com/micsza
+[Scala 2]: https://github.com/scala/bug/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala 3]: https://github.com/lampepfl/dotty/issues?q=is%3Aopen+label%3ASpree+sort%3Aupdated-desc
+[scala-collection-compat]: https://github.com/scala/scala-collection-compat/labels/good%20first%20issue
+[TASTy Query]: https://github.com/scalacenter/tasty-query/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scaladex]: https://github.com/scalacenter/scaladex/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala Debugger in Metals]: https://github.com/scalacenter/scala-debug-adapter/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[Scala CLI]: https://github.com/VirtusLab/scala-cli/issues?q=is%3Aissue+is%3Aopen+label%3A%22Warsaw+Scala+Spree%22
+[sttp]: https://github.com/softwaremill/sttp/issues?q=is%3Aissue+is%3Aopen+label%3Aspree-warsaw
+[magnolia]: https://github.com/softwaremill/magnolia/issues?q=is%3Aissue+is%3Aopen+label%3Awarsaw-spree
+[Slinc]: https://github.com/markehammons/slinc/issues
+[Scala Website]: https://github.com/scala/docs.scala-lang
+[sbt-version-policy]: https://github.com/scalacenter/sbt-version-policy
+[kebs]: https://github.com/theiterators/kebs
+[@anatoliykmetyuk]: https://github.com/anatoliykmetyuk
+[Metals]: https://github.com/scalameta/metals/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
+[Mdoc]: https://github.com/scalameta/mdoc/issues?q=is%3Aissue+is%3Aopen+label%3Aspree
+[Scalameta]: https://github.com/scalameta/scalameta/issues?q=is%3Aopen+is%3Aissue+label%3Aspree
+[@lwronski]: https://github.com/lwronski
+[@Gedochao]: https://github.com/Gedochao
+[@wleczny]: https://github.com/wleczny
