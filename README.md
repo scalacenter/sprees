@@ -16,12 +16,12 @@ get this awesome t-shirt:
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | Monday, 5th of June 2023, 13:30-17:00                                                           |
 | Location           | [Bell Harbor International Conference Center](https://scaladays.org/seattle-2023/the-venue), Co-located with the Scala Days conference |
-| Event Registration | TODO                                    |
+| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | Laptop + Power Cord                                                                             |
 
 ### Projects
 
-Here is a list of projects that you could contribute to during the spree. If you are a maintainer of an OSS project and would like to mentor someone during the Spree, please fill in the [form](TODO), indicating that you would like to be a mentor.
+Here is a list of projects that you could contribute to during the spree. If you are a maintainer of an OSS project and would like to mentor someone during the Spree, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -30,16 +30,19 @@ Here is a list of projects that you could contribute to during the spree. If you
 
 ## San Francisco, USA. Wednesday, 7th of December 2022
 
+The exact time and place are not confirmed yet – stay tuned on the Scala Center communication channels for more updates,
+and register nontheless if the location and tentative times work for you.
+
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | TBD, 9th June at 17:00-21:00 or 10th June at 09:00-13:00 |
-| Location           | TBD |
-| Event Registration | TODO                                    |
+| Location           | TBD, San Francisco |
+| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | Laptop + Power Cord                                                                             |
 
 ### Projects
 
-Here is a list of projects that you could contribute to during the spree. If you are a maintainer of an OSS project and would like to mentor someone during the Spree, please fill in the [form](TODO), indicating that you would like to be a mentor.
+Here is a list of projects that you could contribute to during the spree. If you are a maintainer of an OSS project and would like to mentor someone during the Spree, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -93,7 +96,7 @@ the duration of the Scala Center spree. Your physical presence is important to
 assist and motivate contributors.
 
 If you are a maintainer of an open-source Scala project, fill in the registration
-[form](TODO) and we will get in touch with you.
+[form](https://airtable.com/shrwSI11zJHmh7CkZ) and we will get in touch with you.
 
 ### What you need to do
 
