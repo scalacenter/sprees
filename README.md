@@ -30,7 +30,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Scala 2 Compiler](https://github.com/scala/scala) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-library-next](https://github.com/scala/scala-library-next) | [@SethTisue](https://github.com/SethTisue) |
-| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang))
+| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [@SethTisue](https://github.com/SethTisue) |
 
 ## San Francisco, USA. Friday or Saturday, 9th or 10th of June 2023
 
@@ -55,7 +55,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Scala 2 Compiler](https://github.com/scala/scala) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-library-next](https://github.com/scala/scala-library-next) | [@SethTisue](https://github.com/SethTisue) |
-| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang))
+| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [@SethTisue](https://github.com/SethTisue) |
 
 ## Duration, pace steps
 
