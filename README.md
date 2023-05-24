@@ -10,7 +10,7 @@ We have TWO sprees planned for June 2023 in Seattle and San Francisco!
 get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
-## Seattle, USA. Wednesday, 5th of June 2023
+## Seattle, USA. Monday, 5th of June 2023
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
