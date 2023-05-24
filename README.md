@@ -1,16 +1,16 @@
 # Open Source Spree
 
-The focus of Scala Sprees is to introduce newcomers and veterans alike to open
-source! Come meet contributors of well-known open source Scala projects and
+The focus of Scala Sprees is to help newcomers and veterans alike participate
+in open source! Come meet contributors of well-known open source Scala projects and
 learn how you can make your own contribution.
 
-We have TWO sprees panned for June 2023 in Seattle and San Francisco!
+We have TWO sprees planned for June 2023 in Seattle and San Francisco!
 
 **Your challenge?** Get one pull request merged into one of the projects, and
 get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
-## Seattle, USA. Wednesday, 7th of December 2022
+## Seattle, USA. Wednesday, 5th of June 2023
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [@bishabosha](https://github.com/bishabosha) |
 | [The Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter) |
 
-## San Francisco, USA. Wednesday, 7th of December 2022
+## San Francisco, USA. Friday or Saturday, 9th or 10th of June 2023
 
 The exact time and place are not confirmed yet – stay tuned on the Scala Center communication channels for more updates,
 and register nontheless if the location and tentative times work for you.
