@@ -21,7 +21,7 @@ get this awesome t-shirt:
 
 ### Projects
 
-If you are a **maintainer** of an OSS project and would like to mentor someone during the Spree, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
+If you are a **maintainer** of an OSS project and would like to mentor someone during the Spree on your project, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -42,7 +42,7 @@ and register nontheless if the location and tentative times work for you.
 
 ### Projects
 
-If you are a **maintainer** of an OSS project and would like to mentor someone during the Spree, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
+If you are a **maintainer** of an OSS project and would like to mentor someone during the Spree on your project, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
