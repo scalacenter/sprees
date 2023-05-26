@@ -26,7 +26,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [@bishabosha](https://github.com/bishabosha) |
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter), [@SethTisue](https://github.com/SethTisue) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter), [@SethTisue](https://github.com/SethTisue), [@szymon-rd](https://github.com/szymon-rd) |
 | [Scala 2 Compiler](https://github.com/scala/scala) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-library-next](https://github.com/scala/scala-library-next) | [@SethTisue](https://github.com/SethTisue) |
@@ -35,6 +35,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Bloop](https://github.com/scalacenter/bloop) | [@tgodzik](https://github.com/tgodzik) |
 | [Scalameta](https://github.com/scalameta/scalameta) | [@tgodzik](https://github.com/tgodzik) |
 | [Scala CLI](https://github.com/VirtusLab/scala-cli) | [@tgodzik](https://github.com/tgodzik) |
+| [Scala Toolkit](https://github.com/VirtusLab/scala-cli) | [@szymon-rd](https://github.com/szymon-rd) |
 
 ## San Francisco, USA. Friday or Saturday, 9th or 10th of June 2023
 
