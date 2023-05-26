@@ -31,6 +31,10 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-library-next](https://github.com/scala/scala-library-next) | [@SethTisue](https://github.com/SethTisue) |
 | Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [@SethTisue](https://github.com/SethTisue) |
+| [Scala Metals](https://github.com/scalameta/metals) | [@tgodzik](https://github.com/tgodzik) |
+| [Bloop](https://github.com/scalacenter/bloop) | [@tgodzik](https://github.com/tgodzik) |
+| [Scalameta](https://github.com/scalameta/scalameta) | [@tgodzik](https://github.com/tgodzik) |
+| [Scala CLI](https://github.com/VirtusLab/scala-cli) | [@tgodzik](https://github.com/tgodzik) |
 
 ## San Francisco, USA. Friday or Saturday, 9th or 10th of June 2023
 
