@@ -15,7 +15,7 @@ get this awesome t-shirt:
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | Monday, 5th of June 2023, 13:30-17:00                                                           |
-| Location           | [Bell Harbor International Conference Center](https://scaladays.org/seattle-2023/the-venue), Co-located with the Scala Days conference |
+| Location           | [Bell Harbor International Conference Center](https://scaladays.org/seattle-2023/the-venue), Waterlink Suite, Co-located with the Scala Days conference |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | Laptop + Power Cord                                                                             |
 
