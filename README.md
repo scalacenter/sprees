@@ -43,7 +43,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | 9th June at 17:00-21:00 PST                                                                     |
 | Location           | [Tubi TV](https://tubitv.com): 315 Montgomery St, 16th Floor, San Francisco, 94104              |
-| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                               |
+| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                        |
 | Notes              | Registration @Tubi (except employees): [Tubi Entry Form](https://forms.gle/43gFze68K39qoy6n8)   |
 | Bring              | laptop + power cord                                                                             |
 | Questions          | [Alexandros Bantis, Tubi (Avatar engineering)](mailto:abantis@tubi.tv?subject=Scala%20Spree%202023) |
