@@ -42,7 +42,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | 9th June at 17:00-21:00 |
-| Location           | 315 Montgomery St, San Francisco, 94104 |
+| Location           | Tubi Offices, 315 Montgomery St, 16th Floor, San Francisco, 94104 |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | Laptop + Power Cord                                                                             |
 
