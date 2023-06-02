@@ -53,13 +53,13 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [@bishabosha](https://github.com/bishabosha) |
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter), [@SethTisue](https://github.com/SethTisue), [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
-| [Scala 2 Compiler](https://github.com/scala/scala) | [@SethTisue](https://github.com/SethTisue) |
-| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [@SethTisue](https://github.com/SethTisue) |
-| [scala-library-next](https://github.com/scala/scala-library-next) | [@SethTisue](https://github.com/SethTisue) |
-| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [@SethTisue](https://github.com/SethTisue) |
-| [lance](https://github.com/lancedb/lance) -- building JVM bindings for Lance | [Chang She](https://github.com/changhiskhan)
+| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [Jamie Thompson](https://github.com/bishabosha) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [Guillaume Martres](https://github.com/smarter), [Seth Tisue](https://github.com/SethTisue), [Anatolii Kmetiuk](https://github.com/anatoliykmetyuk) |
+| [Scala 2 Compiler](https://github.com/scala/scala) | [Seth Tisue](https://github.com/SethTisue) |
+| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [Seth Tisue](https://github.com/SethTisue) |
+| [scala-library-next](https://github.com/scala/scala-library-next) | [Seth Tisue](https://github.com/SethTisue) |
+| [lance](https://github.com/lancedb/lance) -- needs JVM bindings | [Chang She](https://github.com/changhiskhan)
+| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [Seth Tisue](https://github.com/SethTisue) |
 
 ## Duration, pace steps
 
