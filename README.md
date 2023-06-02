@@ -41,9 +41,10 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
-| Time               | 9th June at 17:00-21:00 |
-| Location           | 315 Montgomery St, San Francisco, 94104 |
-| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
+| Time               | 9th June at 17:00-21:00 PST                                                                     |
+| Location           | [Tubi TV HQ](https://tubitv.com), 315 Montgomery St, 16th Floor, San Francisco, 94104           |
+| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                        |
+| Notes              | Registration @Tubi also required: [Tubi - US Office Guest Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScU-RIAqfBfnQRQAyfYX-eOA_hujkCLJ-jrK_swLv0RfrL5rg/viewform)
 | Bring              | Laptop + Power Cord                                                                             |
 
 ### Projects
@@ -58,6 +59,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [@SethTisue](https://github.com/SethTisue) |
 | [scala-library-next](https://github.com/scala/scala-library-next) | [@SethTisue](https://github.com/SethTisue) |
 | Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [@SethTisue](https://github.com/SethTisue) |
+| [lance](https://github.com/lancedb/lance) -- building JVM bindings for Lance | [Chang She](https://github.com/changhiskhan)
 
 ## Duration, pace steps
 
