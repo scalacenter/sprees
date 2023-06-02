@@ -44,8 +44,8 @@ and register nontheless if the location and tentative times work for you.
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
-| Time               | TBD, 9th June at 17:00-21:00 or 10th June at 09:00-13:00 |
-| Location           | TBD, San Francisco |
+| Time               | 9th June at 17:00-21:00 |
+| Location           | 315 Montgomery St, San Francisco, 94104 |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | Laptop + Power Cord                                                                             |
 
