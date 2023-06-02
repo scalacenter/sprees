@@ -37,10 +37,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Scala CLI](https://github.com/VirtusLab/scala-cli) | [@tgodzik](https://github.com/tgodzik) |
 | [Scala Toolkit](https://github.com/VirtusLab/scala-cli) | [@szymon-rd](https://github.com/szymon-rd) |
 
-## San Francisco, USA. Friday or Saturday, 9th or 10th of June 2023
-
-The exact time and place are not confirmed yet – stay tuned on the Scala Center communication channels for more updates,
-and register nontheless if the location and tentative times work for you.
+## San Francisco, USA. Friday, 9th of June 2023
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
