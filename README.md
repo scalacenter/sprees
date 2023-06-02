@@ -17,7 +17,7 @@ get this awesome t-shirt:
 | Time               | Monday, 5th of June 2023, 13:30-17:00                                                           |
 | Location           | [Bell Harbor International Conference Center](https://scaladays.org/seattle-2023/the-venue), Waterlink Suite, Co-located with the Scala Days conference |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
-| Bring              | Laptop + Power Cord                                                                             |
+| Bring              | laptop + power cord                                                                             |
 
 ### Projects
 
@@ -44,8 +44,8 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | Time               | 9th June at 17:00-21:00 PST                                                                     |
 | Location           | [Tubi TV](https://tubitv.com): 315 Montgomery St, 16th Floor, San Francisco, 94104              |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                        |
-| Notes              | Registration @Tubi also required: [Tubi - US Office Guest Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScU-RIAqfBfnQRQAyfYX-eOA_hujkCLJ-jrK_swLv0RfrL5rg/viewform)
-| Bring              | Laptop + Power Cord                                                                             |
+| Notes              | registration @Tubi also required: [Tubi - US Office Guest Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScU-RIAqfBfnQRQAyfYX-eOA_hujkCLJ-jrK_swLv0RfrL5rg/viewform)
+| Bring              | laptop + power cord                                                                             |
 
 ### Projects
 
@@ -68,20 +68,20 @@ to briefly explain their projects and tickets in one minute. The idea is to give
 a good high-level explanation to motivate participants without going into too
 much detail. A link to this page is provided.
 
-When they are done, participants approach the projects they are most interested
-in and get it contact with the maintainers. At this point, maintainers usually
-listen to the participants' experience and provide personal guidance on tickets
-that would suit them.
+When they are done, participants approach the projects they are most
+interested in and speak with the maintainers. Maintainers can listen
+to the participants' experience and provide guidance on what tickets
+would suit them.
 
 Then, the fun begins! Participants start hacking on their projects and
 maintainers review PRs as they come, assisting participants when they ask for
-help. We encourage maintainers to merge as many PRs as possible in the place,
+help. We encourage maintainers to merge as many PRs on the spot if possible,
 for two reasons:
 
 1. Participants get a small token of appreciation from the Scala Center.
 2. It increases the motivation of the participants.
 
-If participants get the first PR merged, they are invited to continue solving
+If a participant gets their first PR merged, they are invited to continue solving
 issues until they are happy with their work!
 
 At the middle of the spree, the Scala Center and sponsors of the event provide
@@ -99,7 +99,7 @@ t-shirts. We finish by thanking your hard work for open-source.
 
 A Scala Center spree is the perfect event to gauge interest in your open-source
 projects. You not only have the opportunity to get new contributors involved in
-your project, but you can win friends and lifetime maintainers that help you
+your project, but you can make friends and co-maintainers that help you
 make a difference in the open-source world.
 
 There is only one requirement to submit a project -- you need to be present for
