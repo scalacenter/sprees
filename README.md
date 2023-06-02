@@ -46,7 +46,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                        |
 | Notes              | Registration @Tubi (except employees): [Tubi Entry Form](https://forms.gle/43gFze68K39qoy6n8)   |
 | Bring              | Laptop + Power Cord                                                                             |
-| Questions          | [Alexandros Bantis](mailto:abantis@tubi.tv?subject=Scala%20Spree%202023)
+| Questions          | [Alexandros Bantis, Tubi (Avatar engineering)](mailto:abantis@tubi.tv?subject=Scala%20Spree%202023)
 
 ### Projects
 
