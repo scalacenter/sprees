@@ -17,7 +17,7 @@ get this awesome t-shirt:
 | Time               | Monday, 5th of June 2023, 13:30-17:00                                                           |
 | Location           | [Bell Harbor International Conference Center](https://scaladays.org/seattle-2023/the-venue), Waterlink Suite, Co-located with the Scala Days conference |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
-| Bring              | Laptop + Power Cord                                                                             |
+| Bring              | laptop + power cord                                                                             |
 
 ### Projects
 
@@ -25,17 +25,17 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [@bishabosha](https://github.com/bishabosha) |
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter), [@SethTisue](https://github.com/SethTisue), [@szymon-rd](https://github.com/szymon-rd), [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
-| [Scala 2 Compiler](https://github.com/scala/scala) | [@SethTisue](https://github.com/SethTisue) |
-| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [@SethTisue](https://github.com/SethTisue) |
-| [scala-library-next](https://github.com/scala/scala-library-next) | [@SethTisue](https://github.com/SethTisue) |
-| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [@SethTisue](https://github.com/SethTisue) |
-| [Scala Metals](https://github.com/scalameta/metals) | [@tgodzik](https://github.com/tgodzik) |
-| [Bloop](https://github.com/scalacenter/bloop) | [@tgodzik](https://github.com/tgodzik) |
-| [Scalameta](https://github.com/scalameta/scalameta) | [@tgodzik](https://github.com/tgodzik) |
-| [Scala CLI](https://github.com/VirtusLab/scala-cli) | [@tgodzik](https://github.com/tgodzik) |
-| [Scala Toolkit](https://github.com/VirtusLab/scala-cli) | [@szymon-rd](https://github.com/szymon-rd) |
+| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | Jamie Thompson [@bishabosha](https://github.com/bishabosha) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | Guillaume Martres [@smarter](https://github.com/smarter), Seth Tisue [@SethTisue](https://github.com/SethTisue), Szymon Rodziewicz [@szymon-rd](https://github.com/szymon-rd), Anatolii Kmetiuk [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
+| [Scala 2 Compiler](https://github.com/scala/scala) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
+| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
+| [scala-library-next](https://github.com/scala/scala-library-next) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
+| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
+| [Scala Metals](https://github.com/scalameta/metals) | Tomasz Godzik [@tgodzik](https://github.com/tgodzik) |
+| [Bloop](https://github.com/scalacenter/bloop) | Tomasz Godzik [@tgodzik](https://github.com/tgodzik) |
+| [Scalameta](https://github.com/scalameta/scalameta) | Tomasz Godzik [@tgodzik](https://github.com/tgodzik) |
+| [Scala CLI](https://github.com/VirtusLab/scala-cli) | Tomasz Godzik [@tgodzik](https://github.com/tgodzik) |
+| [Scala Toolkit](https://github.com/VirtusLab/scala-cli) | Szymon Rodziewicz [@szymon-rd](https://github.com/szymon-rd) |
 
 ## San Francisco, USA. Friday, 9th of June 2023
 
@@ -43,10 +43,10 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | 9th June at 17:00-21:00 PST                                                                     |
 | Location           | [Tubi TV](https://tubitv.com): 315 Montgomery St, 16th Floor, San Francisco, 94104              |
-| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                        |
+| Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                               |
 | Notes              | Registration @Tubi (except employees): [Tubi Entry Form](https://forms.gle/43gFze68K39qoy6n8)   |
-| Bring              | Laptop + Power Cord                                                                             |
-| Questions          | [Alexandros Bantis, Tubi (Avatar engineering)](mailto:abantis@tubi.tv?subject=Scala%20Spree%202023)
+| Bring              | laptop + power cord                                                                             |
+| Questions          | [Alexandros Bantis, Tubi (Avatar engineering)](mailto:abantis@tubi.tv?subject=Scala%20Spree%202023) |
 
 ### Projects
 
@@ -54,13 +54,13 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | [Jamie Thompson](https://github.com/bishabosha) |
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [Guillaume Martres](https://github.com/smarter), [Seth Tisue](https://github.com/SethTisue), [Anatolii Kmetiuk](https://github.com/anatoliykmetyuk) |
-| [Scala 2 Compiler](https://github.com/scala/scala) | [Seth Tisue](https://github.com/SethTisue) |
-| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | [Seth Tisue](https://github.com/SethTisue) |
-| [scala-library-next](https://github.com/scala/scala-library-next) | [Seth Tisue](https://github.com/SethTisue) |
-| [lance](https://github.com/lancedb/lance) -- needs JVM bindings | [Chang She](https://github.com/changhiskhan) |
-| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | [Seth Tisue](https://github.com/SethTisue) |
+| [lance](https://github.com/lancedb/lance) -- needs JVM bindings | Chang She [@changhiskhan](https://github.com/changhiskhan) |
+| [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | Jamie Thompson [@bishabosha](https://github.com/bishabosha) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | Guillaume Martres[@smarter](https://github.com/smarter), Seth Tisue [@SethTisue](https://github.com/SethTisue), Anatolii Kmetiuk [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
+| [Scala 2 Compiler](https://github.com/scala/scala) | Seth Tisue[@SethTisue](https://github.com/SethTisue) |
+| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | Seth Tisue[@SethTisue](https://github.com/SethTisue) |
+| [scala-library-next](https://github.com/scala/scala-library-next) | Seth Tisue[@SethTisue](https://github.com/SethTisue) |
+| Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
 
 ## Duration, pace steps
 
@@ -69,20 +69,20 @@ to briefly explain their projects and tickets in one minute. The idea is to give
 a good high-level explanation to motivate participants without going into too
 much detail. A link to this page is provided.
 
-When they are done, participants approach the projects they are most interested
-in and get it contact with the maintainers. At this point, maintainers usually
-listen to the participants' experience and provide personal guidance on tickets
-that would suit them.
+When they are done, participants approach the projects they are most
+interested in and speak with the maintainers. Maintainers can listen
+to the participants' experience and provide guidance on what tickets
+would suit them.
 
 Then, the fun begins! Participants start hacking on their projects and
 maintainers review PRs as they come, assisting participants when they ask for
-help. We encourage maintainers to merge as many PRs as possible in the place,
+help. We encourage maintainers to merge as many PRs on the spot if possible,
 for two reasons:
 
 1. Participants get a small token of appreciation from the Scala Center.
 2. It increases the motivation of the participants.
 
-If participants get the first PR merged, they are invited to continue solving
+If a participant gets their first PR merged, they are invited to continue solving
 issues until they are happy with their work!
 
 At the middle of the spree, the Scala Center and sponsors of the event provide
@@ -100,7 +100,7 @@ t-shirts. We finish by thanking your hard work for open-source.
 
 A Scala Center spree is the perfect event to gauge interest in your open-source
 projects. You not only have the opportunity to get new contributors involved in
-your project, but you can win friends and lifetime maintainers that help you
+your project, but you can make friends and co-maintainers that help you
 make a difference in the open-source world.
 
 There is only one requirement to submit a project -- you need to be present for
