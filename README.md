@@ -39,11 +39,11 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 
 | Jamie Thompson | Guillaume Martres | Anatolii Kmetiuk |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|-|-|-|
 | <img src="https://scala.epfl.ch/resources/img/jamiethompson.png"> | <img src="https://scala.epfl.ch/resources/img/guillaume-martres.jpg"> | <img src="https://scala.epfl.ch/resources/img/toli.png"> |
 
 | Seth Tisue | Szymon Rodziewicz | Tomasz Godzik |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|-|-|-|
 | <img src="https://i.imgur.com/ubdDky1.jpg" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/4761866" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/3807253" height="150" width="150"> |
 
 ## San Francisco, USA. Friday, 9th of June 2023
@@ -72,7 +72,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
 
 | Chang She | Guillaume Martres | Anatolii Kmetiuk | Seth Tisue |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|-|-|-|-|
 | <img src="https://avatars.githubusercontent.com/u/759245" height="150" width="150"> | <img src="https://scala.epfl.ch/resources/img/guillaume-martres.jpg"> | <img src="https://scala.epfl.ch/resources/img/toli.png"> | <img src="https://i.imgur.com/ubdDky1.jpg" height="150" width="150"> |
 
 ## Duration, pace steps
