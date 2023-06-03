@@ -37,6 +37,15 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Scala CLI](https://github.com/VirtusLab/scala-cli) | Tomasz Godzik [@tgodzik](https://github.com/tgodzik) |
 | [Scala Toolkit](https://github.com/VirtusLab/scala-cli) | Szymon Rodziewicz [@szymon-rd](https://github.com/szymon-rd) |
 
+
+| Jamie Thompson | Guillaume Martres | Anatolii Kmetiuk |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| <img src="https://scala.epfl.ch/resources/img/jamiethompson.png"> | <img src="https://scala.epfl.ch/resources/img/guillaume-martres.jpg"> | <img src="https://scala.epfl.ch/resources/img/toli.png"> |
+
+| Seth Tisue | Szymon Rodziewicz | Tomasz Godzik |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| <img src="https://i.imgur.com/ubdDky1.jpg" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/4761866" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/3807253" height="150" width="150"> |
+
 ## San Francisco, USA. Friday, 9th of June 2023
 
 |                    |                                                                                                 |
@@ -56,11 +65,15 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | [lance](https://github.com/lancedb/lance) -- needs JVM bindings | Chang She [@changhiskhan](https://github.com/changhiskhan) |
 | [Scala Compose](https://github.com/virtuslab/scala-compose) – a tool to enable multi-modular projects for Scala CLI. | Jamie Thompson [@bishabosha](https://github.com/bishabosha) |
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | Guillaume Martres[@smarter](https://github.com/smarter), Seth Tisue [@SethTisue](https://github.com/SethTisue), Anatolii Kmetiuk [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
-| [Scala 2 Compiler](https://github.com/scala/scala) | Seth Tisue[@SethTisue](https://github.com/SethTisue) |
-| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | Seth Tisue[@SethTisue](https://github.com/SethTisue) |
-| [scala-library-next](https://github.com/scala/scala-library-next) | Seth Tisue[@SethTisue](https://github.com/SethTisue) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | Guillaume Martres [@smarter](https://github.com/smarter), Seth Tisue [@SethTisue](https://github.com/SethTisue), Anatolii Kmetiuk [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
+| [Scala 2 Compiler](https://github.com/scala/scala) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
+| [scala-collection-compat](https://github.com/scala/scala-collection-compat) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
+| [scala-library-next](https://github.com/scala/scala-library-next) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
 | Scala websites ([scala-lang](https://github.com/scala/scala-lang), [docs.scala-lang](https://github.com/scala/docs.scala-lang)) | Seth Tisue [@SethTisue](https://github.com/SethTisue) |
+
+| Chang She | Guillaume Martres | Anatolii Kmetiuk | Seth Tisue |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| <img src="https://avatars.githubusercontent.com/u/759245" height="150" width="150"> | <img src="https://scala.epfl.ch/resources/img/guillaume-martres.jpg"> | <img src="https://scala.epfl.ch/resources/img/toli.png"> | <img src="https://i.imgur.com/ubdDky1.jpg" height="150" width="150"> |
 
 ## Duration, pace steps
 
