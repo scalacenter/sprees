@@ -25,6 +25,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 | Project                                                                              | Contact                                                              |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter) |
 | TBD | |
 
 <!--
