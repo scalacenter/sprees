@@ -23,9 +23,11 @@ get this awesome t-shirt:
 
 If you are a **maintainer** of an OSS project and would like to mentor someone during the Spree on your project, please fill in the [form](https://airtable.com/shrwSI11zJHmh7CkZ), indicating that you would like to be a mentor.
 
-| Project                                                                              | Contact                                                              |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | [@smarter](https://github.com/smarter) |
+| Project                                                                              |Description | Contact                                                              |
+|--------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
+| [docs.scala-lang.org](https://github.com/scala/docs.scala-lang) | scala 3 additions, new material, restructuring, translations | [@bishabosha](https://github.com/bishabosha) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, error messages, features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha) |
+| [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
 | TBD | |
 
 <!--
