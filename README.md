@@ -26,7 +26,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | Project                                                                              |Description | Contact                                                              |
 |--------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
 | [docs.scala-lang.org](https://github.com/scala/docs.scala-lang) | scala 3 additions, new material, restructuring, translations | [@bishabosha](https://github.com/bishabosha) |
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, error messages, features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, semanticdb, parsing, error messages, new features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha) |
 | [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
 | TBD | |
 
