@@ -4,7 +4,7 @@ The focus of Scala Sprees is to help newcomers and veterans alike participate
 in open source! Come meet contributors of well-known open source Scala projects and
 learn how you can make your own contribution.
 
-We have TWO sprees planned for June 2023 in Seattle and San Francisco!
+The next spree is planned for September 2023 in Madrid.
 
 **Your challenge?** Get one pull request merged into one of the projects, and
 get this awesome t-shirt:
