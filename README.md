@@ -31,6 +31,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Scala's Advent of Code](https://github.com/scalacenter/scala-advent-of-code)| contribute solutions and explanations for 2022, 2021 and earlier | [@bishabosha](https://github.com/bishabosha) |
 | [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, semanticdb, parsing, error messages, new features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha), [@dwijnand](https://github.com/dwijnand) |
 | [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
+| [Scala Debug Adapter](https://github.com/scalacenter/scala-debug-adapter) | VS Code debugger for Scala | [@iusildra](https://github.com/iusildra)
 
 <!--
 | Jamie Thompson | Guillaume Martres | Anatolii Kmetiuk |
