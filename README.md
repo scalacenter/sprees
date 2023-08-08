@@ -32,6 +32,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, semanticdb, parsing, error messages, new features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha), [@dwijnand](https://github.com/dwijnand), [@SethTisue](https://github.com/SethTisue) |
 | [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
 | [all scala/* repos](https://github.com/scala) | any of the Scala org's repos that interest you, I can help with | [@SethTisue](https://github.com/SethTisue) |
+| [Scala Debug Adapter](https://github.com/scalacenter/scala-debug-adapter) | VS Code debugger for Scala | [@iusildra](https://github.com/iusildra)
 
 <!--
 | Jamie Thompson | Guillaume Martres | Anatolii Kmetiuk |
