@@ -4,7 +4,7 @@ The focus of Scala Sprees is to help newcomers and veterans alike participate
 in open source! Come meet contributors of well-known open source Scala projects and
 learn how you can make your own contribution.
 
-We have TWO sprees planned for June 2023 in Seattle and San Francisco!
+The next spree is planned for September 2023 in Madrid.
 
 **Your challenge?** Get one pull request merged into one of the projects, and
 get this awesome t-shirt:
@@ -25,19 +25,20 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 | Project                                                                              |Description | Contact                                                              |
 |--------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
-| [docs.scala-lang.org](https://github.com/scala/docs.scala-lang) | scala 3 additions, new material, restructuring, translations | [@bishabosha](https://github.com/bishabosha) |
+| [docs.scala-lang.org](https://github.com/scala/docs.scala-lang) | Scala 3 additions, new material, restructuring, translations | [@bishabosha](https://github.com/bishabosha), [@SethTisue](https://github.com/SethTisue) |
 | [The Scala Toolkit](https://github.com/scala/toolkit) | Tookit introduces libraries for everyday tasks in Scala! We are in round 2 of selecting candidates | [@bishabosha](https://github.com/bishabosha) |
 | [Doric](https://github.com/hablapps/doric)| Type safe Spark columns | [@alfonsorr](https://github.com/alfonsorr) |
 | [Scala's Advent of Code](https://github.com/scalacenter/scala-advent-of-code)| contribute solutions and explanations for 2022, 2021 and earlier | [@bishabosha](https://github.com/bishabosha) |
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, semanticdb, parsing, error messages, new features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha), [@dwijnand](https://github.com/dwijnand) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, semanticdb, parsing, error messages, new features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha), [@dwijnand](https://github.com/dwijnand), [@SethTisue](https://github.com/SethTisue) |
 | [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
+| [all scala/* repos](https://github.com/scala) | any of the Scala org's repos that interest you, I can help with | [@SethTisue](https://github.com/SethTisue) |
 
 <!--
 | Jamie Thompson | Guillaume Martres | Anatolii Kmetiuk |
 |-|-|-|
 | <img src="https://scala.epfl.ch/resources/img/jamiethompson.png"> | <img src="https://scala.epfl.ch/resources/img/guillaume-martres.jpg"> | <img src="https://scala.epfl.ch/resources/img/toli.png"> |
 
-| Seth Tisue | Szymon Rodziewicz | Tomasz Godzik |
+| Szymon Rodziewicz | Tomasz Godzik |
 |-|-|-|
 | <img src="https://i.imgur.com/ubdDky1.jpg" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/4761866" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/3807253" height="150" width="150"> | -->
 
