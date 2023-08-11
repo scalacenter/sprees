@@ -12,6 +12,10 @@ get this awesome t-shirt:
 
 ## Madrid, Spain. Monday, 15th of September 2023
 
+We'd like to thank Habla Computing, the functional architecture studio, for hosting the event!
+
+<a href="http://www.hablapps.com/"><img src="habla_computing_logo.png" alt="Habla Computing Logo" width="50%"></a>
+
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | Friday, 15th of September 2023, 13:30-17:00                                                           |
