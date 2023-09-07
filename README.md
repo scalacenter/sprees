@@ -31,7 +31,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 |--------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
 | [docs.scala-lang.org](https://github.com/scala/docs.scala-lang) | Scala 3 additions, new material, restructuring, translations | [@bishabosha](https://github.com/bishabosha), [@SethTisue](https://github.com/SethTisue) |
 | [The Scala Toolkit](https://github.com/scala/toolkit) | Tookit introduces libraries for everyday tasks in Scala! We are in round 2 of selecting candidates | [@bishabosha](https://github.com/bishabosha) |
-| [Doric](https://github.com/hablapps/doric)| Type safe Spark columns | [@alfonsorr](https://github.com/alfonsorr) |
+| [Doric](https://github.com/hablapps/doric)| Type safe Spark columns | [@alfonsorr](https://github.com/alfonsorr), [@eruizalo](https://github.com/eruizalo) |
 | [Scala's Advent of Code](https://github.com/scalacenter/scala-advent-of-code)| contribute solutions and explanations for 2022, 2021 and earlier | [@bishabosha](https://github.com/bishabosha) |
 | [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, semanticdb, parsing, error messages, new features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha), [@SethTisue](https://github.com/SethTisue) |
 | [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
