@@ -37,6 +37,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
 | [all scala/* repos](https://github.com/scala) | any of the Scala org's repos that interest you, I can help with | [@SethTisue](https://github.com/SethTisue) |
 | [Scala Debug Adapter](https://github.com/scalacenter/scala-debug-adapter) | VS Code debugger for Scala | [@iusildra](https://github.com/iusildra)
+| [Scala Metals](https://github.com/scalameta/metals) | Scala language server with rich IDE feature | [@tanishiking](https://github.com/tanishiking)
 
 <!--
 | Jamie Thompson | Guillaume Martres | Anatolii Kmetiuk |
