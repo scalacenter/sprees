@@ -10,7 +10,7 @@ The next spree is planned for September 2023 in Madrid.
 get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
-## Madrid, Spain. Monday, 15th of September 2023
+## Madrid, Spain. Friday, 15th of September 2023
 
 We'd like to thank Habla Computing, the functional architecture studio, for hosting the event!
 
