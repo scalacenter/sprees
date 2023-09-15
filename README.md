@@ -19,7 +19,7 @@ We'd like to thank Habla Computing, the functional architecture studio, for host
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
 | Time               | Friday, 15th of September 2023, 13:30-17:00                                                           |
-| Location           | Universidad Rey Juan Carlos – Sede Madrid-Argüelles, C. de Quintana, 21, 28008 Madrid, Spain) |
+| Location           | room 101, Universidad Rey Juan Carlos – Sede Madrid-Argüelles, C. de Quintana, 21, 28008 Madrid, Spain) |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | laptop + power cord                                                                             |
 
