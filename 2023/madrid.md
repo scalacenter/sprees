@@ -4,20 +4,22 @@ The focus of Scala Sprees is to help newcomers and veterans alike participate
 in open source! Come meet contributors of well-known open source Scala projects and
 learn how you can make your own contribution.
 
-The next spree is planned for February 2024 in Nantes, France.
+The next spree is planned for September 2023 in Madrid.
 
 **Your challenge?** Get one pull request merged into one of the projects, and
 get this awesome t-shirt:
 ![](https://pbs.twimg.com/media/CtnCrtvWAAAO0nE.jpg:small)
 
-## Nantes, France. Saturday, 17th of February 2024
+## Madrid, Spain. Monday, 15th of September 2023
 
-We'd like to thank [ScalaIO](https://scala.io/) crew for hosting the event!
+We'd like to thank Habla Computing, the functional architecture studio, for hosting the event!
+
+<a href="http://www.hablapps.com/"><img src="habla_computing_logo.png" alt="Habla Computing Logo" width="50%"></a>
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
-| Time               | Saturday, 17th of February 2024 9:30-13:30                                                           |
-| Location           | Le palace _icilundi, 4 rue voltaire, 44000 Nantes |
+| Time               | Friday, 15th of September 2023, 13:30-17:00                                                           |
+| Location           | Universidad Rey Juan Carlos – Sede Madrid-Argüelles, C. de Quintana, 21, 28008 Madrid, Spain) |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | laptop + power cord                                                                             |
 
@@ -27,7 +29,23 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 
 | Project                                                                              |Description | Contact                                                              |
 |--------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
-| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | Let's explore the compiler together and clean the issue tracker a bit. | [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
+| [docs.scala-lang.org](https://github.com/scala/docs.scala-lang) | Scala 3 additions, new material, restructuring, translations | [@bishabosha](https://github.com/bishabosha), [@SethTisue](https://github.com/SethTisue) |
+| [The Scala Toolkit](https://github.com/scala/toolkit) | Tookit introduces libraries for everyday tasks in Scala! We are in round 2 of selecting candidates | [@bishabosha](https://github.com/bishabosha) |
+| [Doric](https://github.com/hablapps/doric)| Type safe Spark columns | [@alfonsorr](https://github.com/alfonsorr) |
+| [Scala's Advent of Code](https://github.com/scalacenter/scala-advent-of-code)| contribute solutions and explanations for 2022, 2021 and earlier | [@bishabosha](https://github.com/bishabosha) |
+| [Scala 3 Compiler](https://github.com/lampepfl/dotty) | linting, semanticdb, parsing, error messages, new features, etc. | [@smarter](https://github.com/smarter), [@bishabosha](https://github.com/bishabosha), [@dwijnand](https://github.com/dwijnand), [@SethTisue](https://github.com/SethTisue) |
+| [TASTy Query](https://github.com/scalacenter/tasty-query) | static analysis of your classpath and the definitions within | [@bishabosha](https://github.com/bishabosha) |
+| [all scala/* repos](https://github.com/scala) | any of the Scala org's repos that interest you, I can help with | [@SethTisue](https://github.com/SethTisue) |
+| [Scala Debug Adapter](https://github.com/scalacenter/scala-debug-adapter) | VS Code debugger for Scala | [@iusildra](https://github.com/iusildra)
+
+<!--
+| Jamie Thompson | Guillaume Martres | Anatolii Kmetiuk |
+|-|-|-|
+| <img src="https://scala.epfl.ch/resources/img/jamiethompson.png"> | <img src="https://scala.epfl.ch/resources/img/guillaume-martres.jpg"> | <img src="https://scala.epfl.ch/resources/img/toli.png"> |
+
+| Szymon Rodziewicz | Tomasz Godzik |
+|-|-|-|
+| <img src="https://i.imgur.com/ubdDky1.jpg" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/4761866" height="150" width="150"> | <img src="https://avatars.githubusercontent.com/u/3807253" height="150" width="150"> | -->
 
 ## Duration, pace steps
 
