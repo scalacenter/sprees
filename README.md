@@ -16,8 +16,8 @@ We'd like to thank [ScalaIO](https://scala.io/) crew for hosting the event!
 
 |                    |                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------|
-| Time               | Saturday, 17th of February 2024 TODO HH:MM-HH:MM                                                           |
-| Location           | TODO |
+| Time               | Saturday, 17th of February 2024 9:30-13:30                                                           |
+| Location           | Le palace _icilundi, 4 rue voltaire, 44000 Nantes |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                    |
 | Bring              | laptop + power cord                                                                             |
 
