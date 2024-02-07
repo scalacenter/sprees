@@ -28,6 +28,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | Project                                                                              |Description | Contact                                                              |
 |--------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------|
 | [Scala 3 Compiler](https://github.com/lampepfl/dotty) | Let's explore the compiler together and clean the issue tracker a bit. | [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
+| [Scala Advent of Code](https://scalacenter.github.io/scala-advent-of-code/2023/) | Days 21 and 22 still need official solution, which we can work on during the Spree. | [@anatoliykmetyuk](https://github.com/anatoliykmetyuk) |
 | [Pillars](https://github.com/rlemaitre/pillars) | Build your backend service in Scala 3 the easy way | [@rlemaitre](https://github.com/rlemaitre) |
 
 ## Duration, pace steps
