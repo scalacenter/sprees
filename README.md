@@ -86,9 +86,7 @@ Create a PR with the following information:
 - Project information.
 - Your contact details.
 - A link to a "spree" or "hackathon" label with curated tickets for the
-  participants. See
-  [this project](https://github.com/sbt/zinc/issues?utf8=✓&q=label:hackathon%20is:issue)
-  for inspiration.
+  participants. See [this](https://github.com/lampepfl/dotty/issues?q=is%3Aopen+is%3Aissue+label%3ASpree) project for inspiration.
 
 It's important that the curated tickets are entry-level, typical issues that you
 would solve in 15-20 minutes of your time as an experienced maintainer. In our
