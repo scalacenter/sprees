@@ -99,10 +99,10 @@ Maintainers can make a difference by tweaking some knobs:
 
 - Provide a `CONTRIBUTING` guide. Contributing guides explain to newcomers the
   usual workflow to get started and what's expected from them. Good guides:
-  [scala/scala](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md),
-  [sbt/zinc](https://github.com/sbt/zinc/blob/1.x/CONTRIBUTING.md),
-  [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/master/CONTRIBUTING.md),
-  [scalacenter/scalafix](https://github.com/scala/scala/blob/2.12.x/CONTRIBUTING.md).
+  [scala/scala](https://github.com/scala/scala/blob/2.13.x/CONTRIBUTING.md),
+  [sbt/zinc](https://github.com/sbt/zinc/blob/develop/CONTRIBUTING.md),
+  [scalameta/scalameta](https://github.com/scalameta/scalameta/blob/main/CONTRIBUTING.md),
+  [scalacenter/scalafix](https://github.com/scalacenter/scalafix/blob/main/CONTRIBUTING.md).
 - Provide a motivating `README` with clear instructions. Make sure docs are up
   to date.
 - Link to documentation when possible, or show contributors how to search for
